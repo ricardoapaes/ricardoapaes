@@ -5,3 +5,5 @@ Sou desenvolvedor web e gosto de desafios, trabalho maior parte do tempo com PHP
 Sou um sócio na Like Sistemas, empresa desenvolvimento de software fundada em 2006.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=ricardoapaes&show_icons=true&hide_title=false&count_private=true&theme=radical&border_color=000000)
+
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoapaes&layout=compact&langs_count=16&theme=radical&&count_private=true)
