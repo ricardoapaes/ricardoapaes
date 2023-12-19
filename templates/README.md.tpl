@@ -27,15 +27,15 @@
 
 #### 📫 How to reach me | Como chegar até mim
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ricardo-paes-5039ba4b)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-paes-5039ba4b)
 
 #### My Skills | Minhas habilidades
 
 [![My general skills](https://skillicons.dev/icons?i=linux,bash,git,docker,aws,gcp,kubernetes,githubactions,nginx,sentry,vim,vscode)](https://skillicons.dev)
 
-[![My backend skills](https://skillicons.dev/icons?i=php,java,nodejs,go,kotlin,ts,laravel)](https://skillicons.dev)
+[![My backend skills](https://skillicons.dev/icons?i=php,java,nodejs,go,kotlin,ts,laravel,androidstudio)](https://skillicons.dev)
 
-[![My frontend skills](https://skillicons.dev/icons?i=webpack,react,js,html,css,jquery)](https://skillicons.dev)
+[![My frontend skills](https://skillicons.dev/icons?i=webpack,react,angular,js,html,css,jquery)](https://skillicons.dev)
 
 #### My activities | Minhas atividades
 
