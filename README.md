@@ -4,7 +4,7 @@
 
 - [nfephp-org/sped-da](https://github.com/nfephp-org/sped-da) - Classes para geração dos documentos auxiliares usados pelos padrões Sped (1 month ago)
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) - Container Docker que faz o deploy. (1 month ago)
-- [likesistemas/php-dev](https://github.com/likesistemas/php-dev) (1 month ago)
+- [likesistemas/php-dev](https://github.com/likesistemas/php-dev) - PHP container for development. (1 month ago)
 - [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (1 month ago)
 - [ricardoapaes/k6-example](https://github.com/ricardoapaes/k6-example) - Exemplo de uso K6 (1 month ago)
 
@@ -21,7 +21,7 @@
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) ([v1.23.1-alpha.2](https://github.com/pedroslopez/whatsapp-web.js/releases/tag/v1.23.1-alpha.2), 2 days ago) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.2.1](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.2.1), 2 months ago) - Upload files to S3 with tags.
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2023.05](https://github.com/likesistemas/sistema-core/releases/tag/v2023.05), 6 months ago) - Container Docker que faz o deploy.
-- [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2023.05](https://github.com/likesistemas/php-dev/releases/tag/v2023.05), 6 months ago)
+- [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2023.05](https://github.com/likesistemas/php-dev/releases/tag/v2023.05), 6 months ago) - PHP container for development.
 - [likesistemas/php](https://github.com/likesistemas/php) ([v2023.05](https://github.com/likesistemas/php/releases/tag/v2023.05), 6 months ago) - Container Docker em PHP-FPM 
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
