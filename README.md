@@ -34,11 +34,11 @@
 
 #### ⭐ Recent stars | Estrelas recentes
 
-- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - IDURAR Open Code Source ERP CRM Alternative to SalesForce | Node Js React AntD MERN (1 day ago)
-- [arnaud-lb/php-go](https://github.com/arnaud-lb/php-go) - php-go allows to call Go code from PHP, with minimal code boilerplate (4 days ago)
-- [damo-vilab/AnyDoor](https://github.com/damo-vilab/AnyDoor) - Official implementations for paper: Anydoor: zero-shot object-level image customization (4 days ago)
-- [lxfater/inpaint-web](https://github.com/lxfater/inpaint-web) - A free and open-source inpainting &amp; image-upscaling tool powered by webgpu and wasm on the browser。|   基于 Webgpu 技术和 wasm 技术的免费开源 inpainting &amp; image-upscaling 工具, 纯浏览器端实现。 (4 days ago)
-- [cycle/orm](https://github.com/cycle/orm) - PHP DataMapper, ORM (4 days ago)
+- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - IDURAR Open Code Source ERP CRM Alternative to SalesForce | Node Js React AntD MERN (2 days ago)
+- [arnaud-lb/php-go](https://github.com/arnaud-lb/php-go) - php-go allows to call Go code from PHP, with minimal code boilerplate (5 days ago)
+- [damo-vilab/AnyDoor](https://github.com/damo-vilab/AnyDoor) - Official implementations for paper: Anydoor: zero-shot object-level image customization (5 days ago)
+- [lxfater/inpaint-web](https://github.com/lxfater/inpaint-web) - A free and open-source inpainting &amp; image-upscaling tool powered by webgpu and wasm on the browser。|   基于 Webgpu 技术和 wasm 技术的免费开源 inpainting &amp; image-upscaling 工具, 纯浏览器端实现。 (5 days ago)
+- [cycle/orm](https://github.com/cycle/orm) - PHP DataMapper, ORM (5 days ago)
 
 #### 📫 How to reach me | Como chegar até mim
 
