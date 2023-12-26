@@ -20,9 +20,9 @@
 
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) ([v1.23.1-alpha.2](https://github.com/pedroslopez/whatsapp-web.js/releases/tag/v1.23.1-alpha.2), 1 week ago) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.2.1](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.2.1), 2 months ago) - Upload files to S3 with tags.
-- [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2023.05](https://github.com/likesistemas/sistema-core/releases/tag/v2023.05), 6 months ago) - Container Docker que faz o deploy.
-- [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2023.05](https://github.com/likesistemas/php-dev/releases/tag/v2023.05), 6 months ago) - PHP container for development.
-- [likesistemas/php](https://github.com/likesistemas/php) ([v2023.05](https://github.com/likesistemas/php/releases/tag/v2023.05), 6 months ago) - Container Docker em PHP-FPM 
+- [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2023.05](https://github.com/likesistemas/sistema-core/releases/tag/v2023.05), 7 months ago) - Container Docker que faz o deploy.
+- [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2023.05](https://github.com/likesistemas/php-dev/releases/tag/v2023.05), 7 months ago) - PHP container for development.
+- [likesistemas/php](https://github.com/likesistemas/php) ([v2023.05](https://github.com/likesistemas/php/releases/tag/v2023.05), 7 months ago) - Container Docker em PHP-FPM 
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent stars | Estrelas recentes
 
-- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - IDURAR Open Code Source ERP CRM Alternative to SalesForce | Node Js React AntD MERN (2 days ago)
-- [arnaud-lb/php-go](https://github.com/arnaud-lb/php-go) - php-go allows to call Go code from PHP, with minimal code boilerplate (5 days ago)
-- [damo-vilab/AnyDoor](https://github.com/damo-vilab/AnyDoor) - Official implementations for paper: Anydoor: zero-shot object-level image customization (5 days ago)
-- [lxfater/inpaint-web](https://github.com/lxfater/inpaint-web) - A free and open-source inpainting &amp; image-upscaling tool powered by webgpu and wasm on the browser。|   基于 Webgpu 技术和 wasm 技术的免费开源 inpainting &amp; image-upscaling 工具, 纯浏览器端实现。 (5 days ago)
-- [cycle/orm](https://github.com/cycle/orm) - PHP DataMapper, ORM (5 days ago)
+- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - IDURAR Open Code Source ERP CRM Alternative to SalesForce | Node Js React AntD MERN (3 days ago)
+- [arnaud-lb/php-go](https://github.com/arnaud-lb/php-go) - php-go allows to call Go code from PHP, with minimal code boilerplate (6 days ago)
+- [damo-vilab/AnyDoor](https://github.com/damo-vilab/AnyDoor) - Official implementations for paper: Anydoor: zero-shot object-level image customization (6 days ago)
+- [lxfater/inpaint-web](https://github.com/lxfater/inpaint-web) - A free and open-source inpainting &amp; image-upscaling tool powered by webgpu and wasm on the browser。|   基于 Webgpu 技术和 wasm 技术的免费开源 inpainting &amp; image-upscaling 工具, 纯浏览器端实现。 (6 days ago)
+- [cycle/orm](https://github.com/cycle/orm) - PHP DataMapper, ORM (6 days ago)
 
 #### 📫 How to reach me | Como chegar até mim
 
