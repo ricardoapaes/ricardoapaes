@@ -34,11 +34,11 @@
 
 #### ⭐ Recent stars | Estrelas recentes
 
+- [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻 (today)
 - [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - IDURAR Open Code Source ERP CRM Alternative to SalesForce | Node Js React AntD MERN (4 days ago)
 - [arnaud-lb/php-go](https://github.com/arnaud-lb/php-go) - php-go allows to call Go code from PHP, with minimal code boilerplate (1 week ago)
 - [ali-vilab/AnyDoor](https://github.com/ali-vilab/AnyDoor) - Official implementations for paper: Anydoor: zero-shot object-level image customization (1 week ago)
 - [lxfater/inpaint-web](https://github.com/lxfater/inpaint-web) - A free and open-source inpainting &amp; image-upscaling tool powered by webgpu and wasm on the browser。|   基于 Webgpu 技术和 wasm 技术的免费开源 inpainting &amp; image-upscaling 工具, 纯浏览器端实现。 (1 week ago)
-- [cycle/orm](https://github.com/cycle/orm) - PHP DataMapper, ORM (1 week ago)
 
 #### 📫 How to reach me | Como chegar até mim
 
