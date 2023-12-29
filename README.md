@@ -6,7 +6,7 @@
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) - Container Docker que faz o deploy. (1 month ago)
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) - PHP container for development. (1 month ago)
 - [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (1 month ago)
-- [ricardoapaes/k6-example](https://github.com/ricardoapaes/k6-example) - Exemplo de uso K6 (1 month ago)
+- [ricardoapaes/k6-example](https://github.com/ricardoapaes/k6-example) - Exemplo de uso K6 (2 months ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
 
@@ -26,7 +26,7 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [Configurando docker no projeto](https://github.com/paolasensato/orcamento-api/pull/1) on [paolasensato/orcamento-api](https://github.com/paolasensato/orcamento-api) (2 weeks ago)
+- [Configurando docker no projeto](https://github.com/paolasensato/orcamento-api/pull/1) on [paolasensato/orcamento-api](https://github.com/paolasensato/orcamento-api) (3 weeks ago)
 - [🌐 Corrigindo erros de encoding](https://github.com/nfephp-org/sped-da/pull/587) on [nfephp-org/sped-da](https://github.com/nfephp-org/sped-da) (1 month ago)
 - [✨ Melhorias danfe simples](https://github.com/nfephp-org/sped-da/pull/586) on [nfephp-org/sped-da](https://github.com/nfephp-org/sped-da) (1 month ago)
 - [✨ [NFE-180] Adicionando suporte ao PHP 8.2 e 8.3](https://github.com/likesistemas/sistema-core/pull/32) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (1 month ago)
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent stars | Estrelas recentes
 
-- [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻 (1 day ago)
-- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - IDURAR Open Code Source ERP CRM Alternative to SalesForce | Node Js React AntD MERN (5 days ago)
+- [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻 (2 days ago)
+- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - IDURAR Open Code Source ERP CRM Alternative to SalesForce | Node Js React AntD MERN (6 days ago)
 - [arnaud-lb/php-go](https://github.com/arnaud-lb/php-go) - php-go allows to call Go code from PHP, with minimal code boilerplate (1 week ago)
 - [ali-vilab/AnyDoor](https://github.com/ali-vilab/AnyDoor) - Official implementations for paper: Anydoor: zero-shot object-level image customization (1 week ago)
 - [lxfater/inpaint-web](https://github.com/lxfater/inpaint-web) - A free and open-source inpainting &amp; image-upscaling tool powered by webgpu and wasm on the browser。|   基于 Webgpu 技术和 wasm 技术的免费开源 inpainting &amp; image-upscaling 工具, 纯浏览器端实现。 (1 week ago)
