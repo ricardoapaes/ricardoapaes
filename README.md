@@ -34,9 +34,9 @@
 
 #### ⭐ Recent stars | Estrelas recentes
 
-- [carlosas/phpat](https://github.com/carlosas/phpat) - PHP Architecture Tester - Easy to use architectural testing tool for PHP :heavy_check_mark: (2 days ago)
-- [likesistemas/ifood](https://github.com/likesistemas/ifood) - Biblioteca para comunicação com API do iFood. (2 days ago)
-- [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻 (4 days ago)
+- [carlosas/phpat](https://github.com/carlosas/phpat) - PHP Architecture Tester - Easy to use architectural testing tool for PHP :heavy_check_mark: (3 days ago)
+- [likesistemas/ifood](https://github.com/likesistemas/ifood) - Biblioteca para comunicação com API do iFood. (3 days ago)
+- [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻 (5 days ago)
 - [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - IDURAR Open Code Source ERP CRM Alternative to SalesForce | Node Js React AntD MERN (1 week ago)
 - [arnaud-lb/php-go](https://github.com/arnaud-lb/php-go) - php-go allows to call Go code from PHP, with minimal code boilerplate (1 week ago)
 
