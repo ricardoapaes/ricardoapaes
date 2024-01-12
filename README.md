@@ -4,8 +4,8 @@
 
 - [nfephp-org/sped-da](https://github.com/nfephp-org/sped-da) - Classes para geração dos documentos auxiliares usados pelos padrões Sped (1 month ago)
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) - Container Docker que faz o deploy. (1 month ago)
-- [likesistemas/php-dev](https://github.com/likesistemas/php-dev) - PHP container for development. (1 month ago)
-- [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (1 month ago)
+- [likesistemas/php-dev](https://github.com/likesistemas/php-dev) - PHP container for development. (2 months ago)
+- [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (2 months ago)
 - [ricardoapaes/k6-example](https://github.com/ricardoapaes/k6-example) - Exemplo de uso K6 (2 months ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
@@ -29,13 +29,13 @@
 - [Configurando docker no projeto](https://github.com/paolasensato/orcamento-api/pull/1) on [paolasensato/orcamento-api](https://github.com/paolasensato/orcamento-api) (1 month ago)
 - [🌐 Corrigindo erros de encoding](https://github.com/nfephp-org/sped-da/pull/587) on [nfephp-org/sped-da](https://github.com/nfephp-org/sped-da) (1 month ago)
 - [✨ Melhorias danfe simples](https://github.com/nfephp-org/sped-da/pull/586) on [nfephp-org/sped-da](https://github.com/nfephp-org/sped-da) (1 month ago)
-- [✨ [NFE-180] Adicionando suporte ao PHP 8.2 e 8.3](https://github.com/likesistemas/sistema-core/pull/32) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (1 month ago)
-- [✨ [NFE-180] Adicionando suporte ao PHP 8.3](https://github.com/likesistemas/php-dev/pull/17) on [likesistemas/php-dev](https://github.com/likesistemas/php-dev) (1 month ago)
+- [✨ [NFE-180] Adicionando suporte ao PHP 8.2 e 8.3](https://github.com/likesistemas/sistema-core/pull/32) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (2 months ago)
+- [✨ [NFE-180] Adicionando suporte ao PHP 8.3](https://github.com/likesistemas/php-dev/pull/17) on [likesistemas/php-dev](https://github.com/likesistemas/php-dev) (2 months ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
-- [carlosas/phpat](https://github.com/carlosas/phpat) - PHP Architecture Tester - Easy to use architectural testing tool for PHP :heavy_check_mark: (1 week ago)
-- [likesistemas/ifood](https://github.com/likesistemas/ifood) - Biblioteca para comunicação com API do iFood. (1 week ago)
+- [carlosas/phpat](https://github.com/carlosas/phpat) - PHP Architecture Tester - Easy to use architectural testing tool for PHP :heavy_check_mark: (2 weeks ago)
+- [likesistemas/ifood](https://github.com/likesistemas/ifood) - Biblioteca para comunicação com API do iFood. (2 weeks ago)
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻 (2 weeks ago)
 - [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - IDURAR Open Code Source ERP CRM Alternative to SalesForce | Node Js React AntD MERN (2 weeks ago)
 - [arnaud-lb/php-go](https://github.com/arnaud-lb/php-go) - php-go allows to call Go code from PHP, with minimal code boilerplate (3 weeks ago)
