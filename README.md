@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [nfephp-org/sped-da](https://github.com/nfephp-org/sped-da) - Classes para geração dos documentos auxiliares usados pelos padrões Sped (1 month ago)
+- [nfephp-org/sped-da](https://github.com/nfephp-org/sped-da) - Classes para geração dos documentos auxiliares usados pelos padrões Sped (2 months ago)
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) - Container Docker que faz o deploy. (2 months ago)
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) - PHP container for development. (2 months ago)
 - [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (2 months ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) ([v1.23.1-alpha.4](https://github.com/pedroslopez/whatsapp-web.js/releases/tag/v1.23.1-alpha.4), today) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) ([v1.23.1-alpha.4](https://github.com/pedroslopez/whatsapp-web.js/releases/tag/v1.23.1-alpha.4), 1 day ago) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.2.1](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.2.1), 3 months ago) - Upload files to S3 with tags.
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2023.05](https://github.com/likesistemas/sistema-core/releases/tag/v2023.05), 7 months ago) - Container Docker que faz o deploy.
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2023.05](https://github.com/likesistemas/php-dev/releases/tag/v2023.05), 7 months ago) - PHP container for development.
@@ -27,8 +27,8 @@
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
 - [Configurando docker no projeto](https://github.com/paolasensato/orcamento-api/pull/1) on [paolasensato/orcamento-api](https://github.com/paolasensato/orcamento-api) (1 month ago)
-- [🌐 Corrigindo erros de encoding](https://github.com/nfephp-org/sped-da/pull/587) on [nfephp-org/sped-da](https://github.com/nfephp-org/sped-da) (1 month ago)
-- [✨ Melhorias danfe simples](https://github.com/nfephp-org/sped-da/pull/586) on [nfephp-org/sped-da](https://github.com/nfephp-org/sped-da) (1 month ago)
+- [🌐 Corrigindo erros de encoding](https://github.com/nfephp-org/sped-da/pull/587) on [nfephp-org/sped-da](https://github.com/nfephp-org/sped-da) (2 months ago)
+- [✨ Melhorias danfe simples](https://github.com/nfephp-org/sped-da/pull/586) on [nfephp-org/sped-da](https://github.com/nfephp-org/sped-da) (2 months ago)
 - [✨ [NFE-180] Adicionando suporte ao PHP 8.2 e 8.3](https://github.com/likesistemas/sistema-core/pull/32) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (2 months ago)
 - [✨ [NFE-180] Adicionando suporte ao PHP 8.3](https://github.com/likesistemas/php-dev/pull/17) on [likesistemas/php-dev](https://github.com/likesistemas/php-dev) (2 months ago)
 
