@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) ([v1.23.1-alpha.4](https://github.com/pedroslopez/whatsapp-web.js/releases/tag/v1.23.1-alpha.4), 4 days ago) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) ([v1.23.1-alpha.4](https://github.com/pedroslopez/whatsapp-web.js/releases/tag/v1.23.1-alpha.4), 5 days ago) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.2.1](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.2.1), 3 months ago) - Upload files to S3 with tags.
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2023.05](https://github.com/likesistemas/sistema-core/releases/tag/v2023.05), 7 months ago) - Container Docker que faz o deploy.
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2023.05](https://github.com/likesistemas/php-dev/releases/tag/v2023.05), 7 months ago) - PHP container for development.
@@ -34,9 +34,9 @@
 
 #### ⭐ Recent stars | Estrelas recentes
 
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (today)
-- [carlosas/phpat](https://github.com/carlosas/phpat) - PHP Architecture Tester - Easy to use architectural testing tool for PHP :heavy_check_mark: (2 weeks ago)
-- [likesistemas/ifood](https://github.com/likesistemas/ifood) - Biblioteca para comunicação com API do iFood. (2 weeks ago)
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (1 day ago)
+- [carlosas/phpat](https://github.com/carlosas/phpat) - PHP Architecture Tester - Easy to use architectural testing tool for PHP :heavy_check_mark: (3 weeks ago)
+- [likesistemas/ifood](https://github.com/likesistemas/ifood) - Biblioteca para comunicação com API do iFood. (3 weeks ago)
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻 (3 weeks ago)
 - [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - IDURAR Open Code Source ERP CRM Alternative to SalesForce | Node Js React AntD MERN (3 weeks ago)
 
