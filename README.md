@@ -34,11 +34,11 @@
 
 #### ⭐ Recent stars | Estrelas recentes
 
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (3 days ago)
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (4 days ago)
 - [carlosas/phpat](https://github.com/carlosas/phpat) - PHP Architecture Tester - Easy to use architectural testing tool for PHP :heavy_check_mark: (3 weeks ago)
 - [likesistemas/ifood](https://github.com/likesistemas/ifood) - Biblioteca para comunicação com API do iFood. (3 weeks ago)
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻 (3 weeks ago)
-- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - IDURAR Open Code Source ERP CRM Alternative to SalesForce | Node Js React AntD MERN (4 weeks ago)
+- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - IDURAR Open Code Source ERP CRM Alternative to SalesForce | Node Js React AntD MERN (1 month ago)
 
 #### 📫 How to reach me | Como chegar até mim
 
