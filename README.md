@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) - Container Docker que faz o deploy. (1 day ago)
+- [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) - Container Docker que faz o deploy. (2 days ago)
 - [nfephp-org/sped-da](https://github.com/nfephp-org/sped-da) - Classes para geração dos documentos auxiliares usados pelos padrões Sped (2 months ago)
-- [likesistemas/php-dev](https://github.com/likesistemas/php-dev) - PHP container for development. (2 months ago)
-- [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (2 months ago)
+- [likesistemas/php-dev](https://github.com/likesistemas/php-dev) - PHP container for development. (3 months ago)
+- [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (3 months ago)
 - [ricardoapaes/k6-example](https://github.com/ricardoapaes/k6-example) - Exemplo de uso K6 (3 months ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) ([v1.23.1-alpha.4](https://github.com/pedroslopez/whatsapp-web.js/releases/tag/v1.23.1-alpha.4), 3 weeks ago) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) ([v1.23.1-alpha.4](https://github.com/pedroslopez/whatsapp-web.js/releases/tag/v1.23.1-alpha.4), 4 weeks ago) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.2.1](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.2.1), 4 months ago) - Upload files to S3 with tags.
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2023.05](https://github.com/likesistemas/sistema-core/releases/tag/v2023.05), 8 months ago) - Container Docker que faz o deploy.
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2023.05](https://github.com/likesistemas/php-dev/releases/tag/v2023.05), 8 months ago) - PHP container for development.
@@ -26,15 +26,15 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [✨ [NFE-193] Adicionando suporte ao redis](https://github.com/likesistemas/sistema-core/pull/33) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (1 day ago)
+- [✨ [NFE-193] Adicionando suporte ao redis](https://github.com/likesistemas/sistema-core/pull/33) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (2 days ago)
 - [Configurando docker no projeto](https://github.com/paolasensato/orcamento-api/pull/1) on [paolasensato/orcamento-api](https://github.com/paolasensato/orcamento-api) (2 months ago)
 - [🌐 Corrigindo erros de encoding](https://github.com/nfephp-org/sped-da/pull/587) on [nfephp-org/sped-da](https://github.com/nfephp-org/sped-da) (2 months ago)
 - [✨ Melhorias danfe simples](https://github.com/nfephp-org/sped-da/pull/586) on [nfephp-org/sped-da](https://github.com/nfephp-org/sped-da) (2 months ago)
-- [✨ [NFE-180] Adicionando suporte ao PHP 8.2 e 8.3](https://github.com/likesistemas/sistema-core/pull/32) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (2 months ago)
+- [✨ [NFE-180] Adicionando suporte ao PHP 8.2 e 8.3](https://github.com/likesistemas/sistema-core/pull/32) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (3 months ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
-- [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine. (2 days ago)
+- [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine. (3 days ago)
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri. (2 weeks ago)
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (3 weeks ago)
 - [carlosas/phpat](https://github.com/carlosas/phpat) - PHP Architecture Tester - Easy to use architectural testing tool for PHP :heavy_check_mark: (1 month ago)
