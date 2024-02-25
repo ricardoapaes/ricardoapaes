@@ -19,7 +19,7 @@
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) ([v1.23.1-alpha.4](https://github.com/pedroslopez/whatsapp-web.js/releases/tag/v1.23.1-alpha.4), 1 month ago) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
-- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.2.1](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.2.1), 4 months ago) - Upload files to S3 with tags.
+- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.2.1](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.2.1), 5 months ago) - Upload files to S3 with tags.
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2023.05](https://github.com/likesistemas/sistema-core/releases/tag/v2023.05), 9 months ago) - Container Docker que faz o deploy.
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2023.05](https://github.com/likesistemas/php-dev/releases/tag/v2023.05), 9 months ago) - PHP container for development.
 - [likesistemas/php](https://github.com/likesistemas/php) ([v2023.05](https://github.com/likesistemas/php/releases/tag/v2023.05), 9 months ago) - Container Docker em PHP-FPM 
@@ -35,7 +35,7 @@
 #### ⭐ Recent stars | Estrelas recentes
 
 - [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine. (2 weeks ago)
-- [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri. (4 weeks ago)
+- [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri. (1 month ago)
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (1 month ago)
 - [carlosas/phpat](https://github.com/carlosas/phpat) - PHP Architecture Tester - Easy to use architectural testing tool for PHP :heavy_check_mark: (1 month ago)
 - [likesistemas/ifood](https://github.com/likesistemas/ifood) - Biblioteca para comunicação com API do iFood. (1 month ago)
