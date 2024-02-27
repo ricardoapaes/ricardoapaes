@@ -6,7 +6,7 @@
 - [nfephp-org/sped-da](https://github.com/nfephp-org/sped-da) - Classes para geração dos documentos auxiliares usados pelos padrões Sped (3 months ago)
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) - PHP container for development. (3 months ago)
 - [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (3 months ago)
-- [ricardoapaes/k6-example](https://github.com/ricardoapaes/k6-example) - Exemplo de uso K6 (3 months ago)
+- [ricardoapaes/k6-example](https://github.com/ricardoapaes/k6-example) - Exemplo de uso K6 (4 months ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
 
@@ -37,8 +37,8 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine. (2 weeks ago)
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri. (1 month ago)
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (1 month ago)
-- [carlosas/phpat](https://github.com/carlosas/phpat) - PHP Architecture Tester - Easy to use architectural testing tool for PHP :heavy_check_mark: (1 month ago)
-- [likesistemas/ifood](https://github.com/likesistemas/ifood) - Biblioteca para comunicação com API do iFood. (1 month ago)
+- [carlosas/phpat](https://github.com/carlosas/phpat) - PHP Architecture Tester - Easy to use architectural testing tool for PHP :heavy_check_mark: (2 months ago)
+- [likesistemas/ifood](https://github.com/likesistemas/ifood) - Biblioteca para comunicação com API do iFood. (2 months ago)
 
 #### 📫 How to reach me | Como chegar até mim
 
