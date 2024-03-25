@@ -20,9 +20,9 @@
 
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) ([v1.23.1-alpha.5](https://github.com/pedroslopez/whatsapp-web.js/releases/tag/v1.23.1-alpha.5), 3 weeks ago) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.2.1](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.2.1), 5 months ago) - Upload files to S3 with tags.
-- [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2023.05](https://github.com/likesistemas/sistema-core/releases/tag/v2023.05), 9 months ago) - Container Docker que faz o deploy.
-- [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2023.05](https://github.com/likesistemas/php-dev/releases/tag/v2023.05), 9 months ago) - PHP container for development.
-- [likesistemas/php](https://github.com/likesistemas/php) ([v2023.05](https://github.com/likesistemas/php/releases/tag/v2023.05), 9 months ago) - Container Docker em PHP-FPM 
+- [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2023.05](https://github.com/likesistemas/sistema-core/releases/tag/v2023.05), 10 months ago) - Container Docker que faz o deploy.
+- [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2023.05](https://github.com/likesistemas/php-dev/releases/tag/v2023.05), 10 months ago) - PHP container for development.
+- [likesistemas/php](https://github.com/likesistemas/php) ([v2023.05](https://github.com/likesistemas/php/releases/tag/v2023.05), 10 months ago) - Container Docker em PHP-FPM 
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
