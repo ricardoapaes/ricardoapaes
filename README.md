@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) ([v1.23.1-alpha.5](https://github.com/pedroslopez/whatsapp-web.js/releases/tag/v1.23.1-alpha.5), 3 weeks ago) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) ([v1.23.1-alpha.5](https://github.com/pedroslopez/whatsapp-web.js/releases/tag/v1.23.1-alpha.5), 4 weeks ago) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.2.1](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.2.1), 6 months ago) - Upload files to S3 with tags.
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2023.05](https://github.com/likesistemas/sistema-core/releases/tag/v2023.05), 10 months ago) - Container Docker que faz o deploy.
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2023.05](https://github.com/likesistemas/php-dev/releases/tag/v2023.05), 10 months ago) - PHP container for development.
@@ -26,7 +26,7 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [🎉 PHP 8.3 released](https://github.com/likesistemas/php/pull/39) on [likesistemas/php](https://github.com/likesistemas/php) (today)
+- [🎉 PHP 8.3 released](https://github.com/likesistemas/php/pull/39) on [likesistemas/php](https://github.com/likesistemas/php) (1 day ago)
 - [✨ [NFE-193] Adicionando suporte ao redis](https://github.com/likesistemas/sistema-core/pull/33) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (1 month ago)
 - [Configurando docker no projeto](https://github.com/paolasensato/orcamento-api/pull/1) on [paolasensato/orcamento-api](https://github.com/paolasensato/orcamento-api) (3 months ago)
 - [🌐 Corrigindo erros de encoding](https://github.com/nfephp-org/sped-da/pull/587) on [nfephp-org/sped-da](https://github.com/nfephp-org/sped-da) (4 months ago)
