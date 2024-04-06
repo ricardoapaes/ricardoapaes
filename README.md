@@ -28,7 +28,7 @@
 
 - [🎉 PHP 8.3 released](https://github.com/likesistemas/php/pull/39) on [likesistemas/php](https://github.com/likesistemas/php) (1 week ago)
 - [✨ [NFE-193] Adicionando suporte ao redis](https://github.com/likesistemas/sistema-core/pull/33) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (1 month ago)
-- [Configurando docker no projeto](https://github.com/paolasensato/orcamento-api/pull/1) on [paolasensato/orcamento-api](https://github.com/paolasensato/orcamento-api) (3 months ago)
+- [Configurando docker no projeto](https://github.com/paolasensato/orcamento-api/pull/1) on [paolasensato/orcamento-api](https://github.com/paolasensato/orcamento-api) (4 months ago)
 - [🌐 Corrigindo erros de encoding](https://github.com/nfephp-org/sped-da/pull/587) on [nfephp-org/sped-da](https://github.com/nfephp-org/sped-da) (4 months ago)
 - [✨ Melhorias danfe simples](https://github.com/nfephp-org/sped-da/pull/586) on [nfephp-org/sped-da](https://github.com/nfephp-org/sped-da) (4 months ago)
 
