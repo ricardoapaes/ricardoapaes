@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (3 weeks ago)
+- [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (4 weeks ago)
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) - Container Docker que faz o deploy. (2 months ago)
 - [nfephp-org/sped-da](https://github.com/nfephp-org/sped-da) - Classes para geração dos documentos auxiliares usados pelos padrões Sped (5 months ago)
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) - PHP container for development. (5 months ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2024.03](https://github.com/likesistemas/php-dev/releases/tag/v2024.03), 3 weeks ago) - PHP container for development.
+- [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2024.03](https://github.com/likesistemas/php-dev/releases/tag/v2024.03), 4 weeks ago) - PHP container for development.
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) ([v1.23.1-alpha.5](https://github.com/pedroslopez/whatsapp-web.js/releases/tag/v1.23.1-alpha.5), 1 month ago) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.2.1](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.2.1), 7 months ago) - Upload files to S3 with tags.
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2023.05](https://github.com/likesistemas/sistema-core/releases/tag/v2023.05), 11 months ago) - Container Docker que faz o deploy.
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent stars | Estrelas recentes
 
-- [coduo/php-matcher](https://github.com/coduo/php-matcher) - The easiest way to match data structures like JSON/PlainText/XML against readable patterns. Sandbox: (2 days ago)
+- [coduo/php-matcher](https://github.com/coduo/php-matcher) - The easiest way to match data structures like JSON/PlainText/XML against readable patterns. Sandbox: (3 days ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (2 months ago)
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri. (3 months ago)
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (3 months ago)
