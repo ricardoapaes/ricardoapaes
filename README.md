@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
+- [ricardoapaes/docker-glpi](https://github.com/ricardoapaes/docker-glpi) (1 day ago)
 - [likesistemas/nginx](https://github.com/likesistemas/nginx) (1 day ago)
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (1 week ago)
 - [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (1 month ago)
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) - Container Docker que faz o deploy. (2 months ago)
-- [nfephp-org/sped-da](https://github.com/nfephp-org/sped-da) - Classes para geração dos documentos auxiliares usados pelos padrões Sped (5 months ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
 
+- [ricardoapaes/docker-glpi](https://github.com/ricardoapaes/docker-glpi)
 - [ricardoapaes/k6-example](https://github.com/ricardoapaes/k6-example) - Exemplo de uso K6
 - [ricardoapaes/setup-wsl2](https://github.com/ricardoapaes/setup-wsl2) - Habilitando e instalando wsl2 distro usando inno setup.
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain.
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags.
-- [ricardoapaes/whaticket-api](https://github.com/ricardoapaes/whaticket-api) - Communication with whaticket api.
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
