@@ -20,7 +20,7 @@
 
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) ([v1.23.1-alpha.6](https://github.com/pedroslopez/whatsapp-web.js/releases/tag/v1.23.1-alpha.6), 3 weeks ago) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2024.03](https://github.com/likesistemas/php-dev/releases/tag/v2024.03), 1 month ago) - PHP container for development.
-- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.2.1](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.2.1), 7 months ago) - Upload files to S3 with tags.
+- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.2.1](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.2.1), 8 months ago) - Upload files to S3 with tags.
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2023.05](https://github.com/likesistemas/sistema-core/releases/tag/v2023.05), 1 year ago) - Container Docker que faz o deploy.
 - [likesistemas/php](https://github.com/likesistemas/php) ([v2023.05](https://github.com/likesistemas/php/releases/tag/v2023.05), 1 year ago) - Container Docker em PHP-FPM 
 
@@ -37,7 +37,7 @@
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let&#39;s you describe UI using your imagination, then see it rendered live. (2 weeks ago)
 - [coduo/php-matcher](https://github.com/coduo/php-matcher) - The easiest way to match data structures like JSON/PlainText/XML against readable patterns. Sandbox: (1 month ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (3 months ago)
-- [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri. (3 months ago)
+- [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri. (4 months ago)
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (4 months ago)
 
 #### 📫 How to reach me | Como chegar até mim
