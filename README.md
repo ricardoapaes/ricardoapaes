@@ -26,7 +26,7 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [Add cors headers](https://github.com/ricardoapaes/bore-server/pull/1) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (4 days ago)
+- [Add cors headers](https://github.com/ricardoapaes/bore-server/pull/1) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (5 days ago)
 - [🚑️ Fix filebeat build](https://github.com/likesistemas/nginx/pull/19) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (1 month ago)
 - [Use original entrypoint](https://github.com/likesistemas/nginx/pull/18) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (1 month ago)
 - [Disable ipv6 with env vars](https://github.com/likesistemas/nginx/pull/17) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (1 month ago)
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent stars | Estrelas recentes
 
-- [pagarme/pagarme-php](https://github.com/pagarme/pagarme-php) - :blue_heart: Pagar.me&#39;s PHP API (5 days ago)
-- [fudan-generative-vision/hallo](https://github.com/fudan-generative-vision/hallo) - Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation (5 days ago)
+- [pagarme/pagarme-php](https://github.com/pagarme/pagarme-php) - :blue_heart: Pagar.me&#39;s PHP API (6 days ago)
+- [fudan-generative-vision/hallo](https://github.com/fudan-generative-vision/hallo) - Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation (6 days ago)
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let&#39;s you describe UI using your imagination, then see it rendered live. (1 month ago)
 - [coduo/php-matcher](https://github.com/coduo/php-matcher) - The easiest way to match data structures like JSON/PlainText/XML against readable patterns. Sandbox: (2 months ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (4 months ago)
