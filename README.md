@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [likesistemas/nginx](https://github.com/likesistemas/nginx) (1 month ago)
-- [ricardoapaes/docker-glpi](https://github.com/ricardoapaes/docker-glpi) (1 month ago)
+- [likesistemas/nginx](https://github.com/likesistemas/nginx) (2 months ago)
+- [ricardoapaes/docker-glpi](https://github.com/ricardoapaes/docker-glpi) (2 months ago)
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (2 months ago)
 - [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (3 months ago)
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) - Container Docker que faz o deploy. (4 months ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) ([v1.24.0](https://github.com/pedroslopez/whatsapp-web.js/releases/tag/v1.24.0), 3 weeks ago) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) ([v1.24.0](https://github.com/pedroslopez/whatsapp-web.js/releases/tag/v1.24.0), 4 weeks ago) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2024.03](https://github.com/likesistemas/php-dev/releases/tag/v2024.03), 3 months ago) - PHP container for development.
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.2.1](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.2.1), 9 months ago) - Upload files to S3 with tags.
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2023.05](https://github.com/likesistemas/sistema-core/releases/tag/v2023.05), 1 year ago) - Container Docker que faz o deploy.
@@ -27,15 +27,15 @@
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
 - [Add cors headers](https://github.com/ricardoapaes/bore-server/pull/1) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (2 weeks ago)
-- [🚑️ Fix filebeat build](https://github.com/likesistemas/nginx/pull/19) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (1 month ago)
+- [🚑️ Fix filebeat build](https://github.com/likesistemas/nginx/pull/19) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (2 months ago)
 - [Use original entrypoint](https://github.com/likesistemas/nginx/pull/18) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (2 months ago)
 - [Disable ipv6 with env vars](https://github.com/likesistemas/nginx/pull/17) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (2 months ago)
 - [🎉 PHP 8.3 released](https://github.com/likesistemas/php/pull/39) on [likesistemas/php](https://github.com/likesistemas/php) (3 months ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
-- [therealparmesh/object-to-formdata](https://github.com/therealparmesh/object-to-formdata) - Convenient JavaScript function that serializes Objects to FormData instances. (4 days ago)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models. (5 days ago)
+- [therealparmesh/object-to-formdata](https://github.com/therealparmesh/object-to-formdata) - Convenient JavaScript function that serializes Objects to FormData instances. (5 days ago)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models. (6 days ago)
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags. (1 week ago)
 - [pagarme/pagarme-php](https://github.com/pagarme/pagarme-php) - :blue_heart: Pagar.me&#39;s PHP API (2 weeks ago)
 - [fudan-generative-vision/hallo](https://github.com/fudan-generative-vision/hallo) - Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation (2 weeks ago)
