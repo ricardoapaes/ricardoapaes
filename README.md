@@ -36,9 +36,9 @@
 
 - [therealparmesh/object-to-formdata](https://github.com/therealparmesh/object-to-formdata) - Convenient JavaScript function that serializes Objects to FormData instances. (1 week ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models. (1 week ago)
-- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags. (1 week ago)
-- [pagarme/pagarme-php](https://github.com/pagarme/pagarme-php) - :blue_heart: Pagar.me&#39;s PHP API (2 weeks ago)
-- [fudan-generative-vision/hallo](https://github.com/fudan-generative-vision/hallo) - Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation (2 weeks ago)
+- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags. (2 weeks ago)
+- [pagarme/pagarme-php](https://github.com/pagarme/pagarme-php) - :blue_heart: Pagar.me&#39;s PHP API (3 weeks ago)
+- [fudan-generative-vision/hallo](https://github.com/fudan-generative-vision/hallo) - Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation (3 weeks ago)
 
 #### 📫 How to reach me | Como chegar até mim
 
