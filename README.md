@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (2 days ago)
+- [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (3 days ago)
 - [likesistemas/nginx](https://github.com/likesistemas/nginx) (2 months ago)
 - [ricardoapaes/docker-glpi](https://github.com/ricardoapaes/docker-glpi) (2 months ago)
 - [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (3 months ago)
@@ -26,7 +26,7 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [Add cors headers](https://github.com/ricardoapaes/bore-server/pull/1) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (4 weeks ago)
+- [Add cors headers](https://github.com/ricardoapaes/bore-server/pull/1) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (1 month ago)
 - [🚑️ Fix filebeat build](https://github.com/likesistemas/nginx/pull/19) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (2 months ago)
 - [Use original entrypoint](https://github.com/likesistemas/nginx/pull/18) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (2 months ago)
 - [Disable ipv6 with env vars](https://github.com/likesistemas/nginx/pull/17) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (2 months ago)
