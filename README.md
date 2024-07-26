@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) ([v1.25.0](https://github.com/pedroslopez/whatsapp-web.js/releases/tag/v1.25.0), 1 day ago) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) ([v1.25.0](https://github.com/pedroslopez/whatsapp-web.js/releases/tag/v1.25.0), 2 days ago) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2024.03](https://github.com/likesistemas/php-dev/releases/tag/v2024.03), 3 months ago) - PHP container for development.
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.2.1](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.2.1), 10 months ago) - Upload files to S3 with tags.
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2023.05](https://github.com/likesistemas/sistema-core/releases/tag/v2023.05), 1 year ago) - Container Docker que faz o deploy.
@@ -30,13 +30,13 @@
 - [🚑️ Fix filebeat build](https://github.com/likesistemas/nginx/pull/19) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (2 months ago)
 - [Use original entrypoint](https://github.com/likesistemas/nginx/pull/18) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (2 months ago)
 - [Disable ipv6 with env vars](https://github.com/likesistemas/nginx/pull/17) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (2 months ago)
-- [🎉 PHP 8.3 released](https://github.com/likesistemas/php/pull/39) on [likesistemas/php](https://github.com/likesistemas/php) (3 months ago)
+- [🎉 PHP 8.3 released](https://github.com/likesistemas/php/pull/39) on [likesistemas/php](https://github.com/likesistemas/php) (4 months ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
 - [therealparmesh/object-to-formdata](https://github.com/therealparmesh/object-to-formdata) - Convenient JavaScript function that serializes Objects to FormData instances. (3 weeks ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models. (3 weeks ago)
-- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags. (4 weeks ago)
+- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags. (1 month ago)
 - [pagarme/pagarme-php](https://github.com/pagarme/pagarme-php) - :blue_heart: Pagar.me&#39;s PHP API (1 month ago)
 - [fudan-generative-vision/hallo](https://github.com/fudan-generative-vision/hallo) - Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation (1 month ago)
 
