@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (1 week ago)
+- [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (2 weeks ago)
 - [likesistemas/nginx](https://github.com/likesistemas/nginx) (2 months ago)
 - [ricardoapaes/docker-glpi](https://github.com/ricardoapaes/docker-glpi) (2 months ago)
 - [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (4 months ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) ([v1.25.0](https://github.com/pedroslopez/whatsapp-web.js/releases/tag/v1.25.0), 6 days ago) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) ([v1.25.0](https://github.com/pedroslopez/whatsapp-web.js/releases/tag/v1.25.0), 1 week ago) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2024.03](https://github.com/likesistemas/php-dev/releases/tag/v2024.03), 4 months ago) - PHP container for development.
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.2.1](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.2.1), 10 months ago) - Upload files to S3 with tags.
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2023.05](https://github.com/likesistemas/sistema-core/releases/tag/v2023.05), 1 year ago) - Container Docker que faz o deploy.
@@ -35,7 +35,7 @@
 #### ⭐ Recent stars | Estrelas recentes
 
 - [therealparmesh/object-to-formdata](https://github.com/therealparmesh/object-to-formdata) - Convenient JavaScript function that serializes Objects to FormData instances. (4 weeks ago)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models. (4 weeks ago)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models. (1 month ago)
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags. (1 month ago)
 - [pagarme/pagarme-php](https://github.com/pagarme/pagarme-php) - :blue_heart: Pagar.me&#39;s PHP API (1 month ago)
 - [fudan-generative-vision/hallo](https://github.com/fudan-generative-vision/hallo) - Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation (1 month ago)
