@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (2 weeks ago)
-- [likesistemas/nginx](https://github.com/likesistemas/nginx) (2 months ago)
-- [ricardoapaes/docker-glpi](https://github.com/ricardoapaes/docker-glpi) (2 months ago)
+- [likesistemas/nginx](https://github.com/likesistemas/nginx) (3 months ago)
+- [ricardoapaes/docker-glpi](https://github.com/ricardoapaes/docker-glpi) (3 months ago)
 - [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (4 months ago)
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) - Container Docker que faz o deploy. (5 months ago)
 
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2024.08](https://github.com/likesistemas/sistema-core/releases/tag/v2024.08), 4 days ago) - Container Docker que faz o deploy.
+- [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2024.08](https://github.com/likesistemas/sistema-core/releases/tag/v2024.08), 5 days ago) - Container Docker que faz o deploy.
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) ([v1.25.0](https://github.com/pedroslopez/whatsapp-web.js/releases/tag/v1.25.0), 1 week ago) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2024.03](https://github.com/likesistemas/php-dev/releases/tag/v2024.03), 4 months ago) - PHP container for development.
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.2.1](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.2.1), 10 months ago) - Upload files to S3 with tags.
@@ -26,9 +26,9 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [Atualizando `docker compose` para v2](https://github.com/likesistemas/sistema-core/pull/34) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (4 days ago)
+- [Atualizando `docker compose` para v2](https://github.com/likesistemas/sistema-core/pull/34) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (5 days ago)
 - [Add cors headers](https://github.com/ricardoapaes/bore-server/pull/1) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (1 month ago)
-- [🚑️ Fix filebeat build](https://github.com/likesistemas/nginx/pull/19) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (2 months ago)
+- [🚑️ Fix filebeat build](https://github.com/likesistemas/nginx/pull/19) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (3 months ago)
 - [Use original entrypoint](https://github.com/likesistemas/nginx/pull/18) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (3 months ago)
 - [Disable ipv6 with env vars](https://github.com/likesistemas/nginx/pull/17) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (3 months ago)
 
