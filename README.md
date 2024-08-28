@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (2 weeks ago)
+- [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (3 weeks ago)
 - [likesistemas/nginx](https://github.com/likesistemas/nginx) (3 months ago)
 - [ricardoapaes/docker-glpi](https://github.com/ricardoapaes/docker-glpi) (3 months ago)
 - [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (5 months ago)
@@ -26,7 +26,7 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [🐛 Fix read openssl legacy read](https://github.com/likesistemas/php/pull/40) on [likesistemas/php](https://github.com/likesistemas/php) (2 days ago)
+- [🐛 Fix read openssl legacy read](https://github.com/likesistemas/php/pull/40) on [likesistemas/php](https://github.com/likesistemas/php) (3 days ago)
 - [Atualizando `docker compose` para v2](https://github.com/likesistemas/sistema-core/pull/34) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (3 weeks ago)
 - [Add cors headers](https://github.com/ricardoapaes/bore-server/pull/1) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (2 months ago)
 - [🚑️ Fix filebeat build](https://github.com/likesistemas/nginx/pull/19) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (3 months ago)
