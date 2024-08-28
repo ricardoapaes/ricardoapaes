@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
+- [likesistemas/nginx](https://github.com/likesistemas/nginx) (today)
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (3 weeks ago)
-- [likesistemas/nginx](https://github.com/likesistemas/nginx) (3 months ago)
 - [ricardoapaes/docker-glpi](https://github.com/ricardoapaes/docker-glpi) (3 months ago)
 - [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (5 months ago)
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) - Container Docker que faz o deploy. (6 months ago)
