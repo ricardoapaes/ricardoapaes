@@ -26,11 +26,11 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
+- [🚑️ Use `apt-get` no lugar do `apt`](https://github.com/likesistemas/nginx/pull/21) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (today)
 - [🚑️ Fix ssl](https://github.com/likesistemas/nginx/pull/20) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (today)
 - [🐛 Fix read openssl legacy read](https://github.com/likesistemas/php/pull/40) on [likesistemas/php](https://github.com/likesistemas/php) (3 days ago)
 - [Atualizando `docker compose` para v2](https://github.com/likesistemas/sistema-core/pull/34) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (3 weeks ago)
 - [Add cors headers](https://github.com/ricardoapaes/bore-server/pull/1) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (2 months ago)
-- [🚑️ Fix filebeat build](https://github.com/likesistemas/nginx/pull/19) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (3 months ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
