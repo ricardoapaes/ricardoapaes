@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [likesistemas/nginx](https://github.com/likesistemas/nginx) (1 day ago)
+- [likesistemas/nginx](https://github.com/likesistemas/nginx) (2 days ago)
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (3 weeks ago)
 - [ricardoapaes/docker-glpi](https://github.com/ricardoapaes/docker-glpi) (3 months ago)
 - [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (5 months ago)
@@ -26,16 +26,16 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [🚑️ Use `apt-get` no lugar do `apt`](https://github.com/likesistemas/nginx/pull/21) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (1 day ago)
-- [🚑️ Fix ssl](https://github.com/likesistemas/nginx/pull/20) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (1 day ago)
-- [🐛 Fix read openssl legacy read](https://github.com/likesistemas/php/pull/40) on [likesistemas/php](https://github.com/likesistemas/php) (4 days ago)
+- [🚑️ Use `apt-get` no lugar do `apt`](https://github.com/likesistemas/nginx/pull/21) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (2 days ago)
+- [🚑️ Fix ssl](https://github.com/likesistemas/nginx/pull/20) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (2 days ago)
+- [🐛 Fix read openssl legacy read](https://github.com/likesistemas/php/pull/40) on [likesistemas/php](https://github.com/likesistemas/php) (5 days ago)
 - [Atualizando `docker compose` para v2](https://github.com/likesistemas/sistema-core/pull/34) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (4 weeks ago)
 - [Add cors headers](https://github.com/ricardoapaes/bore-server/pull/1) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (2 months ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
 - [therealparmesh/object-to-formdata](https://github.com/therealparmesh/object-to-formdata) - Convenient JavaScript function that serializes Objects to FormData instances. (1 month ago)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models. (1 month ago)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models. (2 months ago)
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags. (2 months ago)
 - [pagarme/pagarme-php](https://github.com/pagarme/pagarme-php) - :blue_heart: Pagar.me&#39;s PHP API (2 months ago)
 - [fudan-generative-vision/hallo](https://github.com/fudan-generative-vision/hallo) - Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation (2 months ago)
