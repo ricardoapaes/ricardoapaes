@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags. (6 days ago)
+- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags. (1 week ago)
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) - Container Docker que faz o deploy. (1 week ago)
-- [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) - Integração com phinx usando codeception. (1 week ago)
+- [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) - Integração com phinx usando codeception. (2 weeks ago)
 - [likesistemas/nginx](https://github.com/likesistemas/nginx) (3 weeks ago)
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (1 month ago)
 
@@ -18,25 +18,25 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.2.2](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.2.2), 6 days ago) - Upload files to S3 with tags.
-- [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) ([v1.3.0](https://github.com/likesistemas/codeception-phinx-module/releases/tag/v1.3.0), 1 week ago) - Integração com phinx usando codeception.
+- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.2.2](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.2.2), 1 week ago) - Upload files to S3 with tags.
+- [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) ([v1.3.0](https://github.com/likesistemas/codeception-phinx-module/releases/tag/v1.3.0), 2 weeks ago) - Integração com phinx usando codeception.
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2024.08](https://github.com/likesistemas/sistema-core/releases/tag/v2024.08), 1 month ago) - Container Docker que faz o deploy.
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2024.03](https://github.com/likesistemas/php-dev/releases/tag/v2024.03), 5 months ago) - PHP container for development.
 - [likesistemas/php](https://github.com/likesistemas/php) ([v2023.05](https://github.com/likesistemas/php/releases/tag/v2023.05), 1 year ago) - Container Docker em PHP-FPM 
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [🚑️ Increase memory limit to 2048M](https://github.com/ricardoapaes/action-s3-upload/pull/3) on [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) (6 days ago)
-- [✨ [EIC-881] Adicionando configuração para desativar seed](https://github.com/likesistemas/codeception-phinx-module/pull/3) on [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) (1 week ago)
+- [🚑️ Increase memory limit to 2048M](https://github.com/ricardoapaes/action-s3-upload/pull/3) on [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) (1 week ago)
+- [✨ [EIC-881] Adicionando configuração para desativar seed](https://github.com/likesistemas/codeception-phinx-module/pull/3) on [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) (2 weeks ago)
 - [🚑️ Use `apt-get` no lugar do `apt`](https://github.com/likesistemas/nginx/pull/21) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (3 weeks ago)
 - [🚑️ Fix ssl](https://github.com/likesistemas/nginx/pull/20) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (3 weeks ago)
-- [🐛 Fix read openssl legacy read](https://github.com/likesistemas/php/pull/40) on [likesistemas/php](https://github.com/likesistemas/php) (4 weeks ago)
+- [🐛 Fix read openssl legacy read](https://github.com/likesistemas/php/pull/40) on [likesistemas/php](https://github.com/likesistemas/php) (1 month ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
 - [therealparmesh/object-to-formdata](https://github.com/therealparmesh/object-to-formdata) - Convenient JavaScript function that serializes Objects to FormData instances. (2 months ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models. (2 months ago)
-- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags. (2 months ago)
+- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags. (3 months ago)
 - [fudan-generative-vision/hallo](https://github.com/fudan-generative-vision/hallo) - Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation (3 months ago)
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let&#39;s you describe UI using your imagination, then see it rendered live. (4 months ago)
 
