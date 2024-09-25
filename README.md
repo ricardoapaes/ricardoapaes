@@ -35,7 +35,7 @@
 #### ⭐ Recent stars | Estrelas recentes
 
 - [therealparmesh/object-to-formdata](https://github.com/therealparmesh/object-to-formdata) - Convenient JavaScript function that serializes Objects to FormData instances. (2 months ago)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models. (2 months ago)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models. (2 months ago)
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags. (3 months ago)
 - [fudan-generative-vision/hallo](https://github.com/fudan-generative-vision/hallo) - Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation (3 months ago)
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let&#39;s you describe UI using your imagination, then see it rendered live. (4 months ago)
