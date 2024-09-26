@@ -26,11 +26,11 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
+- [Setup composer, vscode, php-cs-fixer and php-stan](https://github.com/ricardoapaes/dUnzip2/pull/1) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (today)
 - [🚑️ Increase memory limit to 2048M](https://github.com/ricardoapaes/action-s3-upload/pull/3) on [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) (1 week ago)
 - [✨ [EIC-881] Adicionando configuração para desativar seed](https://github.com/likesistemas/codeception-phinx-module/pull/3) on [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) (2 weeks ago)
 - [🚑️ Use `apt-get` no lugar do `apt`](https://github.com/likesistemas/nginx/pull/21) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (4 weeks ago)
 - [🚑️ Fix ssl](https://github.com/likesistemas/nginx/pull/20) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (4 weeks ago)
-- [🐛 Fix read openssl legacy read](https://github.com/likesistemas/php/pull/40) on [likesistemas/php](https://github.com/likesistemas/php) (1 month ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
