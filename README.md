@@ -5,7 +5,7 @@
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags. (1 week ago)
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) - Container Docker que faz o deploy. (2 weeks ago)
 - [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) - Integração com phinx usando codeception. (2 weeks ago)
-- [likesistemas/nginx](https://github.com/likesistemas/nginx) (4 weeks ago)
+- [likesistemas/nginx](https://github.com/likesistemas/nginx) (1 month ago)
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (1 month ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
@@ -26,11 +26,11 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [Setup composer and others tools](https://github.com/DiTso/dUnzip2/pull/1) on [DiTso/dUnzip2](https://github.com/DiTso/dUnzip2) (today)
-- [Setup composer, vscode, php-cs-fixer and php-stan](https://github.com/ricardoapaes/dUnzip2/pull/1) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (today)
+- [Setup composer and others tools](https://github.com/DiTso/dUnzip2/pull/1) on [DiTso/dUnzip2](https://github.com/DiTso/dUnzip2) (1 day ago)
+- [Setup composer, vscode, php-cs-fixer and php-stan](https://github.com/ricardoapaes/dUnzip2/pull/1) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (1 day ago)
 - [🚑️ Increase memory limit to 2048M](https://github.com/ricardoapaes/action-s3-upload/pull/3) on [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) (1 week ago)
 - [✨ [EIC-881] Adicionando configuração para desativar seed](https://github.com/likesistemas/codeception-phinx-module/pull/3) on [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) (2 weeks ago)
-- [🚑️ Use `apt-get` no lugar do `apt`](https://github.com/likesistemas/nginx/pull/21) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (4 weeks ago)
+- [🚑️ Use `apt-get` no lugar do `apt`](https://github.com/likesistemas/nginx/pull/21) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (1 month ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
