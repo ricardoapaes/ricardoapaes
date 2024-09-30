@@ -26,11 +26,11 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
+- [⬇️ Change to PSR-0](https://github.com/ricardoapaes/dUnzip2/pull/3) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (today)
 - [Add tests](https://github.com/ricardoapaes/dUnzip2/pull/2) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (3 days ago)
 - [Setup composer and others tools](https://github.com/DiTso/dUnzip2/pull/1) on [DiTso/dUnzip2](https://github.com/DiTso/dUnzip2) (4 days ago)
 - [Setup composer, vscode, php-cs-fixer and php-stan](https://github.com/ricardoapaes/dUnzip2/pull/1) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (4 days ago)
 - [🚑️ Increase memory limit to 2048M](https://github.com/ricardoapaes/action-s3-upload/pull/3) on [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) (1 week ago)
-- [✨ [EIC-881] Adicionando configuração para desativar seed](https://github.com/likesistemas/codeception-phinx-module/pull/3) on [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) (2 weeks ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
