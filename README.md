@@ -20,21 +20,21 @@
 
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.2.2](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.2.2), 1 week ago) - Upload files to S3 with tags.
 - [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) ([v1.3.0](https://github.com/likesistemas/codeception-phinx-module/releases/tag/v1.3.0), 2 weeks ago) - Integração com phinx usando codeception.
-- [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2024.08](https://github.com/likesistemas/sistema-core/releases/tag/v2024.08), 1 month ago) - Container Docker que faz o deploy.
+- [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2024.08](https://github.com/likesistemas/sistema-core/releases/tag/v2024.08), 2 months ago) - Container Docker que faz o deploy.
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2024.03](https://github.com/likesistemas/php-dev/releases/tag/v2024.03), 6 months ago) - PHP container for development.
 - [likesistemas/php](https://github.com/likesistemas/php) ([v2023.05](https://github.com/likesistemas/php/releases/tag/v2023.05), 1 year ago) - Container Docker em PHP-FPM 
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [Add tests](https://github.com/ricardoapaes/dUnzip2/pull/2) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (2 days ago)
-- [Setup composer and others tools](https://github.com/DiTso/dUnzip2/pull/1) on [DiTso/dUnzip2](https://github.com/DiTso/dUnzip2) (3 days ago)
-- [Setup composer, vscode, php-cs-fixer and php-stan](https://github.com/ricardoapaes/dUnzip2/pull/1) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (3 days ago)
+- [Add tests](https://github.com/ricardoapaes/dUnzip2/pull/2) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (3 days ago)
+- [Setup composer and others tools](https://github.com/DiTso/dUnzip2/pull/1) on [DiTso/dUnzip2](https://github.com/DiTso/dUnzip2) (4 days ago)
+- [Setup composer, vscode, php-cs-fixer and php-stan](https://github.com/ricardoapaes/dUnzip2/pull/1) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (4 days ago)
 - [🚑️ Increase memory limit to 2048M](https://github.com/ricardoapaes/action-s3-upload/pull/3) on [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) (1 week ago)
 - [✨ [EIC-881] Adicionando configuração para desativar seed](https://github.com/likesistemas/codeception-phinx-module/pull/3) on [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) (2 weeks ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
-- [therealparmesh/object-to-formdata](https://github.com/therealparmesh/object-to-formdata) - Convenient JavaScript function that serializes Objects to FormData instances. (2 months ago)
+- [therealparmesh/object-to-formdata](https://github.com/therealparmesh/object-to-formdata) - Convenient JavaScript function that serializes Objects to FormData instances. (3 months ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models. (3 months ago)
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags. (3 months ago)
 - [fudan-generative-vision/hallo](https://github.com/fudan-generative-vision/hallo) - Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation (3 months ago)
