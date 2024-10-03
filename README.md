@@ -26,11 +26,11 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [🚑️ Fix `chmod` permissions](https://github.com/ricardoapaes/dUnzip2/pull/4) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (1 day ago)
-- [⬇️ Change to PSR-0](https://github.com/ricardoapaes/dUnzip2/pull/3) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (2 days ago)
-- [Add tests](https://github.com/ricardoapaes/dUnzip2/pull/2) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (5 days ago)
-- [Setup composer and others tools](https://github.com/DiTso/dUnzip2/pull/1) on [DiTso/dUnzip2](https://github.com/DiTso/dUnzip2) (6 days ago)
-- [Setup composer, vscode, php-cs-fixer and php-stan](https://github.com/ricardoapaes/dUnzip2/pull/1) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (6 days ago)
+- [🚑️ Fix `chmod` permissions](https://github.com/ricardoapaes/dUnzip2/pull/4) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (2 days ago)
+- [⬇️ Change to PSR-0](https://github.com/ricardoapaes/dUnzip2/pull/3) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (3 days ago)
+- [Add tests](https://github.com/ricardoapaes/dUnzip2/pull/2) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (6 days ago)
+- [Setup composer and others tools](https://github.com/DiTso/dUnzip2/pull/1) on [DiTso/dUnzip2](https://github.com/DiTso/dUnzip2) (1 week ago)
+- [Setup composer, vscode, php-cs-fixer and php-stan](https://github.com/ricardoapaes/dUnzip2/pull/1) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (1 week ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
@@ -38,7 +38,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models. (3 months ago)
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags. (3 months ago)
 - [fudan-generative-vision/hallo](https://github.com/fudan-generative-vision/hallo) - Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation (3 months ago)
-- [wandb/openui](https://github.com/wandb/openui) - OpenUI let&#39;s you describe UI using your imagination, then see it rendered live. (4 months ago)
+- [wandb/openui](https://github.com/wandb/openui) - OpenUI let&#39;s you describe UI using your imagination, then see it rendered live. (5 months ago)
 
 #### 📫 How to reach me | Como chegar até mim
 
