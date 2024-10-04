@@ -26,9 +26,9 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [🚑️ Fix `chmod` permissions](https://github.com/ricardoapaes/dUnzip2/pull/4) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (2 days ago)
-- [⬇️ Change to PSR-0](https://github.com/ricardoapaes/dUnzip2/pull/3) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (3 days ago)
-- [Add tests](https://github.com/ricardoapaes/dUnzip2/pull/2) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (6 days ago)
+- [🚑️ Fix `chmod` permissions](https://github.com/ricardoapaes/dUnzip2/pull/4) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (3 days ago)
+- [⬇️ Change to PSR-0](https://github.com/ricardoapaes/dUnzip2/pull/3) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (4 days ago)
+- [Add tests](https://github.com/ricardoapaes/dUnzip2/pull/2) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (1 week ago)
 - [Setup composer and others tools](https://github.com/DiTso/dUnzip2/pull/1) on [DiTso/dUnzip2](https://github.com/DiTso/dUnzip2) (1 week ago)
 - [Setup composer, vscode, php-cs-fixer and php-stan](https://github.com/ricardoapaes/dUnzip2/pull/1) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (1 week ago)
 
