@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags. (3 weeks ago)
+- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags. (4 weeks ago)
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) - Container Docker que faz o deploy. (1 month ago)
 - [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) - Integração com phinx usando codeception. (1 month ago)
 - [likesistemas/nginx](https://github.com/likesistemas/nginx) (1 month ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.2.2](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.2.2), 3 weeks ago) - Upload files to S3 with tags.
+- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.2.2](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.2.2), 4 weeks ago) - Upload files to S3 with tags.
 - [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) ([v1.3.0](https://github.com/likesistemas/codeception-phinx-module/releases/tag/v1.3.0), 1 month ago) - Integração com phinx usando codeception.
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2024.08](https://github.com/likesistemas/sistema-core/releases/tag/v2024.08), 2 months ago) - Container Docker que faz o deploy.
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2024.03](https://github.com/likesistemas/php-dev/releases/tag/v2024.03), 6 months ago) - PHP container for development.
@@ -27,7 +27,7 @@
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
 - [🚑️ Throwing exception when failure](https://github.com/ricardoapaes/dUnzip2/pull/5) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (1 week ago)
-- [🚑️ Fix `chmod` permissions](https://github.com/ricardoapaes/dUnzip2/pull/4) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (1 week ago)
+- [🚑️ Fix `chmod` permissions](https://github.com/ricardoapaes/dUnzip2/pull/4) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (2 weeks ago)
 - [⬇️ Change to PSR-0](https://github.com/ricardoapaes/dUnzip2/pull/3) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (2 weeks ago)
 - [Add tests](https://github.com/ricardoapaes/dUnzip2/pull/2) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (2 weeks ago)
 - [Setup composer and others tools](https://github.com/DiTso/dUnzip2/pull/1) on [DiTso/dUnzip2](https://github.com/DiTso/dUnzip2) (2 weeks ago)
