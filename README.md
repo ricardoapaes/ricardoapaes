@@ -26,11 +26,11 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
+- [feat: create docker image for server only](https://github.com/ekzhang/bore/pull/137) on [ekzhang/bore](https://github.com/ekzhang/bore) (today)
+- [🔧 Adding minimum and maximum port as environment variable](https://github.com/ekzhang/bore/pull/136) on [ekzhang/bore](https://github.com/ekzhang/bore) (today)
 - [🚑️ Throwing exception when failure](https://github.com/ricardoapaes/dUnzip2/pull/5) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (1 week ago)
 - [🚑️ Fix `chmod` permissions](https://github.com/ricardoapaes/dUnzip2/pull/4) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (2 weeks ago)
 - [⬇️ Change to PSR-0](https://github.com/ricardoapaes/dUnzip2/pull/3) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (2 weeks ago)
-- [Add tests](https://github.com/ricardoapaes/dUnzip2/pull/2) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (2 weeks ago)
-- [Setup composer and others tools](https://github.com/DiTso/dUnzip2/pull/1) on [DiTso/dUnzip2](https://github.com/DiTso/dUnzip2) (2 weeks ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
