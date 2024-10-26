@@ -26,11 +26,11 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
+- [✨ Adding collation and charset in settings](https://github.com/likesistemas/eloquent-external/pull/6) on [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) (today)
 - [✨ Compiling image directly from source code](https://github.com/ricardoapaes/bore-server/pull/2) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (1 week ago)
 - [feat: create docker image for server only](https://github.com/ekzhang/bore/pull/137) on [ekzhang/bore](https://github.com/ekzhang/bore) (1 week ago)
 - [🔧 Adding minimum and maximum port as environment variable](https://github.com/ekzhang/bore/pull/136) on [ekzhang/bore](https://github.com/ekzhang/bore) (1 week ago)
 - [🚑️ Throwing exception when failure](https://github.com/ricardoapaes/dUnzip2/pull/5) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (3 weeks ago)
-- [🚑️ Fix `chmod` permissions](https://github.com/ricardoapaes/dUnzip2/pull/4) on [ricardoapaes/dUnzip2](https://github.com/ricardoapaes/dUnzip2) (3 weeks ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
