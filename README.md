@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
+- [ricardoapaes/check-encoding-ci](https://github.com/ricardoapaes/check-encoding-ci) - Checks and encodes files in the repository. (today)
 - [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) - API to consult Restful webservices from IBPT, seeking for consumer taxes on sales (3 days ago)
 - [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework. (4 days ago)
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (1 week ago)
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (2 weeks ago)
-- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags. (1 month ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
 
+- [ricardoapaes/check-encoding-ci](https://github.com/ricardoapaes/check-encoding-ci) - Checks and encodes files in the repository.
 - [ricardoapaes/docker-glpi](https://github.com/ricardoapaes/docker-glpi)
 - [ricardoapaes/k6-example](https://github.com/ricardoapaes/k6-example) - Exemplo de uso K6
 - [ricardoapaes/setup-wsl2](https://github.com/ricardoapaes/setup-wsl2) - Habilitando e instalando wsl2 distro usando inno setup.
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain.
-- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags.
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
