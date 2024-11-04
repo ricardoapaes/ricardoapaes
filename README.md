@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [ricardoapaes/check-encoding-ci](https://github.com/ricardoapaes/check-encoding-ci) - Checks and encodes files in the repository. (2 days ago)
-- [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) - API to consult Restful webservices from IBPT, seeking for consumer taxes on sales (5 days ago)
-- [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework. (6 days ago)
-- [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (1 week ago)
+- [ricardoapaes/check-encoding-ci](https://github.com/ricardoapaes/check-encoding-ci) - Checks and encodes files in the repository. (3 days ago)
+- [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) - API to consult Restful webservices from IBPT, seeking for consumer taxes on sales (6 days ago)
+- [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework. (1 week ago)
+- [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (2 weeks ago)
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (2 weeks ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
@@ -18,17 +18,17 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [ricardoapaes/check-encoding-ci](https://github.com/ricardoapaes/check-encoding-ci) ([v0.0.1](https://github.com/ricardoapaes/check-encoding-ci/releases/tag/v0.0.1), 2 days ago) - Checks and encodes files in the repository.
-- [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) ([v1.3.0](https://github.com/likesistemas/eloquent-external/releases/tag/v1.3.0), 6 days ago) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework.
+- [ricardoapaes/check-encoding-ci](https://github.com/ricardoapaes/check-encoding-ci) ([v0.0.1](https://github.com/ricardoapaes/check-encoding-ci/releases/tag/v0.0.1), 3 days ago) - Checks and encodes files in the repository.
+- [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) ([v1.3.0](https://github.com/likesistemas/eloquent-external/releases/tag/v1.3.0), 1 week ago) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework.
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.2.2](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.2.2), 1 month ago) - Upload files to S3 with tags.
 - [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) ([v1.3.0](https://github.com/likesistemas/codeception-phinx-module/releases/tag/v1.3.0), 1 month ago) - Integração com phinx usando codeception.
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2024.08](https://github.com/likesistemas/sistema-core/releases/tag/v2024.08), 3 months ago) - Container Docker que faz o deploy.
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [🚨 Corrigindo erros phpcs](https://github.com/nfephp-org/sped-ibpt/pull/31) on [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) (5 days ago)
-- [🚨 Corrigindo erros phpcs](https://github.com/nfephp-org/sped-ibpt/pull/30) on [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) (5 days ago)
-- [✨ Adicionando parametro timeout](https://github.com/nfephp-org/sped-ibpt/pull/29) on [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) (5 days ago)
+- [🚨 Corrigindo erros phpcs](https://github.com/nfephp-org/sped-ibpt/pull/31) on [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) (6 days ago)
+- [🚨 Corrigindo erros phpcs](https://github.com/nfephp-org/sped-ibpt/pull/30) on [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) (6 days ago)
+- [✨ Adicionando parametro timeout](https://github.com/nfephp-org/sped-ibpt/pull/29) on [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) (6 days ago)
 - [✨ Adding collation and charset in settings](https://github.com/likesistemas/eloquent-external/pull/6) on [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) (1 week ago)
 - [✨ Compiling image directly from source code](https://github.com/ricardoapaes/bore-server/pull/2) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (2 weeks ago)
 
