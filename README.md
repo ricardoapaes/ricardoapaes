@@ -6,7 +6,7 @@
 - [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) - API to consult Restful webservices from IBPT, seeking for consumer taxes on sales (2 weeks ago)
 - [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework. (2 weeks ago)
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (3 weeks ago)
-- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (4 weeks ago)
+- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (1 month ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
 
@@ -30,7 +30,7 @@
 - [🚨 Corrigindo erros phpcs](https://github.com/nfephp-org/sped-ibpt/pull/30) on [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) (2 weeks ago)
 - [✨ Adicionando parametro timeout](https://github.com/nfephp-org/sped-ibpt/pull/29) on [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) (2 weeks ago)
 - [✨ Adding collation and charset in settings](https://github.com/likesistemas/eloquent-external/pull/6) on [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) (2 weeks ago)
-- [✨ Compiling image directly from source code](https://github.com/ricardoapaes/bore-server/pull/2) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (4 weeks ago)
+- [✨ Compiling image directly from source code](https://github.com/ricardoapaes/bore-server/pull/2) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (1 month ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
