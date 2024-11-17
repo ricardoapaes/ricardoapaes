@@ -34,9 +34,9 @@
 
 #### ⭐ Recent stars | Estrelas recentes
 
-- [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to check whether a specific composer package uses imported symbols that aren&#39;t part of its direct composer dependencies (3 weeks ago)
-- [adrienbrault/instructrice](https://github.com/adrienbrault/instructrice) - 👩‍🏫 Typed LLM Outputs in PHP. Supports GPT, Claude, Gemini or any OpenAI compatible provider! (3 weeks ago)
-- [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) - 🎵 Provides a composer plugin for normalizing composer.json. (3 weeks ago)
+- [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to check whether a specific composer package uses imported symbols that aren&#39;t part of its direct composer dependencies (4 weeks ago)
+- [adrienbrault/instructrice](https://github.com/adrienbrault/instructrice) - 👩‍🏫 Typed LLM Outputs in PHP. Supports GPT, Claude, Gemini or any OpenAI compatible provider! (4 weeks ago)
+- [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) - 🎵 Provides a composer plugin for normalizing composer.json. (4 weeks ago)
 - [therealparmesh/object-to-formdata](https://github.com/therealparmesh/object-to-formdata) - Convenient JavaScript function that serializes Objects to FormData instances. (4 months ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models. (4 months ago)
 
