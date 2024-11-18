@@ -4,8 +4,8 @@
 
 - [ricardoapaes/check-encoding-ci](https://github.com/ricardoapaes/check-encoding-ci) - Checks and encodes files in the repository. (1 week ago)
 - [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) - API to consult Restful webservices from IBPT, seeking for consumer taxes on sales (2 weeks ago)
-- [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework. (2 weeks ago)
-- [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (3 weeks ago)
+- [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework. (3 weeks ago)
+- [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (4 weeks ago)
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (1 month ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
@@ -19,7 +19,7 @@
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
 - [ricardoapaes/check-encoding-ci](https://github.com/ricardoapaes/check-encoding-ci) ([v1.0.0](https://github.com/ricardoapaes/check-encoding-ci/releases/tag/v1.0.0), 1 week ago) - Checks and encodes files in the repository.
-- [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) ([v1.3.0](https://github.com/likesistemas/eloquent-external/releases/tag/v1.3.0), 2 weeks ago) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework.
+- [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) ([v1.3.0](https://github.com/likesistemas/eloquent-external/releases/tag/v1.3.0), 3 weeks ago) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework.
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.2.2](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.2.2), 2 months ago) - Upload files to S3 with tags.
 - [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) ([v1.3.0](https://github.com/likesistemas/codeception-phinx-module/releases/tag/v1.3.0), 2 months ago) - Integração com phinx usando codeception.
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2024.08](https://github.com/likesistemas/sistema-core/releases/tag/v2024.08), 3 months ago) - Container Docker que faz o deploy.
