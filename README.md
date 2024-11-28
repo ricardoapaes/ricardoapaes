@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
 - [ricardoapaes/check-encoding-ci](https://github.com/ricardoapaes/check-encoding-ci) - Checks and encodes files in the repository. (3 weeks ago)
-- [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) - API to consult Restful webservices from IBPT, seeking for consumer taxes on sales (4 weeks ago)
+- [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) - API to consult Restful webservices from IBPT, seeking for consumer taxes on sales (1 month ago)
 - [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework. (1 month ago)
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (1 month ago)
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (1 month ago)
@@ -26,9 +26,9 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [🚨 Corrigindo erros phpcs](https://github.com/nfephp-org/sped-ibpt/pull/31) on [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) (4 weeks ago)
-- [🚨 Corrigindo erros phpcs](https://github.com/nfephp-org/sped-ibpt/pull/30) on [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) (4 weeks ago)
-- [✨ Adicionando parametro timeout](https://github.com/nfephp-org/sped-ibpt/pull/29) on [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) (4 weeks ago)
+- [🚨 Corrigindo erros phpcs](https://github.com/nfephp-org/sped-ibpt/pull/31) on [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) (1 month ago)
+- [🚨 Corrigindo erros phpcs](https://github.com/nfephp-org/sped-ibpt/pull/30) on [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) (1 month ago)
+- [✨ Adicionando parametro timeout](https://github.com/nfephp-org/sped-ibpt/pull/29) on [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) (1 month ago)
 - [✨ Adding collation and charset in settings](https://github.com/likesistemas/eloquent-external/pull/6) on [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) (1 month ago)
 - [✨ Compiling image directly from source code](https://github.com/ricardoapaes/bore-server/pull/2) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (1 month ago)
 
@@ -38,7 +38,7 @@
 - [adrienbrault/instructrice](https://github.com/adrienbrault/instructrice) - 👩‍🏫 Typed LLM Outputs in PHP. Supports GPT, Claude, Gemini or any OpenAI compatible provider! (1 month ago)
 - [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) - 🎵 Provides a composer plugin for normalizing composer.json. (1 month ago)
 - [therealparmesh/object-to-formdata](https://github.com/therealparmesh/object-to-formdata) - Convenient JavaScript function that serializes Objects to FormData instances. (4 months ago)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models. (4 months ago)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models. (5 months ago)
 
 #### 📫 How to reach me | Como chegar até mim
 
