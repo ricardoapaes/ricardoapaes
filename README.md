@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
+- [ekzhang/bore](https://github.com/ekzhang/bore) ([v0.5.2](https://github.com/ekzhang/bore/releases/tag/v0.5.2), today) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [ricardoapaes/check-encoding-ci](https://github.com/ricardoapaes/check-encoding-ci) ([v1.0.0](https://github.com/ricardoapaes/check-encoding-ci/releases/tag/v1.0.0), 1 month ago) - Checks and encodes files in the repository.
 - [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) ([v1.3.0](https://github.com/likesistemas/eloquent-external/releases/tag/v1.3.0), 1 month ago) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework.
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.2.2](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.2.2), 2 months ago) - Upload files to S3 with tags.
 - [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) ([v1.3.0](https://github.com/likesistemas/codeception-phinx-module/releases/tag/v1.3.0), 2 months ago) - Integração com phinx usando codeception.
-- [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2024.08](https://github.com/likesistemas/sistema-core/releases/tag/v2024.08), 4 months ago) - Container Docker que faz o deploy.
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
