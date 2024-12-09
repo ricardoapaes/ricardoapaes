@@ -38,7 +38,7 @@
 - [adrienbrault/instructrice](https://github.com/adrienbrault/instructrice) - 👩‍🏫 Typed LLM Outputs in PHP. Supports GPT, Claude, Gemini or any OpenAI compatible provider! (1 month ago)
 - [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) - 🎵 Provides a composer plugin for normalizing composer.json. (1 month ago)
 - [therealparmesh/object-to-formdata](https://github.com/therealparmesh/object-to-formdata) - Convenient JavaScript function that serializes Objects to FormData instances. (5 months ago)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models. (5 months ago)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models. (5 months ago)
 
 #### 📫 How to reach me | Como chegar até mim
 
