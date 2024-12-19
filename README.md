@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [likesistemas/composer-empty](https://github.com/likesistemas/composer-empty) - Biblioteca base para usar em uma lib usando composer. (today)
+- [likesistemas/composer-empty](https://github.com/likesistemas/composer-empty) - Biblioteca base para usar em uma lib usando composer. (1 day ago)
 - [ricardoapaes/psr-logger-test](https://github.com/ricardoapaes/psr-logger-test) - A PSR-3 logger test implementation. (1 week ago)
 - [ricardoapaes/check-encoding-ci](https://github.com/ricardoapaes/check-encoding-ci) - Checks and encodes files in the repository. (1 month ago)
 - [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) - API to consult Restful webservices from IBPT, seeking for consumer taxes on sales (1 month ago)
@@ -19,7 +19,7 @@
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
 - [ricardoapaes/psr-logger-test](https://github.com/ricardoapaes/psr-logger-test) ([v1.1.0](https://github.com/ricardoapaes/psr-logger-test/releases/tag/v1.1.0), 1 week ago) - A PSR-3 logger test implementation.
-- [ekzhang/bore](https://github.com/ekzhang/bore) ([v0.5.2](https://github.com/ekzhang/bore/releases/tag/v0.5.2), 1 week ago) - 🕳 bore is a simple CLI tool for making tunnels to localhost
+- [ekzhang/bore](https://github.com/ekzhang/bore) ([v0.5.2](https://github.com/ekzhang/bore/releases/tag/v0.5.2), 2 weeks ago) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [ricardoapaes/check-encoding-ci](https://github.com/ricardoapaes/check-encoding-ci) ([v1.0.0](https://github.com/ricardoapaes/check-encoding-ci/releases/tag/v1.0.0), 1 month ago) - Checks and encodes files in the repository.
 - [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) ([v1.3.0](https://github.com/likesistemas/eloquent-external/releases/tag/v1.3.0), 1 month ago) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework.
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.2.2](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.2.2), 3 months ago) - Upload files to S3 with tags.
@@ -35,9 +35,9 @@
 #### ⭐ Recent stars | Estrelas recentes
 
 - [realrashid/laravel-zoho-cliq](https://github.com/realrashid/laravel-zoho-cliq) - A Laravel package for integrating with Zoho Cliq, allowing you to send messages, notifications, and rich content seamlessly from your Laravel application. (1 week ago)
-- [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to check whether a specific composer package uses imported symbols that aren&#39;t part of its direct composer dependencies (1 month ago)
-- [adrienbrault/instructrice](https://github.com/adrienbrault/instructrice) - 👩‍🏫 Typed LLM Outputs in PHP. Supports GPT, Claude, Gemini or any OpenAI compatible provider! (1 month ago)
-- [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) - 🎵 Provides a composer plugin for normalizing composer.json. (1 month ago)
+- [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to check whether a specific composer package uses imported symbols that aren&#39;t part of its direct composer dependencies (2 months ago)
+- [adrienbrault/instructrice](https://github.com/adrienbrault/instructrice) - 👩‍🏫 Typed LLM Outputs in PHP. Supports GPT, Claude, Gemini or any OpenAI compatible provider! (2 months ago)
+- [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) - 🎵 Provides a composer plugin for normalizing composer.json. (2 months ago)
 - [therealparmesh/object-to-formdata](https://github.com/therealparmesh/object-to-formdata) - Convenient JavaScript function that serializes Objects to FormData instances. (5 months ago)
 
 #### 📫 How to reach me | Como chegar até mim
