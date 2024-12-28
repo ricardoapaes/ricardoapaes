@@ -5,7 +5,7 @@
 - [likesistemas/composer-empty](https://github.com/likesistemas/composer-empty) - Biblioteca base para usar em uma lib usando composer. (1 week ago)
 - [ricardoapaes/psr-logger-test](https://github.com/ricardoapaes/psr-logger-test) - A PSR-3 logger test implementation. (3 weeks ago)
 - [ricardoapaes/check-encoding-ci](https://github.com/ricardoapaes/check-encoding-ci) - Checks and encodes files in the repository. (1 month ago)
-- [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) - API to consult Restful webservices from IBPT, seeking for consumer taxes on sales (1 month ago)
+- [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) - API to consult Restful webservices from IBPT, seeking for consumer taxes on sales (2 months ago)
 - [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework. (2 months ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
@@ -28,9 +28,9 @@
 
 - [✨ [GEST-2428] `LoggerTest` Implementation that already existed in psr/log v1.0](https://github.com/ricardoapaes/psr-logger-test/pull/2) on [ricardoapaes/psr-logger-test](https://github.com/ricardoapaes/psr-logger-test) (3 weeks ago)
 - [✨ [GEST-2428] `LoggerTest` Implementation that already existed in psr/log v1.0](https://github.com/ricardoapaes/psr-logger-test/pull/1) on [ricardoapaes/psr-logger-test](https://github.com/ricardoapaes/psr-logger-test) (3 weeks ago)
-- [🚨 Corrigindo erros phpcs](https://github.com/nfephp-org/sped-ibpt/pull/31) on [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) (1 month ago)
-- [🚨 Corrigindo erros phpcs](https://github.com/nfephp-org/sped-ibpt/pull/30) on [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) (1 month ago)
-- [✨ Adicionando parametro timeout](https://github.com/nfephp-org/sped-ibpt/pull/29) on [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) (1 month ago)
+- [🚨 Corrigindo erros phpcs](https://github.com/nfephp-org/sped-ibpt/pull/31) on [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) (2 months ago)
+- [🚨 Corrigindo erros phpcs](https://github.com/nfephp-org/sped-ibpt/pull/30) on [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) (2 months ago)
+- [✨ Adicionando parametro timeout](https://github.com/nfephp-org/sped-ibpt/pull/29) on [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) (2 months ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
