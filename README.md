@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (1 day ago)
-- [likesistemas/composer-empty](https://github.com/likesistemas/composer-empty) - Biblioteca base para usar em uma lib usando composer. (1 week ago)
+- [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (2 days ago)
+- [likesistemas/composer-empty](https://github.com/likesistemas/composer-empty) - Biblioteca base para usar em uma lib usando composer. (2 weeks ago)
 - [ricardoapaes/psr-logger-test](https://github.com/ricardoapaes/psr-logger-test) - A PSR-3 logger test implementation. (3 weeks ago)
 - [ricardoapaes/check-encoding-ci](https://github.com/ricardoapaes/check-encoding-ci) - Checks and encodes files in the repository. (1 month ago)
 - [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) - API to consult Restful webservices from IBPT, seeking for consumer taxes on sales (2 months ago)
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent stars | Estrelas recentes
 
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (1 day ago)
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (2 days ago)
 - [FakerPHP/Faker](https://github.com/FakerPHP/Faker) - Faker is a PHP library that generates fake data for you (1 week ago)
 - [realrashid/laravel-zoho-cliq](https://github.com/realrashid/laravel-zoho-cliq) - A Laravel package for integrating with Zoho Cliq, allowing you to send messages, notifications, and rich content seamlessly from your Laravel application. (3 weeks ago)
 - [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to check whether a specific composer package uses imported symbols that aren&#39;t part of its direct composer dependencies (2 months ago)
