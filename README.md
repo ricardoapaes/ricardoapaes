@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
+- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags. (today)
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (1 week ago)
 - [likesistemas/composer-empty](https://github.com/likesistemas/composer-empty) - Biblioteca base para usar em uma lib usando composer. (2 weeks ago)
 - [ricardoapaes/psr-logger-test](https://github.com/ricardoapaes/psr-logger-test) - A PSR-3 logger test implementation. (1 month ago)
 - [ricardoapaes/check-encoding-ci](https://github.com/ricardoapaes/check-encoding-ci) - Checks and encodes files in the repository. (2 months ago)
-- [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) - API to consult Restful webservices from IBPT, seeking for consumer taxes on sales (2 months ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
 
@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
+- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.3.0](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.3.0), today) - Upload files to S3 with tags.
 - [ricardoapaes/psr-logger-test](https://github.com/ricardoapaes/psr-logger-test) ([v1.1.0](https://github.com/ricardoapaes/psr-logger-test/releases/tag/v1.1.0), 1 month ago) - A PSR-3 logger test implementation.
 - [ekzhang/bore](https://github.com/ekzhang/bore) ([v0.5.2](https://github.com/ekzhang/bore/releases/tag/v0.5.2), 1 month ago) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [ricardoapaes/check-encoding-ci](https://github.com/ricardoapaes/check-encoding-ci) ([v1.0.0](https://github.com/ricardoapaes/check-encoding-ci/releases/tag/v1.0.0), 2 months ago) - Checks and encodes files in the repository.
 - [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) ([v1.3.0](https://github.com/likesistemas/eloquent-external/releases/tag/v1.3.0), 2 months ago) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework.
-- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.2.2](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.2.2), 3 months ago) - Upload files to S3 with tags.
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
