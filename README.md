@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags. (1 day ago)
+- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags. (2 days ago)
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (1 week ago)
-- [likesistemas/composer-empty](https://github.com/likesistemas/composer-empty) - Biblioteca base para usar em uma lib usando composer. (2 weeks ago)
+- [likesistemas/composer-empty](https://github.com/likesistemas/composer-empty) - Biblioteca base para usar em uma lib usando composer. (3 weeks ago)
 - [ricardoapaes/psr-logger-test](https://github.com/ricardoapaes/psr-logger-test) - A PSR-3 logger test implementation. (1 month ago)
 - [ricardoapaes/check-encoding-ci](https://github.com/ricardoapaes/check-encoding-ci) - Checks and encodes files in the repository. (2 months ago)
 
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.3.0](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.3.0), 1 day ago) - Upload files to S3 with tags.
+- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.3.0](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.3.0), 2 days ago) - Upload files to S3 with tags.
 - [ricardoapaes/psr-logger-test](https://github.com/ricardoapaes/psr-logger-test) ([v1.1.0](https://github.com/ricardoapaes/psr-logger-test/releases/tag/v1.1.0), 1 month ago) - A PSR-3 logger test implementation.
 - [ekzhang/bore](https://github.com/ekzhang/bore) ([v0.5.2](https://github.com/ekzhang/bore/releases/tag/v0.5.2), 1 month ago) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [ricardoapaes/check-encoding-ci](https://github.com/ricardoapaes/check-encoding-ci) ([v1.0.0](https://github.com/ricardoapaes/check-encoding-ci/releases/tag/v1.0.0), 2 months ago) - Checks and encodes files in the repository.
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent stars | Estrelas recentes
 
-- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. (2 days ago)
-- [phpay-io/phpay](https://github.com/phpay-io/phpay) - Biblioteca de Integração Multi Gateway (2 days ago)
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. (3 days ago)
+- [phpay-io/phpay](https://github.com/phpay-io/phpay) - Biblioteca de Integração Multi Gateway (3 days ago)
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (1 week ago)
 - [FakerPHP/Faker](https://github.com/FakerPHP/Faker) - Faker is a PHP library that generates fake data for you (2 weeks ago)
 - [realrashid/laravel-zoho-cliq](https://github.com/realrashid/laravel-zoho-cliq) - A Laravel package for integrating with Zoho Cliq, allowing you to send messages, notifications, and rich content seamlessly from your Laravel application. (4 weeks ago)
