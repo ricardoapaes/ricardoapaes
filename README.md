@@ -26,11 +26,11 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
+- [✨ feat: Updating regex to fully support &#34;semver&#34;](https://github.com/orphan-oss/launch4j-maven-plugin/pull/424) on [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) (today)
 - [✨ [GEST-2428] `LoggerTest` Implementation that already existed in psr/log v1.0](https://github.com/ricardoapaes/psr-logger-test/pull/2) on [ricardoapaes/psr-logger-test](https://github.com/ricardoapaes/psr-logger-test) (1 month ago)
 - [✨ [GEST-2428] `LoggerTest` Implementation that already existed in psr/log v1.0](https://github.com/ricardoapaes/psr-logger-test/pull/1) on [ricardoapaes/psr-logger-test](https://github.com/ricardoapaes/psr-logger-test) (1 month ago)
 - [🚨 Corrigindo erros phpcs](https://github.com/nfephp-org/sped-ibpt/pull/31) on [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) (3 months ago)
 - [🚨 Corrigindo erros phpcs](https://github.com/nfephp-org/sped-ibpt/pull/30) on [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) (3 months ago)
-- [✨ Adicionando parametro timeout](https://github.com/nfephp-org/sped-ibpt/pull/29) on [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) (3 months ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
