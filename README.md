@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) - A Maven plugin which wraps Launch4j (6 days ago)
-- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags. (4 weeks ago)
+- [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) - A Maven plugin which wraps Launch4j (1 week ago)
+- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags. (1 month ago)
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (1 month ago)
 - [likesistemas/composer-empty](https://github.com/likesistemas/composer-empty) - Biblioteca base para usar em uma lib usando composer. (1 month ago)
 - [ricardoapaes/psr-logger-test](https://github.com/ricardoapaes/psr-logger-test) - A PSR-3 logger test implementation. (2 months ago)
@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) ([launch4j-maven-plugin-2.5.3](https://github.com/orphan-oss/launch4j-maven-plugin/releases/tag/launch4j-maven-plugin-2.5.3), 5 days ago) - A Maven plugin which wraps Launch4j
-- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.3.0](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.3.0), 4 weeks ago) - Upload files to S3 with tags.
+- [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) ([launch4j-maven-plugin-2.5.3](https://github.com/orphan-oss/launch4j-maven-plugin/releases/tag/launch4j-maven-plugin-2.5.3), 6 days ago) - A Maven plugin which wraps Launch4j
+- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.3.0](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.3.0), 1 month ago) - Upload files to S3 with tags.
 - [ricardoapaes/psr-logger-test](https://github.com/ricardoapaes/psr-logger-test) ([v1.1.0](https://github.com/ricardoapaes/psr-logger-test/releases/tag/v1.1.0), 2 months ago) - A PSR-3 logger test implementation.
 - [ekzhang/bore](https://github.com/ekzhang/bore) ([v0.5.2](https://github.com/ekzhang/bore/releases/tag/v0.5.2), 2 months ago) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [ricardoapaes/check-encoding-ci](https://github.com/ricardoapaes/check-encoding-ci) ([v1.0.0](https://github.com/ricardoapaes/check-encoding-ci/releases/tag/v1.0.0), 3 months ago) - Checks and encodes files in the repository.
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [✨ feat: Updating regex to fully support &#34;semver&#34;](https://github.com/orphan-oss/launch4j-maven-plugin/pull/424) on [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) (6 days ago)
+- [✨ feat: Updating regex to fully support &#34;semver&#34;](https://github.com/orphan-oss/launch4j-maven-plugin/pull/424) on [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) (1 week ago)
 - [✨ [GEST-2428] `LoggerTest` Implementation that already existed in psr/log v1.0](https://github.com/ricardoapaes/psr-logger-test/pull/2) on [ricardoapaes/psr-logger-test](https://github.com/ricardoapaes/psr-logger-test) (2 months ago)
 - [✨ [GEST-2428] `LoggerTest` Implementation that already existed in psr/log v1.0](https://github.com/ricardoapaes/psr-logger-test/pull/1) on [ricardoapaes/psr-logger-test](https://github.com/ricardoapaes/psr-logger-test) (2 months ago)
 - [🚨 Corrigindo erros phpcs](https://github.com/nfephp-org/sped-ibpt/pull/31) on [nfephp-org/sped-ibpt](https://github.com/nfephp-org/sped-ibpt) (3 months ago)
