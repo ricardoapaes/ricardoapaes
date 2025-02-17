@@ -26,7 +26,7 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [✨ [GEST-2855] Configurando SSL no apache](https://github.com/likesistemas/apache/pull/1) on [likesistemas/apache](https://github.com/likesistemas/apache) (1 day ago)
+- [✨ [GEST-2855] Configurando SSL no apache](https://github.com/likesistemas/apache/pull/1) on [likesistemas/apache](https://github.com/likesistemas/apache) (2 days ago)
 - [✨ feat: Updating regex to fully support &#34;semver&#34;](https://github.com/orphan-oss/launch4j-maven-plugin/pull/424) on [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) (2 weeks ago)
 - [✨ [GEST-2428] `LoggerTest` Implementation that already existed in psr/log v1.0](https://github.com/ricardoapaes/psr-logger-test/pull/2) on [ricardoapaes/psr-logger-test](https://github.com/ricardoapaes/psr-logger-test) (2 months ago)
 - [✨ [GEST-2428] `LoggerTest` Implementation that already existed in psr/log v1.0](https://github.com/ricardoapaes/psr-logger-test/pull/1) on [ricardoapaes/psr-logger-test](https://github.com/ricardoapaes/psr-logger-test) (2 months ago)
