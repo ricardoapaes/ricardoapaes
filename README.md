@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [lucas-pedrozo/testeOrcamento](https://github.com/lucas-pedrozo/testeOrcamento) - esse é um repositorio de uma avaliação de conhecimento (5 days ago)
+- [lucas-pedrozo/testeOrcamento](https://github.com/lucas-pedrozo/testeOrcamento) - esse é um repositorio de uma avaliação de conhecimento (6 days ago)
 - [likesistemas/apache](https://github.com/likesistemas/apache) (1 week ago)
 - [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) - A Maven plugin which wraps Launch4j (3 weeks ago)
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags. (1 month ago)
@@ -26,7 +26,7 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [:whale: Configurando para rodar usando Docker](https://github.com/lucas-pedrozo/testeOrcamento/pull/1) on [lucas-pedrozo/testeOrcamento](https://github.com/lucas-pedrozo/testeOrcamento) (5 days ago)
+- [:whale: Configurando para rodar usando Docker](https://github.com/lucas-pedrozo/testeOrcamento/pull/1) on [lucas-pedrozo/testeOrcamento](https://github.com/lucas-pedrozo/testeOrcamento) (6 days ago)
 - [✨ [GEST-2855] Configurando SSL no apache](https://github.com/likesistemas/apache/pull/1) on [likesistemas/apache](https://github.com/likesistemas/apache) (1 week ago)
 - [✨ feat: Updating regex to fully support &#34;semver&#34;](https://github.com/orphan-oss/launch4j-maven-plugin/pull/424) on [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) (3 weeks ago)
 - [✨ [GEST-2428] `LoggerTest` Implementation that already existed in psr/log v1.0](https://github.com/ricardoapaes/psr-logger-test/pull/2) on [ricardoapaes/psr-logger-test](https://github.com/ricardoapaes/psr-logger-test) (2 months ago)
