@@ -29,7 +29,7 @@
 - [🔧 Saving id in cookie for future access](https://github.com/ricardoapaes/bore-server/pull/4) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (1 week ago)
 - [🔧 Setting up reverse proxy for bore server](https://github.com/ricardoapaes/bore-server/pull/3) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (1 week ago)
 - [:whale: Configurando para rodar usando Docker](https://github.com/lucas-pedrozo/testeOrcamento/pull/1) on [lucas-pedrozo/testeOrcamento](https://github.com/lucas-pedrozo/testeOrcamento) (2 weeks ago)
-- [✨ [GEST-2855] Configurando SSL no apache](https://github.com/likesistemas/apache/pull/1) on [likesistemas/apache](https://github.com/likesistemas/apache) (2 weeks ago)
+- [✨ [GEST-2855] Configurando SSL no apache](https://github.com/likesistemas/apache/pull/1) on [likesistemas/apache](https://github.com/likesistemas/apache) (3 weeks ago)
 - [✨ feat: Updating regex to fully support &#34;semver&#34;](https://github.com/orphan-oss/launch4j-maven-plugin/pull/424) on [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) (1 month ago)
 
 #### ⭐ Recent stars | Estrelas recentes
