@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (1 week ago)
-- [lucas-pedrozo/testeOrcamento](https://github.com/lucas-pedrozo/testeOrcamento) - esse é um repositorio de uma avaliação de conhecimento (2 weeks ago)
+- [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (2 weeks ago)
+- [lucas-pedrozo/testeOrcamento](https://github.com/lucas-pedrozo/testeOrcamento) - esse é um repositorio de uma avaliação de conhecimento (3 weeks ago)
 - [likesistemas/apache](https://github.com/likesistemas/apache) (3 weeks ago)
 - [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) - A Maven plugin which wraps Launch4j (1 month ago)
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags. (2 months ago)
@@ -26,9 +26,9 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [🔧 Saving id in cookie for future access](https://github.com/ricardoapaes/bore-server/pull/4) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (1 week ago)
-- [🔧 Setting up reverse proxy for bore server](https://github.com/ricardoapaes/bore-server/pull/3) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (1 week ago)
-- [:whale: Configurando para rodar usando Docker](https://github.com/lucas-pedrozo/testeOrcamento/pull/1) on [lucas-pedrozo/testeOrcamento](https://github.com/lucas-pedrozo/testeOrcamento) (2 weeks ago)
+- [🔧 Saving id in cookie for future access](https://github.com/ricardoapaes/bore-server/pull/4) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (2 weeks ago)
+- [🔧 Setting up reverse proxy for bore server](https://github.com/ricardoapaes/bore-server/pull/3) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (2 weeks ago)
+- [:whale: Configurando para rodar usando Docker](https://github.com/lucas-pedrozo/testeOrcamento/pull/1) on [lucas-pedrozo/testeOrcamento](https://github.com/lucas-pedrozo/testeOrcamento) (3 weeks ago)
 - [✨ [GEST-2855] Configurando SSL no apache](https://github.com/likesistemas/apache/pull/1) on [likesistemas/apache](https://github.com/likesistemas/apache) (3 weeks ago)
 - [✨ feat: Updating regex to fully support &#34;semver&#34;](https://github.com/orphan-oss/launch4j-maven-plugin/pull/424) on [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) (1 month ago)
 
