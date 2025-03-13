@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (today)
+- [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (1 day ago)
 - [lucas-pedrozo/testeOrcamento](https://github.com/lucas-pedrozo/testeOrcamento) - esse é um repositorio de uma avaliação de conhecimento (3 weeks ago)
 - [likesistemas/apache](https://github.com/likesistemas/apache) (3 weeks ago)
 - [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) - A Maven plugin which wraps Launch4j (1 month ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) ([v2.1.0](https://github.com/ricardoapaes/bore-server/releases/tag/v2.1.0), today) - Bore server with https and subdomain.
+- [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) ([v2.1.0](https://github.com/ricardoapaes/bore-server/releases/tag/v2.1.0), 1 day ago) - Bore server with https and subdomain.
 - [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) ([launch4j-maven-plugin-2.5.3](https://github.com/orphan-oss/launch4j-maven-plugin/releases/tag/launch4j-maven-plugin-2.5.3), 1 month ago) - A Maven plugin which wraps Launch4j
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.3.0](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.3.0), 2 months ago) - Upload files to S3 with tags.
 - [ricardoapaes/psr-logger-test](https://github.com/ricardoapaes/psr-logger-test) ([v1.1.0](https://github.com/ricardoapaes/psr-logger-test/releases/tag/v1.1.0), 3 months ago) - A PSR-3 logger test implementation.
@@ -26,7 +26,7 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [🔧 Showing stream logs on stdout](https://github.com/ricardoapaes/bore-server/pull/5) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (today)
+- [🔧 Showing stream logs on stdout](https://github.com/ricardoapaes/bore-server/pull/5) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (1 day ago)
 - [🔧 Saving id in cookie for future access](https://github.com/ricardoapaes/bore-server/pull/4) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (2 weeks ago)
 - [🔧 Setting up reverse proxy for bore server](https://github.com/ricardoapaes/bore-server/pull/3) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (2 weeks ago)
 - [:whale: Configurando para rodar usando Docker](https://github.com/lucas-pedrozo/testeOrcamento/pull/1) on [lucas-pedrozo/testeOrcamento](https://github.com/lucas-pedrozo/testeOrcamento) (3 weeks ago)
