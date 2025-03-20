@@ -37,7 +37,7 @@
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. (2 months ago)
 - [phpay-io/phpay](https://github.com/phpay-io/phpay) - Biblioteca PHP para integração com meios de pagamento multi gateways. (2 months ago)
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (2 months ago)
-- [FakerPHP/Faker](https://github.com/FakerPHP/Faker) - Faker is a PHP library that generates fake data for you (2 months ago)
+- [FakerPHP/Faker](https://github.com/FakerPHP/Faker) - Faker is a PHP library that generates fake data for you (3 months ago)
 - [realrashid/laravel-zoho-cliq](https://github.com/realrashid/laravel-zoho-cliq) - A Laravel package for integrating with Zoho Cliq, allowing you to send messages, notifications, and rich content seamlessly from your Laravel application. (3 months ago)
 
 #### 📫 How to reach me | Como chegar até mim
