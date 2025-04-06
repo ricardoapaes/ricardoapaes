@@ -6,7 +6,7 @@
 - [lucas-pedrozo/testeOrcamento](https://github.com/lucas-pedrozo/testeOrcamento) - esse é um repositorio de uma avaliação de conhecimento (1 month ago)
 - [likesistemas/apache](https://github.com/likesistemas/apache) (1 month ago)
 - [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) - A Maven plugin which wraps Launch4j (2 months ago)
-- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags. (2 months ago)
+- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags. (3 months ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
 
@@ -20,7 +20,7 @@
 
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) ([v2.1.0](https://github.com/ricardoapaes/bore-server/releases/tag/v2.1.0), 3 weeks ago) - Bore server with https and subdomain.
 - [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) ([launch4j-maven-plugin-2.5.3](https://github.com/orphan-oss/launch4j-maven-plugin/releases/tag/launch4j-maven-plugin-2.5.3), 2 months ago) - A Maven plugin which wraps Launch4j
-- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.3.0](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.3.0), 2 months ago) - Upload files to S3 with tags.
+- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.3.0](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.3.0), 3 months ago) - Upload files to S3 with tags.
 - [ricardoapaes/psr-logger-test](https://github.com/ricardoapaes/psr-logger-test) ([v1.1.0](https://github.com/ricardoapaes/psr-logger-test/releases/tag/v1.1.0), 4 months ago) - A PSR-3 logger test implementation.
 - [ekzhang/bore](https://github.com/ekzhang/bore) ([v0.5.2](https://github.com/ekzhang/bore/releases/tag/v0.5.2), 4 months ago) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 
