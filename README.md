@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (1 month ago)
-- [lucas-pedrozo/testeOrcamento](https://github.com/lucas-pedrozo/testeOrcamento) - esse é um repositorio de uma avaliação de conhecimento (1 month ago)
+- [lucas-pedrozo/testeOrcamento](https://github.com/lucas-pedrozo/testeOrcamento) - esse é um repositorio de uma avaliação de conhecimento (2 months ago)
 - [likesistemas/apache](https://github.com/likesistemas/apache) (2 months ago)
 - [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) - A Maven plugin which wraps Launch4j (2 months ago)
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) - Upload files to S3 with tags. (3 months ago)
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) ([launch4j-maven-plugin-2.6.0](https://github.com/orphan-oss/launch4j-maven-plugin/releases/tag/launch4j-maven-plugin-2.6.0), 1 day ago) - A Maven plugin which wraps Launch4j
-- [ekzhang/bore](https://github.com/ekzhang/bore) ([v0.5.3](https://github.com/ekzhang/bore/releases/tag/v0.5.3), 5 days ago) - 🕳 bore is a simple CLI tool for making tunnels to localhost
+- [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) ([launch4j-maven-plugin-2.6.0](https://github.com/orphan-oss/launch4j-maven-plugin/releases/tag/launch4j-maven-plugin-2.6.0), 2 days ago) - A Maven plugin which wraps Launch4j
+- [ekzhang/bore](https://github.com/ekzhang/bore) ([v0.5.3](https://github.com/ekzhang/bore/releases/tag/v0.5.3), 6 days ago) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) ([v2.1.0](https://github.com/ricardoapaes/bore-server/releases/tag/v2.1.0), 1 month ago) - Bore server with https and subdomain.
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.3.0](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.3.0), 3 months ago) - Upload files to S3 with tags.
 - [ricardoapaes/psr-logger-test](https://github.com/ricardoapaes/psr-logger-test) ([v1.1.0](https://github.com/ricardoapaes/psr-logger-test/releases/tag/v1.1.0), 4 months ago) - A PSR-3 logger test implementation.
@@ -29,7 +29,7 @@
 - [🔧 Showing stream logs on stdout](https://github.com/ricardoapaes/bore-server/pull/5) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (1 month ago)
 - [🔧 Saving id in cookie for future access](https://github.com/ricardoapaes/bore-server/pull/4) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (1 month ago)
 - [🔧 Setting up reverse proxy for bore server](https://github.com/ricardoapaes/bore-server/pull/3) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (1 month ago)
-- [:whale: Configurando para rodar usando Docker](https://github.com/lucas-pedrozo/testeOrcamento/pull/1) on [lucas-pedrozo/testeOrcamento](https://github.com/lucas-pedrozo/testeOrcamento) (1 month ago)
+- [:whale: Configurando para rodar usando Docker](https://github.com/lucas-pedrozo/testeOrcamento/pull/1) on [lucas-pedrozo/testeOrcamento](https://github.com/lucas-pedrozo/testeOrcamento) (2 months ago)
 - [✨ [GEST-2855] Configurando SSL no apache](https://github.com/likesistemas/apache/pull/1) on [likesistemas/apache](https://github.com/likesistemas/apache) (2 months ago)
 
 #### ⭐ Recent stars | Estrelas recentes
