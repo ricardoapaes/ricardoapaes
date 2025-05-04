@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) - Integração com phinx usando codeception. (1 day ago)
+- [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) - Integração com phinx usando codeception. (2 days ago)
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (1 month ago)
 - [lucas-pedrozo/testeOrcamento](https://github.com/lucas-pedrozo/testeOrcamento) - esse é um repositorio de uma avaliação de conhecimento (2 months ago)
 - [likesistemas/apache](https://github.com/likesistemas/apache) (2 months ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) ([v1.4.0](https://github.com/likesistemas/codeception-phinx-module/releases/tag/v1.4.0), 1 day ago) - Integração com phinx usando codeception.
+- [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) ([v1.4.0](https://github.com/likesistemas/codeception-phinx-module/releases/tag/v1.4.0), 2 days ago) - Integração com phinx usando codeception.
 - [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) ([launch4j-maven-plugin-2.6.0](https://github.com/orphan-oss/launch4j-maven-plugin/releases/tag/launch4j-maven-plugin-2.6.0), 2 weeks ago) - A Maven plugin which wraps Launch4j
 - [ekzhang/bore](https://github.com/ekzhang/bore) ([v0.5.3](https://github.com/ekzhang/bore/releases/tag/v0.5.3), 2 weeks ago) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) ([v2.1.0](https://github.com/ricardoapaes/bore-server/releases/tag/v2.1.0), 1 month ago) - Bore server with https and subdomain.
@@ -26,7 +26,7 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [✨ [GEST-2977] Definindo `environment` utilizado no codeception](https://github.com/likesistemas/codeception-phinx-module/pull/4) on [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) (1 day ago)
+- [✨ [GEST-2977] Definindo `environment` utilizado no codeception](https://github.com/likesistemas/codeception-phinx-module/pull/4) on [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) (2 days ago)
 - [🔧 Showing stream logs on stdout](https://github.com/ricardoapaes/bore-server/pull/5) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (1 month ago)
 - [🔧 Saving id in cookie for future access](https://github.com/ricardoapaes/bore-server/pull/4) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (2 months ago)
 - [🔧 Setting up reverse proxy for bore server](https://github.com/ricardoapaes/bore-server/pull/3) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (2 months ago)
