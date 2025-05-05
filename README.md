@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) - Integração com phinx usando codeception. (2 days ago)
+- [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) - Integração com phinx usando codeception. (3 days ago)
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (1 month ago)
 - [lucas-pedrozo/testeOrcamento](https://github.com/lucas-pedrozo/testeOrcamento) - esse é um repositorio de uma avaliação de conhecimento (2 months ago)
 - [likesistemas/apache](https://github.com/likesistemas/apache) (2 months ago)
@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) ([v1.4.0](https://github.com/likesistemas/codeception-phinx-module/releases/tag/v1.4.0), 2 days ago) - Integração com phinx usando codeception.
+- [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) ([v1.4.0](https://github.com/likesistemas/codeception-phinx-module/releases/tag/v1.4.0), 3 days ago) - Integração com phinx usando codeception.
 - [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) ([launch4j-maven-plugin-2.6.0](https://github.com/orphan-oss/launch4j-maven-plugin/releases/tag/launch4j-maven-plugin-2.6.0), 2 weeks ago) - A Maven plugin which wraps Launch4j
-- [ekzhang/bore](https://github.com/ekzhang/bore) ([v0.5.3](https://github.com/ekzhang/bore/releases/tag/v0.5.3), 2 weeks ago) - 🕳 bore is a simple CLI tool for making tunnels to localhost
+- [ekzhang/bore](https://github.com/ekzhang/bore) ([v0.5.3](https://github.com/ekzhang/bore/releases/tag/v0.5.3), 3 weeks ago) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) ([v2.1.0](https://github.com/ricardoapaes/bore-server/releases/tag/v2.1.0), 1 month ago) - Bore server with https and subdomain.
 - [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.3.0](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.3.0), 3 months ago) - Upload files to S3 with tags.
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [✨ [GEST-2977] Definindo `environment` utilizado no codeception](https://github.com/likesistemas/codeception-phinx-module/pull/4) on [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) (2 days ago)
+- [✨ [GEST-2977] Definindo `environment` utilizado no codeception](https://github.com/likesistemas/codeception-phinx-module/pull/4) on [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) (3 days ago)
 - [🔧 Showing stream logs on stdout](https://github.com/ricardoapaes/bore-server/pull/5) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (1 month ago)
 - [🔧 Saving id in cookie for future access](https://github.com/ricardoapaes/bore-server/pull/4) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (2 months ago)
 - [🔧 Setting up reverse proxy for bore server](https://github.com/ricardoapaes/bore-server/pull/3) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (2 months ago)
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent stars | Estrelas recentes
 
-- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. (3 months ago)
-- [phpay-io/phpay](https://github.com/phpay-io/phpay) - Biblioteca PHP para integração com meios de pagamento multi gateways. (3 months ago)
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. (4 months ago)
+- [phpay-io/phpay](https://github.com/phpay-io/phpay) - Biblioteca PHP para integração com meios de pagamento multi gateways. (4 months ago)
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (4 months ago)
 - [FakerPHP/Faker](https://github.com/FakerPHP/Faker) - Faker is a PHP library that generates fake data for you (4 months ago)
 - [realrashid/laravel-zoho-cliq](https://github.com/realrashid/laravel-zoho-cliq) - A Laravel package for integrating with Zoho Cliq, allowing you to send messages, notifications, and rich content seamlessly from your Laravel application. (4 months ago)
