@@ -6,7 +6,7 @@
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (2 months ago)
 - [lucas-pedrozo/testeOrcamento](https://github.com/lucas-pedrozo/testeOrcamento) - esse é um repositorio de uma avaliação de conhecimento (3 months ago)
 - [likesistemas/apache](https://github.com/likesistemas/apache) (3 months ago)
-- [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) - A Maven plugin which wraps Launch4j (3 months ago)
+- [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) - A Maven plugin which wraps Launch4j (4 months ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
 
@@ -26,7 +26,7 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [:whale: Fixing deployment using Docker](https://github.com/openboxes/openboxes/pull/5279) on [openboxes/openboxes](https://github.com/openboxes/openboxes) (2 days ago)
+- [:whale: Fixing deployment using Docker](https://github.com/openboxes/openboxes/pull/5279) on [openboxes/openboxes](https://github.com/openboxes/openboxes) (3 days ago)
 - [✨ [GEST-2977] Definindo `environment` utilizado no codeception](https://github.com/likesistemas/codeception-phinx-module/pull/4) on [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) (3 weeks ago)
 - [🔧 Showing stream logs on stdout](https://github.com/ricardoapaes/bore-server/pull/5) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (2 months ago)
 - [🔧 Saving id in cookie for future access](https://github.com/ricardoapaes/bore-server/pull/4) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (3 months ago)
@@ -37,7 +37,7 @@
 - [eliangelap/uniface-syntax-extension](https://github.com/eliangelap/uniface-syntax-extension) - A VSCode extension for Uniface program language, with syntax highlighter and all powerful of VSCode resources (3 weeks ago)
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. (4 months ago)
 - [phpay-io/phpay](https://github.com/phpay-io/phpay) - Biblioteca PHP para integração com meios de pagamento multi gateways. (4 months ago)
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (4 months ago)
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (5 months ago)
 - [FakerPHP/Faker](https://github.com/FakerPHP/Faker) - Faker is a PHP library that generates fake data for you (5 months ago)
 
 #### 📫 How to reach me | Como chegar até mim
