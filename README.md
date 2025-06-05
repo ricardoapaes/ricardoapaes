@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (1 day ago)
+- [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (2 days ago)
 - [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) - Integração com phinx usando codeception. (1 month ago)
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (2 months ago)
 - [lucas-pedrozo/testeOrcamento](https://github.com/lucas-pedrozo/testeOrcamento) - esse é um repositorio de uma avaliação de conhecimento (3 months ago)
@@ -22,11 +22,11 @@
 - [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) ([launch4j-maven-plugin-2.6.0](https://github.com/orphan-oss/launch4j-maven-plugin/releases/tag/launch4j-maven-plugin-2.6.0), 1 month ago) - A Maven plugin which wraps Launch4j
 - [ekzhang/bore](https://github.com/ekzhang/bore) ([v0.5.3](https://github.com/ekzhang/bore/releases/tag/v0.5.3), 1 month ago) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) ([v2.1.0](https://github.com/ricardoapaes/bore-server/releases/tag/v2.1.0), 2 months ago) - Bore server with https and subdomain.
-- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.3.0](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.3.0), 4 months ago) - Upload files to S3 with tags.
+- [ricardoapaes/action-s3-upload](https://github.com/ricardoapaes/action-s3-upload) ([v1.3.0](https://github.com/ricardoapaes/action-s3-upload/releases/tag/v1.3.0), 5 months ago) - Upload files to S3 with tags.
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [✨ Add support PHP 8.4](https://github.com/likesistemas/php/pull/41) on [likesistemas/php](https://github.com/likesistemas/php) (1 day ago)
+- [✨ Add support PHP 8.4](https://github.com/likesistemas/php/pull/41) on [likesistemas/php](https://github.com/likesistemas/php) (2 days ago)
 - [:whale: Fixing deployment using Docker](https://github.com/openboxes/openboxes/pull/5279) on [openboxes/openboxes](https://github.com/openboxes/openboxes) (1 week ago)
 - [✨ [GEST-2977] Definindo `environment` utilizado no codeception](https://github.com/likesistemas/codeception-phinx-module/pull/4) on [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) (1 month ago)
 - [🔧 Showing stream logs on stdout](https://github.com/ricardoapaes/bore-server/pull/5) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (2 months ago)
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent stars | Estrelas recentes
 
-- [eliangelap/uniface-syntax-extension](https://github.com/eliangelap/uniface-syntax-extension) - A VSCode extension for Uniface program language, with syntax highlighter and all powerful of VSCode resources (4 weeks ago)
+- [eliangelap/uniface-syntax-extension](https://github.com/eliangelap/uniface-syntax-extension) - A VSCode extension for Uniface program language, with syntax highlighter and all powerful of VSCode resources (1 month ago)
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. (5 months ago)
 - [phpay-io/phpay](https://github.com/phpay-io/phpay) - Biblioteca PHP para integração com meios de pagamento multi gateways. (5 months ago)
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (5 months ago)
