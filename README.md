@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
+- [ricardoapaes/wordpress-nginx-cache](https://github.com/ricardoapaes/wordpress-nginx-cache) (today)
 - [openboxes/openboxes](https://github.com/openboxes/openboxes) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities. (1 week ago)
 - [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (1 week ago)
 - [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) - Integração com phinx usando codeception. (1 month ago)
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (3 months ago)
-- [lucas-pedrozo/testeOrcamento](https://github.com/lucas-pedrozo/testeOrcamento) - esse é um repositorio de uma avaliação de conhecimento (3 months ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
 
+- [ricardoapaes/wordpress-nginx-cache](https://github.com/ricardoapaes/wordpress-nginx-cache)
 - [ricardoapaes/psr-logger-test](https://github.com/ricardoapaes/psr-logger-test) - A PSR-3 logger test implementation.
 - [ricardoapaes/check-encoding-ci](https://github.com/ricardoapaes/check-encoding-ci) - Checks and encodes files in the repository.
 - [ricardoapaes/docker-glpi](https://github.com/ricardoapaes/docker-glpi)
 - [ricardoapaes/k6-example](https://github.com/ricardoapaes/k6-example) - Exemplo de uso K6
-- [ricardoapaes/setup-wsl2](https://github.com/ricardoapaes/setup-wsl2) - Habilitando e instalando wsl2 distro usando inno setup.
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
