@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [ricardoapaes/wordpress-nginx-cache](https://github.com/ricardoapaes/wordpress-nginx-cache) (1 day ago)
+- [ricardoapaes/wordpress-nginx-cache](https://github.com/ricardoapaes/wordpress-nginx-cache) (2 days ago)
 - [openboxes/openboxes](https://github.com/openboxes/openboxes) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities. (1 week ago)
 - [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (2 weeks ago)
 - [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) - Integração com phinx usando codeception. (1 month ago)
@@ -26,8 +26,8 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [:whale: Setting base url using Docker and removing .env](https://github.com/openboxes/openboxes/pull/5335) on [openboxes/openboxes](https://github.com/openboxes/openboxes) (1 day ago)
-- [Brazilian portuguese translation](https://github.com/openboxes/openboxes/pull/5334) on [openboxes/openboxes](https://github.com/openboxes/openboxes) (2 days ago)
+- [:whale: Setting base url using Docker and removing .env](https://github.com/openboxes/openboxes/pull/5335) on [openboxes/openboxes](https://github.com/openboxes/openboxes) (2 days ago)
+- [Brazilian portuguese translation](https://github.com/openboxes/openboxes/pull/5334) on [openboxes/openboxes](https://github.com/openboxes/openboxes) (3 days ago)
 - [✨ Add support PHP 8.4](https://github.com/likesistemas/php/pull/41) on [likesistemas/php](https://github.com/likesistemas/php) (2 weeks ago)
 - [:whale: Fixing deployment using Docker](https://github.com/openboxes/openboxes/pull/5279) on [openboxes/openboxes](https://github.com/openboxes/openboxes) (3 weeks ago)
 - [✨ [GEST-2977] Definindo `environment` utilizado no codeception](https://github.com/likesistemas/codeception-phinx-module/pull/4) on [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) (1 month ago)
@@ -38,7 +38,7 @@
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. (5 months ago)
 - [phpay-io/phpay](https://github.com/phpay-io/phpay) - Biblioteca PHP para integração com meios de pagamento multi gateways. (5 months ago)
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (5 months ago)
-- [FakerPHP/Faker](https://github.com/FakerPHP/Faker) - Faker is a PHP library that generates fake data for you (5 months ago)
+- [FakerPHP/Faker](https://github.com/FakerPHP/Faker) - Faker is a PHP library that generates fake data for you (6 months ago)
 
 #### 📫 How to reach me | Como chegar até mim
 
