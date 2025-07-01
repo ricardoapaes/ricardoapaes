@@ -5,8 +5,8 @@
 - [likesistemas/osrm-backend](https://github.com/likesistemas/osrm-backend) - Container Docker para osrm-backend. (1 week ago)
 - [ricardoapaes/wordpress-nginx-cache](https://github.com/ricardoapaes/wordpress-nginx-cache) (2 weeks ago)
 - [openboxes/openboxes](https://github.com/openboxes/openboxes) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities. (3 weeks ago)
-- [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (3 weeks ago)
-- [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) - Integração com phinx usando codeception. (1 month ago)
+- [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (4 weeks ago)
+- [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) - Integração com phinx usando codeception. (2 months ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
 
@@ -19,7 +19,7 @@
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
 - [ekzhang/bore](https://github.com/ekzhang/bore) ([v0.6.0](https://github.com/ekzhang/bore/releases/tag/v0.6.0), 3 weeks ago) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-- [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) ([v1.4.0](https://github.com/likesistemas/codeception-phinx-module/releases/tag/v1.4.0), 1 month ago) - Integração com phinx usando codeception.
+- [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) ([v1.4.0](https://github.com/likesistemas/codeception-phinx-module/releases/tag/v1.4.0), 2 months ago) - Integração com phinx usando codeception.
 - [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) ([launch4j-maven-plugin-2.6.0](https://github.com/orphan-oss/launch4j-maven-plugin/releases/tag/launch4j-maven-plugin-2.6.0), 2 months ago) - A Maven plugin which wraps Launch4j
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) ([v2.1.0](https://github.com/ricardoapaes/bore-server/releases/tag/v2.1.0), 3 months ago) - Bore server with https and subdomain.
 - [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.3](https://github.com/openboxes/openboxes/releases/tag/v0.9.3), 4 months ago) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
@@ -29,13 +29,13 @@
 - [:whale: Adicionando docker-compose ao projeto](https://github.com/likesistemas/osrm-backend/pull/2) on [likesistemas/osrm-backend](https://github.com/likesistemas/osrm-backend) (1 week ago)
 - [:whale: Setting base url using Docker and removing .env](https://github.com/openboxes/openboxes/pull/5335) on [openboxes/openboxes](https://github.com/openboxes/openboxes) (2 weeks ago)
 - [Brazilian portuguese translation](https://github.com/openboxes/openboxes/pull/5334) on [openboxes/openboxes](https://github.com/openboxes/openboxes) (2 weeks ago)
-- [✨ Add support PHP 8.4](https://github.com/likesistemas/php/pull/41) on [likesistemas/php](https://github.com/likesistemas/php) (3 weeks ago)
+- [✨ Add support PHP 8.4](https://github.com/likesistemas/php/pull/41) on [likesistemas/php](https://github.com/likesistemas/php) (4 weeks ago)
 - [:whale: Fixing deployment using Docker](https://github.com/openboxes/openboxes/pull/5279) on [openboxes/openboxes](https://github.com/openboxes/openboxes) (1 month ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (4 days ago)
-- [symfony/var-dumper](https://github.com/symfony/var-dumper) - Provides mechanisms for walking through any arbitrary PHP variable (4 days ago)
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (5 days ago)
+- [symfony/var-dumper](https://github.com/symfony/var-dumper) - Provides mechanisms for walking through any arbitrary PHP variable (5 days ago)
 - [eliangelap/uniface-syntax-extension](https://github.com/eliangelap/uniface-syntax-extension) - A VSCode extension for Uniface program language, with syntax highlighter and all powerful of VSCode resources (1 month ago)
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. (5 months ago)
 - [phpay-io/phpay](https://github.com/phpay-io/phpay) - Biblioteca PHP para integração com meios de pagamento multi gateways. (5 months ago)
