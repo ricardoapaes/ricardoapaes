@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.4](https://github.com/openboxes/openboxes/releases/tag/v0.9.4), 1 day ago) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
+- [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.4](https://github.com/openboxes/openboxes/releases/tag/v0.9.4), 2 days ago) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
 - [ekzhang/bore](https://github.com/ekzhang/bore) ([v0.6.0](https://github.com/ekzhang/bore/releases/tag/v0.6.0), 1 month ago) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) ([v1.4.0](https://github.com/likesistemas/codeception-phinx-module/releases/tag/v1.4.0), 2 months ago) - Integração com phinx usando codeception.
 - [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) ([launch4j-maven-plugin-2.6.0](https://github.com/orphan-oss/launch4j-maven-plugin/releases/tag/launch4j-maven-plugin-2.6.0), 2 months ago) - A Maven plugin which wraps Launch4j
@@ -28,7 +28,7 @@
 
 - [:whale: Adicionando docker-compose ao projeto](https://github.com/likesistemas/osrm-backend/pull/2) on [likesistemas/osrm-backend](https://github.com/likesistemas/osrm-backend) (3 weeks ago)
 - [:whale: Setting base url using Docker and removing .env](https://github.com/openboxes/openboxes/pull/5335) on [openboxes/openboxes](https://github.com/openboxes/openboxes) (3 weeks ago)
-- [Brazilian portuguese translation](https://github.com/openboxes/openboxes/pull/5334) on [openboxes/openboxes](https://github.com/openboxes/openboxes) (3 weeks ago)
+- [Brazilian portuguese translation](https://github.com/openboxes/openboxes/pull/5334) on [openboxes/openboxes](https://github.com/openboxes/openboxes) (4 weeks ago)
 - [✨ Add support PHP 8.4](https://github.com/likesistemas/php/pull/41) on [likesistemas/php](https://github.com/likesistemas/php) (1 month ago)
 - [:whale: Fixing deployment using Docker](https://github.com/openboxes/openboxes/pull/5279) on [openboxes/openboxes](https://github.com/openboxes/openboxes) (1 month ago)
 
