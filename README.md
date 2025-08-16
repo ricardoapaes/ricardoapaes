@@ -21,7 +21,7 @@
 - [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.4](https://github.com/openboxes/openboxes/releases/tag/v0.9.4), 1 month ago) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
 - [ekzhang/bore](https://github.com/ekzhang/bore) ([v0.6.0](https://github.com/ekzhang/bore/releases/tag/v0.6.0), 2 months ago) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) ([v1.4.0](https://github.com/likesistemas/codeception-phinx-module/releases/tag/v1.4.0), 3 months ago) - Integração com phinx usando codeception.
-- [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) ([launch4j-maven-plugin-2.6.0](https://github.com/orphan-oss/launch4j-maven-plugin/releases/tag/launch4j-maven-plugin-2.6.0), 3 months ago) - A Maven plugin which wraps Launch4j
+- [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) ([launch4j-maven-plugin-2.6.0](https://github.com/orphan-oss/launch4j-maven-plugin/releases/tag/launch4j-maven-plugin-2.6.0), 4 months ago) - A Maven plugin which wraps Launch4j
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) ([v2.1.0](https://github.com/ricardoapaes/bore-server/releases/tag/v2.1.0), 5 months ago) - Bore server with https and subdomain.
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
