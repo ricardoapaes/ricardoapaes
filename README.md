@@ -30,7 +30,7 @@
 - [:whale: Setting base url using Docker and removing .env](https://github.com/openboxes/openboxes/pull/5335) on [openboxes/openboxes](https://github.com/openboxes/openboxes) (2 months ago)
 - [Brazilian portuguese translation](https://github.com/openboxes/openboxes/pull/5334) on [openboxes/openboxes](https://github.com/openboxes/openboxes) (2 months ago)
 - [✨ Add support PHP 8.4](https://github.com/likesistemas/php/pull/41) on [likesistemas/php](https://github.com/likesistemas/php) (2 months ago)
-- [:whale: Fixing deployment using Docker](https://github.com/openboxes/openboxes/pull/5279) on [openboxes/openboxes](https://github.com/openboxes/openboxes) (2 months ago)
+- [:whale: Fixing deployment using Docker](https://github.com/openboxes/openboxes/pull/5279) on [openboxes/openboxes](https://github.com/openboxes/openboxes) (3 months ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
