@@ -26,11 +26,11 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
+- [🚑  Fix error using `ide-helper`](https://github.com/likesistemas/eloquent-external/pull/9) on [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) (today)
 - [⬆️ Updating to support latest version of laravel-ide-helper](https://github.com/likesistemas/eloquent-ide-helper/pull/5) on [likesistemas/eloquent-ide-helper](https://github.com/likesistemas/eloquent-ide-helper) (today)
 - [⬆️ Upgrading illuminate/database to v8.x to v12.x](https://github.com/likesistemas/eloquent-external/pull/8) on [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) (today)
 - [⬆️ Setting dependencies for PHP 7.4 or higher](https://github.com/likesistemas/eloquent-external/pull/7) on [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) (today)
 - [:ambulance: Fix `getMeUser` to `getMaybeMeUser`](https://github.com/pedroslopez/whatsapp-web.js/pull/3728) on [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) (1 day ago)
-- [🚑 [GEST-3226] Alguns autocomplete não funcionam pelo acesso externos](https://github.com/ricardoapaes/bore-server/pull/6) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (1 day ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
