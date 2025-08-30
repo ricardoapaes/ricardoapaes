@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) ([v2.0.0](https://github.com/likesistemas/eloquent-external/releases/tag/v2.0.0), today) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework.
+- [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) ([v2.1.0](https://github.com/likesistemas/eloquent-external/releases/tag/v2.1.0), today) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework.
 - [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.4](https://github.com/openboxes/openboxes/releases/tag/v0.9.4), 1 month ago) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
 - [ekzhang/bore](https://github.com/ekzhang/bore) ([v0.6.0](https://github.com/ekzhang/bore/releases/tag/v0.6.0), 2 months ago) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) ([v1.4.0](https://github.com/likesistemas/codeception-phinx-module/releases/tag/v1.4.0), 4 months ago) - Integração com phinx usando codeception.
@@ -26,7 +26,7 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [⬆️ Upgrading illuminate/database to v8.x](https://github.com/likesistemas/eloquent-external/pull/8) on [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) (today)
+- [⬆️ Upgrading illuminate/database to v8.x to v12.x](https://github.com/likesistemas/eloquent-external/pull/8) on [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) (today)
 - [⬆️ Setting dependencies for PHP 7.4 or higher](https://github.com/likesistemas/eloquent-external/pull/7) on [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) (today)
 - [:ambulance: Fix `getMeUser` to `getMaybeMeUser`](https://github.com/pedroslopez/whatsapp-web.js/pull/3728) on [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) (1 day ago)
 - [🚑 [GEST-3226] Alguns autocomplete não funcionam pelo acesso externos](https://github.com/ricardoapaes/bore-server/pull/6) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (1 day ago)
