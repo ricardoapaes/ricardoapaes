@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (today)
+- [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (1 day ago)
 - [likesistemas/osrm-backend](https://github.com/likesistemas/osrm-backend) - Container Docker para osrm-backend. (2 months ago)
 - [ricardoapaes/wordpress-nginx-cache](https://github.com/ricardoapaes/wordpress-nginx-cache) (2 months ago)
 - [openboxes/openboxes](https://github.com/openboxes/openboxes) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities. (2 months ago)
@@ -20,17 +20,17 @@
 
 - [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.4](https://github.com/openboxes/openboxes/releases/tag/v0.9.4), 1 month ago) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
 - [ekzhang/bore](https://github.com/ekzhang/bore) ([v0.6.0](https://github.com/ekzhang/bore/releases/tag/v0.6.0), 2 months ago) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-- [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) ([v1.4.0](https://github.com/likesistemas/codeception-phinx-module/releases/tag/v1.4.0), 3 months ago) - Integração com phinx usando codeception.
+- [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) ([v1.4.0](https://github.com/likesistemas/codeception-phinx-module/releases/tag/v1.4.0), 4 months ago) - Integração com phinx usando codeception.
 - [orphan-oss/launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin) ([launch4j-maven-plugin-2.6.0](https://github.com/orphan-oss/launch4j-maven-plugin/releases/tag/launch4j-maven-plugin-2.6.0), 4 months ago) - A Maven plugin which wraps Launch4j
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) ([v2.1.0](https://github.com/ricardoapaes/bore-server/releases/tag/v2.1.0), 5 months ago) - Bore server with https and subdomain.
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [🚑 [GEST-3226] Alguns autocomplete não funcionam pelo acesso externos](https://github.com/ricardoapaes/bore-server/pull/6) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (today)
+- [:ambulance: Fix `getMeUser` to `getMaybeMeUser`](https://github.com/pedroslopez/whatsapp-web.js/pull/3728) on [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) (1 day ago)
+- [🚑 [GEST-3226] Alguns autocomplete não funcionam pelo acesso externos](https://github.com/ricardoapaes/bore-server/pull/6) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (1 day ago)
 - [:whale: Adicionando docker-compose ao projeto](https://github.com/likesistemas/osrm-backend/pull/2) on [likesistemas/osrm-backend](https://github.com/likesistemas/osrm-backend) (2 months ago)
 - [:whale: Setting base url using Docker and removing .env](https://github.com/openboxes/openboxes/pull/5335) on [openboxes/openboxes](https://github.com/openboxes/openboxes) (2 months ago)
 - [Brazilian portuguese translation](https://github.com/openboxes/openboxes/pull/5334) on [openboxes/openboxes](https://github.com/openboxes/openboxes) (2 months ago)
-- [✨ Add support PHP 8.4](https://github.com/likesistemas/php/pull/41) on [likesistemas/php](https://github.com/likesistemas/php) (2 months ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
