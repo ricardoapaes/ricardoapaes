@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework. (1 day ago)
-- [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (2 days ago)
+- [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework. (2 days ago)
+- [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (3 days ago)
 - [likesistemas/osrm-backend](https://github.com/likesistemas/osrm-backend) - Container Docker para osrm-backend. (2 months ago)
 - [ricardoapaes/wordpress-nginx-cache](https://github.com/ricardoapaes/wordpress-nginx-cache) (2 months ago)
 - [openboxes/openboxes](https://github.com/openboxes/openboxes) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities. (2 months ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) ([v2.1.0](https://github.com/likesistemas/eloquent-external/releases/tag/v2.1.0), 1 day ago) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework.
+- [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) ([v2.1.0](https://github.com/likesistemas/eloquent-external/releases/tag/v2.1.0), 2 days ago) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework.
 - [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.4](https://github.com/openboxes/openboxes/releases/tag/v0.9.4), 1 month ago) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
 - [ekzhang/bore](https://github.com/ekzhang/bore) ([v0.6.0](https://github.com/ekzhang/bore/releases/tag/v0.6.0), 2 months ago) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) ([v1.4.0](https://github.com/likesistemas/codeception-phinx-module/releases/tag/v1.4.0), 4 months ago) - Integração com phinx usando codeception.
@@ -26,11 +26,11 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [🚑  Fix error using `ide-helper`](https://github.com/likesistemas/eloquent-external/pull/9) on [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) (1 day ago)
-- [⬆️ Updating to support latest version of laravel-ide-helper](https://github.com/likesistemas/eloquent-ide-helper/pull/5) on [likesistemas/eloquent-ide-helper](https://github.com/likesistemas/eloquent-ide-helper) (1 day ago)
-- [⬆️ Upgrading illuminate/database to v8.x to v12.x](https://github.com/likesistemas/eloquent-external/pull/8) on [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) (1 day ago)
-- [⬆️ Setting dependencies for PHP 7.4 or higher](https://github.com/likesistemas/eloquent-external/pull/7) on [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) (1 day ago)
-- [:ambulance: Fix `getMeUser` to `getMaybeMeUser`](https://github.com/pedroslopez/whatsapp-web.js/pull/3728) on [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) (2 days ago)
+- [🚑  Fix error using `ide-helper`](https://github.com/likesistemas/eloquent-external/pull/9) on [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) (2 days ago)
+- [⬆️ Updating to support latest version of laravel-ide-helper](https://github.com/likesistemas/eloquent-ide-helper/pull/5) on [likesistemas/eloquent-ide-helper](https://github.com/likesistemas/eloquent-ide-helper) (2 days ago)
+- [⬆️ Upgrading illuminate/database to v8.x to v12.x](https://github.com/likesistemas/eloquent-external/pull/8) on [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) (2 days ago)
+- [⬆️ Setting dependencies for PHP 7.4 or higher](https://github.com/likesistemas/eloquent-external/pull/7) on [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) (2 days ago)
+- [:ambulance: Fix `getMeUser` to `getMaybeMeUser`](https://github.com/pedroslopez/whatsapp-web.js/pull/3728) on [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) (3 days ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
