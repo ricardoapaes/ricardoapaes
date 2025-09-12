@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
 - [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework. (1 week ago)
-- [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (1 week ago)
+- [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (2 weeks ago)
 - [likesistemas/osrm-backend](https://github.com/likesistemas/osrm-backend) - Container Docker para osrm-backend. (2 months ago)
 - [ricardoapaes/wordpress-nginx-cache](https://github.com/ricardoapaes/wordpress-nginx-cache) (2 months ago)
 - [openboxes/openboxes](https://github.com/openboxes/openboxes) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities. (3 months ago)
@@ -30,7 +30,7 @@
 - [⬆️ Updating to support latest version of laravel-ide-helper](https://github.com/likesistemas/eloquent-ide-helper/pull/5) on [likesistemas/eloquent-ide-helper](https://github.com/likesistemas/eloquent-ide-helper) (1 week ago)
 - [⬆️ Upgrading illuminate/database to v8.x to v12.x](https://github.com/likesistemas/eloquent-external/pull/8) on [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) (1 week ago)
 - [⬆️ Setting dependencies for PHP 7.4 or higher](https://github.com/likesistemas/eloquent-external/pull/7) on [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) (1 week ago)
-- [:ambulance: Fix `getMeUser` to `getMaybeMeUser`](https://github.com/pedroslopez/whatsapp-web.js/pull/3728) on [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) (1 week ago)
+- [:ambulance: Fix `getMeUser` to `getMaybeMeUser`](https://github.com/pedroslopez/whatsapp-web.js/pull/3728) on [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) (2 weeks ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
