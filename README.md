@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) ([latest](https://github.com/ricardoapaes/exe-sign/releases/tag/latest), today) - Docker image to sign an executable using osslsigncode.
+- [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) ([v1.1.0](https://github.com/ricardoapaes/exe-sign/releases/tag/v1.1.0), today) - Docker image to sign an executable using osslsigncode.
 - [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi) ([v1.0.0](https://github.com/ricardoapaes/diario-do-xixi/releases/tag/v1.0.0), 3 days ago)
 - [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) ([v2.1.0](https://github.com/likesistemas/eloquent-external/releases/tag/v2.1.0), 2 weeks ago) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework.
 - [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.4](https://github.com/openboxes/openboxes/releases/tag/v0.9.4), 2 months ago) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
@@ -26,11 +26,11 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
+- [feat: standardize certificate handling with BASE64 encoding](https://github.com/ricardoapaes/exe-sign/pull/2) on [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) (today)
 - [feat: implement comprehensive CI/CD automation with release management and real testing](https://github.com/ricardoapaes/exe-sign/pull/1) on [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) (today)
 - [feat: migrate to offline-first architecture by removing external CDN dependencies](https://github.com/ricardoapaes/diario-do-xixi/pull/4) on [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi) (1 week ago)
 - [🚑  Fix error using `ide-helper`](https://github.com/likesistemas/eloquent-external/pull/9) on [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) (2 weeks ago)
 - [⬆️ Updating to support latest version of laravel-ide-helper](https://github.com/likesistemas/eloquent-ide-helper/pull/5) on [likesistemas/eloquent-ide-helper](https://github.com/likesistemas/eloquent-ide-helper) (2 weeks ago)
-- [⬆️ Upgrading illuminate/database to v8.x to v12.x](https://github.com/likesistemas/eloquent-external/pull/8) on [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) (2 weeks ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
