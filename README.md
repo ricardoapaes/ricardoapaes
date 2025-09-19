@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [likesistemas/exe-sign](https://github.com/likesistemas/exe-sign) - Docker image to sign an executable using osslsigncode. (today)
+- [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) - Docker image to sign an executable using osslsigncode. (today)
 - [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi) (4 days ago)
 - [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework. (2 weeks ago)
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (3 weeks ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [likesistemas/exe-sign](https://github.com/likesistemas/exe-sign) ([v1.0.0](https://github.com/likesistemas/exe-sign/releases/tag/v1.0.0), today) - Docker image to sign an executable using osslsigncode.
+- [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) ([latest](https://github.com/ricardoapaes/exe-sign/releases/tag/latest), today) - Docker image to sign an executable using osslsigncode.
 - [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi) ([v1.0.0](https://github.com/ricardoapaes/diario-do-xixi/releases/tag/v1.0.0), 3 days ago)
 - [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) ([v2.1.0](https://github.com/likesistemas/eloquent-external/releases/tag/v2.1.0), 2 weeks ago) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework.
 - [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.4](https://github.com/openboxes/openboxes/releases/tag/v0.9.4), 2 months ago) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
@@ -26,7 +26,7 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [feat: implement comprehensive CI/CD automation with release management and real testing](https://github.com/likesistemas/exe-sign/pull/1) on [likesistemas/exe-sign](https://github.com/likesistemas/exe-sign) (today)
+- [feat: implement comprehensive CI/CD automation with release management and real testing](https://github.com/ricardoapaes/exe-sign/pull/1) on [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) (today)
 - [feat: migrate to offline-first architecture by removing external CDN dependencies](https://github.com/ricardoapaes/diario-do-xixi/pull/4) on [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi) (1 week ago)
 - [🚑  Fix error using `ide-helper`](https://github.com/likesistemas/eloquent-external/pull/9) on [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) (2 weeks ago)
 - [⬆️ Updating to support latest version of laravel-ide-helper](https://github.com/likesistemas/eloquent-ide-helper/pull/5) on [likesistemas/eloquent-ide-helper](https://github.com/likesistemas/eloquent-ide-helper) (2 weeks ago)
