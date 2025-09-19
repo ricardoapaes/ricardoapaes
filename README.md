@@ -26,11 +26,11 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
+- [feat: improve error handling and add comprehensive troubleshooting](https://github.com/likesistemas/exe-sign/pull/1) on [likesistemas/exe-sign](https://github.com/likesistemas/exe-sign) (today)
 - [feat: migrate to offline-first architecture by removing external CDN dependencies](https://github.com/ricardoapaes/diario-do-xixi/pull/4) on [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi) (1 week ago)
 - [🚑  Fix error using `ide-helper`](https://github.com/likesistemas/eloquent-external/pull/9) on [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) (2 weeks ago)
 - [⬆️ Updating to support latest version of laravel-ide-helper](https://github.com/likesistemas/eloquent-ide-helper/pull/5) on [likesistemas/eloquent-ide-helper](https://github.com/likesistemas/eloquent-ide-helper) (2 weeks ago)
 - [⬆️ Upgrading illuminate/database to v8.x to v12.x](https://github.com/likesistemas/eloquent-external/pull/8) on [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) (2 weeks ago)
-- [⬆️ Setting dependencies for PHP 7.4 or higher](https://github.com/likesistemas/eloquent-external/pull/7) on [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) (2 weeks ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
