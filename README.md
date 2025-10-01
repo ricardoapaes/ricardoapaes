@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
+- [ricardoapaes/sentry-cron-command](https://github.com/ricardoapaes/sentry-cron-command) (today)
 - [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) - Docker image to sign an executable using osslsigncode. (1 week ago)
 - [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi) (2 weeks ago)
 - [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework. (1 month ago)
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (1 month ago)
-- [likesistemas/osrm-backend](https://github.com/likesistemas/osrm-backend) - Container Docker para osrm-backend. (3 months ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
 
+- [ricardoapaes/sentry-cron-command](https://github.com/ricardoapaes/sentry-cron-command)
 - [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi)
 - [ricardoapaes/wordpress-nginx-cache](https://github.com/ricardoapaes/wordpress-nginx-cache)
 - [ricardoapaes/psr-logger-test](https://github.com/ricardoapaes/psr-logger-test) - A PSR-3 logger test implementation.
 - [ricardoapaes/check-encoding-ci](https://github.com/ricardoapaes/check-encoding-ci) - Checks and encodes files in the repository.
-- [ricardoapaes/docker-glpi](https://github.com/ricardoapaes/docker-glpi)
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
