@@ -26,11 +26,11 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
+- [🎉 First library version](https://github.com/ricardoapaes/sentry-cron-command/pull/1) on [ricardoapaes/sentry-cron-command](https://github.com/ricardoapaes/sentry-cron-command) (today)
 - [feat: standardize certificate handling with BASE64-only approach](https://github.com/ricardoapaes/exe-sign/pull/3) on [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) (1 week ago)
 - [feat: standardize certificate handling with BASE64 encoding](https://github.com/ricardoapaes/exe-sign/pull/2) on [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) (1 week ago)
 - [feat: implement comprehensive CI/CD automation with release management and real testing](https://github.com/ricardoapaes/exe-sign/pull/1) on [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) (1 week ago)
 - [feat: migrate to offline-first architecture by removing external CDN dependencies](https://github.com/ricardoapaes/diario-do-xixi/pull/4) on [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi) (2 weeks ago)
-- [🚑  Fix error using `ide-helper`](https://github.com/likesistemas/eloquent-external/pull/9) on [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) (1 month ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
