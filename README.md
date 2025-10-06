@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
+- [ricardoapaes/rustdesk-custom](https://github.com/ricardoapaes/rustdesk-custom) - Gerador de Instalador RustDesk Personalizado. (today)
 - [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) - Jogo de roleta para trabalhar com alunos de forma interativa. (1 day ago)
 - [ricardoapaes/sentry-cron-command](https://github.com/ricardoapaes/sentry-cron-command) - Integration between `symfony/console` and `sentry/sentry` for scheduled tasks. (5 days ago)
 - [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) - Docker image to sign an executable using osslsigncode. (2 weeks ago)
 - [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi) (3 weeks ago)
-- [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework. (1 month ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
 
+- [ricardoapaes/rustdesk-custom](https://github.com/ricardoapaes/rustdesk-custom) - Gerador de Instalador RustDesk Personalizado.
 - [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) - Jogo de roleta para trabalhar com alunos de forma interativa.
 - [ricardoapaes/sentry-cron-command](https://github.com/ricardoapaes/sentry-cron-command) - Integration between `symfony/console` and `sentry/sentry` for scheduled tasks.
 - [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi)
 - [ricardoapaes/wordpress-nginx-cache](https://github.com/ricardoapaes/wordpress-nginx-cache)
-- [ricardoapaes/psr-logger-test](https://github.com/ricardoapaes/psr-logger-test) - A PSR-3 logger test implementation.
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
@@ -26,11 +26,11 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
+- [feat: automatizar builds Docker com GitHub Actions](https://github.com/ricardoapaes/rustdesk-custom/pull/1) on [ricardoapaes/rustdesk-custom](https://github.com/ricardoapaes/rustdesk-custom) (today)
 - [🎉 First library version](https://github.com/ricardoapaes/sentry-cron-command/pull/1) on [ricardoapaes/sentry-cron-command](https://github.com/ricardoapaes/sentry-cron-command) (5 days ago)
 - [feat: standardize certificate handling with BASE64-only approach](https://github.com/ricardoapaes/exe-sign/pull/3) on [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) (2 weeks ago)
 - [feat: standardize certificate handling with BASE64 encoding](https://github.com/ricardoapaes/exe-sign/pull/2) on [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) (2 weeks ago)
 - [feat: implement comprehensive CI/CD automation with release management and real testing](https://github.com/ricardoapaes/exe-sign/pull/1) on [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) (2 weeks ago)
-- [feat: migrate to offline-first architecture by removing external CDN dependencies](https://github.com/ricardoapaes/diario-do-xixi/pull/4) on [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi) (3 weeks ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
