@@ -26,11 +26,11 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
+- [fix: Fix name image repository on docker hub](https://github.com/ricardoapaes/exe-sign/pull/4) on [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) (today)
 - [feat: configurar host e key](https://github.com/ricardoapaes/rustdesk-custom/pull/2) on [ricardoapaes/rustdesk-custom](https://github.com/ricardoapaes/rustdesk-custom) (1 day ago)
 - [feat: automatizar builds Docker com GitHub Actions](https://github.com/ricardoapaes/rustdesk-custom/pull/1) on [ricardoapaes/rustdesk-custom](https://github.com/ricardoapaes/rustdesk-custom) (1 day ago)
 - [🎉 First library version](https://github.com/ricardoapaes/sentry-cron-command/pull/1) on [ricardoapaes/sentry-cron-command](https://github.com/ricardoapaes/sentry-cron-command) (6 days ago)
 - [feat: standardize certificate handling with BASE64-only approach](https://github.com/ricardoapaes/exe-sign/pull/3) on [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) (2 weeks ago)
-- [feat: standardize certificate handling with BASE64 encoding](https://github.com/ricardoapaes/exe-sign/pull/2) on [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) (2 weeks ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
