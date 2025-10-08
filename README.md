@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) - Jogo de roleta para trabalhar com alunos de forma interativa. (1 day ago)
+- [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) - Jogo de roleta para trabalhar com alunos de forma interativa. (today)
 - [ricardoapaes/rustdesk-custom](https://github.com/ricardoapaes/rustdesk-custom) - Gerador de Instalador RustDesk Personalizado. (1 day ago)
 - [ricardoapaes/sentry-cron-command](https://github.com/ricardoapaes/sentry-cron-command) - Integration between `symfony/console` and `sentry/sentry` for scheduled tasks. (1 week ago)
 - [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) - Docker image to sign an executable using osslsigncode. (2 weeks ago)
@@ -26,11 +26,11 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
+- [Add-auth](https://github.com/ricardoapaes/roleta-questoes/pull/2) on [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) (today)
+- [Pages](https://github.com/ricardoapaes/roleta-questoes/pull/1) on [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) (today)
 - [fix: Fix name image repository on docker hub](https://github.com/ricardoapaes/exe-sign/pull/4) on [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) (1 day ago)
 - [feat: configurar host e key](https://github.com/ricardoapaes/rustdesk-custom/pull/2) on [ricardoapaes/rustdesk-custom](https://github.com/ricardoapaes/rustdesk-custom) (2 days ago)
 - [feat: automatizar builds Docker com GitHub Actions](https://github.com/ricardoapaes/rustdesk-custom/pull/1) on [ricardoapaes/rustdesk-custom](https://github.com/ricardoapaes/rustdesk-custom) (2 days ago)
-- [🎉 First library version](https://github.com/ricardoapaes/sentry-cron-command/pull/1) on [ricardoapaes/sentry-cron-command](https://github.com/ricardoapaes/sentry-cron-command) (1 week ago)
-- [feat: standardize certificate handling with BASE64-only approach](https://github.com/ricardoapaes/exe-sign/pull/3) on [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) (2 weeks ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
