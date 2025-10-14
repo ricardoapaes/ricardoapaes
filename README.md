@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) - Jogo de roleta para trabalhar com alunos de forma interativa. (5 days ago)
-- [ricardoapaes/rustdesk-custom](https://github.com/ricardoapaes/rustdesk-custom) - Gerador de Instalador RustDesk Personalizado. (6 days ago)
+- [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) - Jogo de roleta para trabalhar com alunos de forma interativa. (6 days ago)
+- [ricardoapaes/rustdesk-custom](https://github.com/ricardoapaes/rustdesk-custom) - Gerador de Instalador RustDesk Personalizado. (1 week ago)
 - [ricardoapaes/sentry-cron-command](https://github.com/ricardoapaes/sentry-cron-command) - Integration between `symfony/console` and `sentry/sentry` for scheduled tasks. (1 week ago)
 - [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) - Docker image to sign an executable using osslsigncode. (3 weeks ago)
 - [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi) (4 weeks ago)
@@ -20,22 +20,22 @@
 
 - [ricardoapaes/sentry-cron-command](https://github.com/ricardoapaes/sentry-cron-command) ([v1.0.0](https://github.com/ricardoapaes/sentry-cron-command/releases/tag/v1.0.0), 1 week ago) - Integration between `symfony/console` and `sentry/sentry` for scheduled tasks.
 - [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) ([v1.1.1](https://github.com/ricardoapaes/exe-sign/releases/tag/v1.1.1), 3 weeks ago) - Docker image to sign an executable using osslsigncode.
-- [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi) ([v1.0.0](https://github.com/ricardoapaes/diario-do-xixi/releases/tag/v1.0.0), 3 weeks ago)
+- [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi) ([v1.0.0](https://github.com/ricardoapaes/diario-do-xixi/releases/tag/v1.0.0), 4 weeks ago)
 - [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) ([v2.1.0](https://github.com/likesistemas/eloquent-external/releases/tag/v2.1.0), 1 month ago) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework.
 - [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.4](https://github.com/openboxes/openboxes/releases/tag/v0.9.4), 3 months ago) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [Add-auth](https://github.com/ricardoapaes/roleta-questoes/pull/2) on [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) (5 days ago)
-- [Pages](https://github.com/ricardoapaes/roleta-questoes/pull/1) on [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) (5 days ago)
-- [fix: Fix name image repository on docker hub](https://github.com/ricardoapaes/exe-sign/pull/4) on [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) (6 days ago)
+- [Add-auth](https://github.com/ricardoapaes/roleta-questoes/pull/2) on [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) (6 days ago)
+- [Pages](https://github.com/ricardoapaes/roleta-questoes/pull/1) on [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) (6 days ago)
+- [fix: Fix name image repository on docker hub](https://github.com/ricardoapaes/exe-sign/pull/4) on [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) (1 week ago)
 - [feat: configurar host e key](https://github.com/ricardoapaes/rustdesk-custom/pull/2) on [ricardoapaes/rustdesk-custom](https://github.com/ricardoapaes/rustdesk-custom) (1 week ago)
 - [feat: automatizar builds Docker com GitHub Actions](https://github.com/ricardoapaes/rustdesk-custom/pull/1) on [ricardoapaes/rustdesk-custom](https://github.com/ricardoapaes/rustdesk-custom) (1 week ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
 - [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) - Docker image to sign an executable using osslsigncode. (3 weeks ago)
-- [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi) (3 weeks ago)
+- [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi) (4 weeks ago)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (3 months ago)
 - [symfony/var-dumper](https://github.com/symfony/var-dumper) - Provides mechanisms for walking through any arbitrary PHP variable (3 months ago)
 - [eliangelap/uniface-syntax-extension](https://github.com/eliangelap/uniface-syntax-extension) - A VSCode extension for Uniface program language, with syntax highlighter and all powerful of VSCode resources (5 months ago)
