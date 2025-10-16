@@ -10,11 +10,11 @@
 
 #### 🌱 My latest projects | Meus últimos projetos
 
+- [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep)
 - [ricardoapaes/rustdesk-custom](https://github.com/ricardoapaes/rustdesk-custom) - Gerador de Instalador RustDesk Personalizado.
 - [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) - Jogo de roleta para trabalhar com alunos de forma interativa.
 - [ricardoapaes/sentry-cron-command](https://github.com/ricardoapaes/sentry-cron-command) - Integration between `symfony/console` and `sentry/sentry` for scheduled tasks.
 - [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi)
-- [ricardoapaes/wordpress-nginx-cache](https://github.com/ricardoapaes/wordpress-nginx-cache)
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
