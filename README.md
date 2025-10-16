@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
+- [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) - API de consulta de CEPs brasileiros com cache local e fallback automático para ViaCEP. Compatível 100% com a API do ViaCEP. (today)
 - [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) - Jogo de roleta para trabalhar com alunos de forma interativa. (1 week ago)
 - [ricardoapaes/rustdesk-custom](https://github.com/ricardoapaes/rustdesk-custom) - Gerador de Instalador RustDesk Personalizado. (1 week ago)
 - [ricardoapaes/sentry-cron-command](https://github.com/ricardoapaes/sentry-cron-command) - Integration between `symfony/console` and `sentry/sentry` for scheduled tasks. (2 weeks ago)
 - [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) - Docker image to sign an executable using osslsigncode. (3 weeks ago)
-- [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi) (1 month ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
 
-- [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep)
+- [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) - API de consulta de CEPs brasileiros com cache local e fallback automático para ViaCEP. Compatível 100% com a API do ViaCEP.
 - [ricardoapaes/rustdesk-custom](https://github.com/ricardoapaes/rustdesk-custom) - Gerador de Instalador RustDesk Personalizado.
 - [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) - Jogo de roleta para trabalhar com alunos de forma interativa.
 - [ricardoapaes/sentry-cron-command](https://github.com/ricardoapaes/sentry-cron-command) - Integration between `symfony/console` and `sentry/sentry` for scheduled tasks.
@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
+- [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) ([v1.0.0](https://github.com/ricardoapaes/opencep/releases/tag/v1.0.0), today) - API de consulta de CEPs brasileiros com cache local e fallback automático para ViaCEP. Compatível 100% com a API do ViaCEP.
 - [ricardoapaes/sentry-cron-command](https://github.com/ricardoapaes/sentry-cron-command) ([v1.0.0](https://github.com/ricardoapaes/sentry-cron-command/releases/tag/v1.0.0), 2 weeks ago) - Integration between `symfony/console` and `sentry/sentry` for scheduled tasks.
 - [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) ([v1.1.1](https://github.com/ricardoapaes/exe-sign/releases/tag/v1.1.1), 3 weeks ago) - Docker image to sign an executable using osslsigncode.
 - [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi) ([v1.0.0](https://github.com/ricardoapaes/diario-do-xixi/releases/tag/v1.0.0), 1 month ago)
 - [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) ([v2.1.0](https://github.com/likesistemas/eloquent-external/releases/tag/v2.1.0), 1 month ago) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework.
-- [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.4](https://github.com/openboxes/openboxes/releases/tag/v0.9.4), 3 months ago) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
