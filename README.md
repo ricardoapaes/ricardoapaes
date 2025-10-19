@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) - API de consulta de CEPs brasileiros com cache local e fallback automático para ViaCEP. Compatível 100% com a API do ViaCEP. (1 day ago)
+- [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) - API de consulta de CEPs brasileiros com cache local e fallback automático para ViaCEP. Compatível 100% com a API do ViaCEP. (2 days ago)
 - [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) - Jogo de roleta para trabalhar com alunos de forma interativa. (1 week ago)
 - [ricardoapaes/rustdesk-custom](https://github.com/ricardoapaes/rustdesk-custom) - Gerador de Instalador RustDesk Personalizado. (1 week ago)
 - [ricardoapaes/sentry-cron-command](https://github.com/ricardoapaes/sentry-cron-command) - Integration between `symfony/console` and `sentry/sentry` for scheduled tasks. (2 weeks ago)
-- [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) - Docker image to sign an executable using osslsigncode. (4 weeks ago)
+- [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) - Docker image to sign an executable using osslsigncode. (1 month ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
 
@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) ([v1.0.0](https://github.com/ricardoapaes/opencep/releases/tag/v1.0.0), 2 days ago) - API de consulta de CEPs brasileiros com cache local e fallback automático para ViaCEP. Compatível 100% com a API do ViaCEP.
+- [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) ([v1.0.0](https://github.com/ricardoapaes/opencep/releases/tag/v1.0.0), 3 days ago) - API de consulta de CEPs brasileiros com cache local e fallback automático para ViaCEP. Compatível 100% com a API do ViaCEP.
 - [ricardoapaes/sentry-cron-command](https://github.com/ricardoapaes/sentry-cron-command) ([v1.0.0](https://github.com/ricardoapaes/sentry-cron-command/releases/tag/v1.0.0), 2 weeks ago) - Integration between `symfony/console` and `sentry/sentry` for scheduled tasks.
-- [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) ([v1.1.1](https://github.com/ricardoapaes/exe-sign/releases/tag/v1.1.1), 4 weeks ago) - Docker image to sign an executable using osslsigncode.
+- [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) ([v1.1.1](https://github.com/ricardoapaes/exe-sign/releases/tag/v1.1.1), 1 month ago) - Docker image to sign an executable using osslsigncode.
 - [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi) ([v1.0.0](https://github.com/ricardoapaes/diario-do-xixi/releases/tag/v1.0.0), 1 month ago)
 - [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) ([v2.1.0](https://github.com/likesistemas/eloquent-external/releases/tag/v2.1.0), 1 month ago) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework.
 
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent stars | Estrelas recentes
 
-- [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) - Docker image to sign an executable using osslsigncode. (4 weeks ago)
+- [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) - Docker image to sign an executable using osslsigncode. (1 month ago)
 - [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi) (1 month ago)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (3 months ago)
 - [symfony/var-dumper](https://github.com/symfony/var-dumper) - Provides mechanisms for walking through any arbitrary PHP variable (3 months ago)
