@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) - API de consulta de CEPs brasileiros com cache local e fallback automático para ViaCEP. Compatível 100% com a API do ViaCEP. (5 days ago)
+- [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) - API de consulta de CEPs brasileiros com cache local e fallback automático para ViaCEP. Compatível 100% com a API do ViaCEP. (6 days ago)
 - [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) - Jogo de roleta para trabalhar com alunos de forma interativa. (2 weeks ago)
 - [ricardoapaes/rustdesk-custom](https://github.com/ricardoapaes/rustdesk-custom) - Gerador de Instalador RustDesk Personalizado. (2 weeks ago)
 - [ricardoapaes/sentry-cron-command](https://github.com/ricardoapaes/sentry-cron-command) - Integration between `symfony/console` and `sentry/sentry` for scheduled tasks. (3 weeks ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) ([v1.0.0](https://github.com/ricardoapaes/opencep/releases/tag/v1.0.0), 6 days ago) - API de consulta de CEPs brasileiros com cache local e fallback automático para ViaCEP. Compatível 100% com a API do ViaCEP.
+- [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) ([v1.0.0](https://github.com/ricardoapaes/opencep/releases/tag/v1.0.0), 1 week ago) - API de consulta de CEPs brasileiros com cache local e fallback automático para ViaCEP. Compatível 100% com a API do ViaCEP.
 - [ricardoapaes/sentry-cron-command](https://github.com/ricardoapaes/sentry-cron-command) ([v1.0.0](https://github.com/ricardoapaes/sentry-cron-command/releases/tag/v1.0.0), 3 weeks ago) - Integration between `symfony/console` and `sentry/sentry` for scheduled tasks.
 - [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) ([v1.1.1](https://github.com/ricardoapaes/exe-sign/releases/tag/v1.1.1), 1 month ago) - Docker image to sign an executable using osslsigncode.
 - [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi) ([v1.0.0](https://github.com/ricardoapaes/diario-do-xixi/releases/tag/v1.0.0), 1 month ago)
