@@ -26,11 +26,11 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
+- [✨ Adicionando cors headers](https://github.com/ricardoapaes/opencep/pull/2) on [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) (today)
 - [✨ Ajustando dns proxy reverso para rodar em produção](https://github.com/ricardoapaes/opencep/pull/1) on [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) (3 days ago)
 - [Add-auth](https://github.com/ricardoapaes/roleta-questoes/pull/2) on [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) (2 weeks ago)
 - [Pages](https://github.com/ricardoapaes/roleta-questoes/pull/1) on [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) (2 weeks ago)
 - [fix: Fix name image repository on docker hub](https://github.com/ricardoapaes/exe-sign/pull/4) on [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) (2 weeks ago)
-- [feat: configurar host e key](https://github.com/ricardoapaes/rustdesk-custom/pull/2) on [ricardoapaes/rustdesk-custom](https://github.com/ricardoapaes/rustdesk-custom) (3 weeks ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
