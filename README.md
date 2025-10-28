@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [likesistemas/eloquent-ide-helper](https://github.com/likesistemas/eloquent-ide-helper) - Using `barryvdh/laravel-ide-helper` without laravel framework. (1 day ago)
 - [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) - API de consulta de CEPs brasileiros com cache local e fallback automático para ViaCEP. Compatível 100% com a API do ViaCEP. (1 day ago)
 - [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework. (1 day ago)
+- [likesistemas/eloquent-ide-helper](https://github.com/likesistemas/eloquent-ide-helper) - Using `barryvdh/laravel-ide-helper` without laravel framework. (1 day ago)
 - [ricardoapaes/prometheus](https://github.com/ricardoapaes/prometheus) - Simple deployment of Prometheus and Grafana to monitor VPS. (2 days ago)
 - [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) - Jogo de roleta para trabalhar com alunos de forma interativa. (2 weeks ago)
 
