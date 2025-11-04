@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
+- [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.5-hotfix3](https://github.com/openboxes/openboxes/releases/tag/v0.9.5-hotfix3), today) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
 - [likesistemas/eloquent-ide-helper](https://github.com/likesistemas/eloquent-ide-helper) ([v2.0.0](https://github.com/likesistemas/eloquent-ide-helper/releases/tag/v2.0.0), 1 week ago) - Using `barryvdh/laravel-ide-helper` without laravel framework.
 - [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) ([v2.1.1](https://github.com/likesistemas/eloquent-external/releases/tag/v2.1.1), 1 week ago) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework.
 - [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) ([v1.2.0](https://github.com/ricardoapaes/opencep/releases/tag/v1.2.0), 1 week ago) - API de consulta de CEPs brasileiros com cache local e fallback automático para ViaCEP. Compatível 100% com a API do ViaCEP.
 - [ricardoapaes/sentry-cron-command](https://github.com/ricardoapaes/sentry-cron-command) ([v1.0.0](https://github.com/ricardoapaes/sentry-cron-command/releases/tag/v1.0.0), 1 month ago) - Integration between `symfony/console` and `sentry/sentry` for scheduled tasks.
-- [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) ([v1.1.1](https://github.com/ricardoapaes/exe-sign/releases/tag/v1.1.1), 1 month ago) - Docker image to sign an executable using osslsigncode.
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
