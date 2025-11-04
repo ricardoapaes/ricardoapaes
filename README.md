@@ -26,7 +26,7 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [✨ Corrigindo cors headers no proxy para viacep](https://github.com/ricardoapaes/opencep/pull/3) on [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) (4 days ago)
+- [✨ Corrigindo cors headers no proxy para viacep](https://github.com/ricardoapaes/opencep/pull/3) on [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) (5 days ago)
 - [✨ Adicionando cors headers](https://github.com/ricardoapaes/opencep/pull/2) on [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) (1 week ago)
 - [✨ Ajustando dns proxy reverso para rodar em produção](https://github.com/ricardoapaes/opencep/pull/1) on [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) (1 week ago)
 - [Add-auth](https://github.com/ricardoapaes/roleta-questoes/pull/2) on [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) (3 weeks ago)
