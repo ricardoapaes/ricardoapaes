@@ -6,7 +6,7 @@
 - [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) - API de consulta de CEPs brasileiros com cache local e fallback automático para ViaCEP. Compatível 100% com a API do ViaCEP. (1 week ago)
 - [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework. (1 week ago)
 - [ricardoapaes/prometheus](https://github.com/ricardoapaes/prometheus) - Simple deployment of Prometheus and Grafana to monitor VPS. (1 week ago)
-- [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) - Jogo de roleta para trabalhar com alunos de forma interativa. (4 weeks ago)
+- [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) - Jogo de roleta para trabalhar com alunos de forma interativa. (1 month ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
 
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.5-hotfix3](https://github.com/openboxes/openboxes/releases/tag/v0.9.5-hotfix3), 2 days ago) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
+- [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.5-hotfix3](https://github.com/openboxes/openboxes/releases/tag/v0.9.5-hotfix3), 3 days ago) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
 - [likesistemas/eloquent-ide-helper](https://github.com/likesistemas/eloquent-ide-helper) ([v2.0.0](https://github.com/likesistemas/eloquent-ide-helper/releases/tag/v2.0.0), 1 week ago) - Using `barryvdh/laravel-ide-helper` without laravel framework.
 - [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) ([v2.1.1](https://github.com/likesistemas/eloquent-external/releases/tag/v2.1.1), 1 week ago) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework.
 - [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) ([v1.2.0](https://github.com/ricardoapaes/opencep/releases/tag/v1.2.0), 1 week ago) - API de consulta de CEPs brasileiros com cache local e fallback automático para ViaCEP. Compatível 100% com a API do ViaCEP.
@@ -28,9 +28,9 @@
 
 - [✨ Corrigindo cors headers no proxy para viacep](https://github.com/ricardoapaes/opencep/pull/3) on [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) (1 week ago)
 - [✨ Adicionando cors headers](https://github.com/ricardoapaes/opencep/pull/2) on [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) (1 week ago)
-- [✨ Ajustando dns proxy reverso para rodar em produção](https://github.com/ricardoapaes/opencep/pull/1) on [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) (1 week ago)
-- [Add-auth](https://github.com/ricardoapaes/roleta-questoes/pull/2) on [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) (4 weeks ago)
-- [Pages](https://github.com/ricardoapaes/roleta-questoes/pull/1) on [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) (4 weeks ago)
+- [✨ Ajustando dns proxy reverso para rodar em produção](https://github.com/ricardoapaes/opencep/pull/1) on [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) (2 weeks ago)
+- [Add-auth](https://github.com/ricardoapaes/roleta-questoes/pull/2) on [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) (1 month ago)
+- [Pages](https://github.com/ricardoapaes/roleta-questoes/pull/1) on [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) (1 month ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
