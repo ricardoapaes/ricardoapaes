@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.5-hotfix3](https://github.com/openboxes/openboxes/releases/tag/v0.9.5-hotfix3), 6 days ago) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
+- [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.5-hotfix3](https://github.com/openboxes/openboxes/releases/tag/v0.9.5-hotfix3), 1 week ago) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
 - [likesistemas/eloquent-ide-helper](https://github.com/likesistemas/eloquent-ide-helper) ([v2.0.0](https://github.com/likesistemas/eloquent-ide-helper/releases/tag/v2.0.0), 2 weeks ago) - Using `barryvdh/laravel-ide-helper` without laravel framework.
 - [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) ([v2.1.1](https://github.com/likesistemas/eloquent-external/releases/tag/v2.1.1), 2 weeks ago) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework.
 - [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) ([v1.2.0](https://github.com/ricardoapaes/opencep/releases/tag/v1.2.0), 2 weeks ago) - API de consulta de CEPs brasileiros com cache local e fallback automático para ViaCEP. Compatível 100% com a API do ViaCEP.
