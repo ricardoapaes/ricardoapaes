@@ -26,11 +26,11 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
+- [✨ Feature: Add Support for Zoho Cliq Notification Service](https://github.com/guanguans/notify/pull/173) on [guanguans/notify](https://github.com/guanguans/notify) (today)
 - [✨ Corrigindo cors headers no proxy para viacep](https://github.com/ricardoapaes/opencep/pull/3) on [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) (1 week ago)
 - [✨ Adicionando cors headers](https://github.com/ricardoapaes/opencep/pull/2) on [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) (2 weeks ago)
 - [✨ Ajustando dns proxy reverso para rodar em produção](https://github.com/ricardoapaes/opencep/pull/1) on [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) (2 weeks ago)
 - [Add-auth](https://github.com/ricardoapaes/roleta-questoes/pull/2) on [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) (1 month ago)
-- [Pages](https://github.com/ricardoapaes/roleta-questoes/pull/1) on [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) (1 month ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
