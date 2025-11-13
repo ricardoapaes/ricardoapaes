@@ -4,8 +4,8 @@
 
 - [guanguans/notify](https://github.com/guanguans/notify) - Push notification SDK(AnPush、Bark、Chanify、DingTalk、Discord、Gitter、GoogleChat、IGot、Lark、Mattermost、MicrosoftTeams、NowPush、Ntfy、Push、Pushback、PushBullet、PushDeer、PushMe、Pushover、PushPlus、QQ、RocketChat、ServerChan、ShowdocPush、SimplePush、Slack、Telegram、WeWork、WPush、XiZhi、YiFengChuanHua、Zulip). (2 days ago)
 - [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) - API de consulta de CEPs brasileiros com cache local e fallback automático para ViaCEP. Compatível 100% com a API do ViaCEP. (2 weeks ago)
-- [likesistemas/eloquent-ide-helper](https://github.com/likesistemas/eloquent-ide-helper) - Using `barryvdh/laravel-ide-helper` without laravel framework. (2 weeks ago)
 - [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework. (2 weeks ago)
+- [likesistemas/eloquent-ide-helper](https://github.com/likesistemas/eloquent-ide-helper) - Using `barryvdh/laravel-ide-helper` without laravel framework. (2 weeks ago)
 - [ricardoapaes/prometheus](https://github.com/ricardoapaes/prometheus) - Simple deployment of Prometheus and Grafana to monitor VPS. (2 weeks ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
