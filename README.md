@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) - Integração com phinx usando codeception. (1 day ago)
+- [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) - Integração com phinx usando codeception. (2 days ago)
 - [openboxes/openboxes](https://github.com/openboxes/openboxes) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities. (1 week ago)
 - [guanguans/notify](https://github.com/guanguans/notify) - Push notification SDK(AnPush、Bark、Chanify、DingTalk、Discord、Gitter、GoogleChat、IGot、Lark、Mattermost、MicrosoftTeams、NowPush、Ntfy、Push、Pushback、PushBullet、PushDeer、PushMe、Pushover、PushPlus、QQ、RocketChat、ServerChan、ShowdocPush、SimplePush、Slack、Telegram、WeWork、WPush、XiZhi、YiFengChuanHua、ZohoCliq、Zulip). (2 weeks ago)
-- [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) - API de consulta de CEPs brasileiros com cache local e fallback automático para ViaCEP. Compatível 100% com a API do ViaCEP. (4 weeks ago)
-- [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework. (4 weeks ago)
+- [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) - API de consulta de CEPs brasileiros com cache local e fallback automático para ViaCEP. Compatível 100% com a API do ViaCEP. (1 month ago)
+- [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework. (1 month ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
 
@@ -18,18 +18,18 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) ([v1.5.0](https://github.com/likesistemas/codeception-phinx-module/releases/tag/v1.5.0), 1 day ago) - Integração com phinx usando codeception.
-- [guanguans/notify](https://github.com/guanguans/notify) ([3.5.3](https://github.com/guanguans/notify/releases/tag/3.5.3), 6 days ago) - Push notification SDK(AnPush、Bark、Chanify、DingTalk、Discord、Gitter、GoogleChat、IGot、Lark、Mattermost、MicrosoftTeams、NowPush、Ntfy、Push、Pushback、PushBullet、PushDeer、PushMe、Pushover、PushPlus、QQ、RocketChat、ServerChan、ShowdocPush、SimplePush、Slack、Telegram、WeWork、WPush、XiZhi、YiFengChuanHua、ZohoCliq、Zulip).
+- [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) ([v1.5.0](https://github.com/likesistemas/codeception-phinx-module/releases/tag/v1.5.0), 2 days ago) - Integração com phinx usando codeception.
+- [guanguans/notify](https://github.com/guanguans/notify) ([3.5.3](https://github.com/guanguans/notify/releases/tag/3.5.3), 1 week ago) - Push notification SDK(AnPush、Bark、Chanify、DingTalk、Discord、Gitter、GoogleChat、IGot、Lark、Mattermost、MicrosoftTeams、NowPush、Ntfy、Push、Pushback、PushBullet、PushDeer、PushMe、Pushover、PushPlus、QQ、RocketChat、ServerChan、ShowdocPush、SimplePush、Slack、Telegram、WeWork、WPush、XiZhi、YiFengChuanHua、ZohoCliq、Zulip).
 - [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.5-hotfix3](https://github.com/openboxes/openboxes/releases/tag/v0.9.5-hotfix3), 3 weeks ago) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
-- [likesistemas/eloquent-ide-helper](https://github.com/likesistemas/eloquent-ide-helper) ([v2.0.0](https://github.com/likesistemas/eloquent-ide-helper/releases/tag/v2.0.0), 4 weeks ago) - Using `barryvdh/laravel-ide-helper` without laravel framework.
-- [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) ([v2.1.1](https://github.com/likesistemas/eloquent-external/releases/tag/v2.1.1), 4 weeks ago) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework.
+- [likesistemas/eloquent-ide-helper](https://github.com/likesistemas/eloquent-ide-helper) ([v2.0.0](https://github.com/likesistemas/eloquent-ide-helper/releases/tag/v2.0.0), 1 month ago) - Using `barryvdh/laravel-ide-helper` without laravel framework.
+- [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) ([v2.1.1](https://github.com/likesistemas/eloquent-external/releases/tag/v2.1.1), 1 month ago) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework.
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [✨ [GEST-3244] Melhorando detecção config Phinx](https://github.com/likesistemas/codeception-phinx-module/pull/5) on [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) (1 day ago)
-- [✨ Feature: Add Support for Zoho Cliq Notification Service](https://github.com/guanguans/notify/pull/173) on [guanguans/notify](https://github.com/guanguans/notify) (1 week ago)
+- [✨ [GEST-3244] Melhorando detecção config Phinx](https://github.com/likesistemas/codeception-phinx-module/pull/5) on [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) (2 days ago)
+- [✨ Feature: Add Support for Zoho Cliq Notification Service](https://github.com/guanguans/notify/pull/173) on [guanguans/notify](https://github.com/guanguans/notify) (2 weeks ago)
 - [✨ Corrigindo cors headers no proxy para viacep](https://github.com/ricardoapaes/opencep/pull/3) on [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) (3 weeks ago)
-- [✨ Adicionando cors headers](https://github.com/ricardoapaes/opencep/pull/2) on [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) (4 weeks ago)
+- [✨ Adicionando cors headers](https://github.com/ricardoapaes/opencep/pull/2) on [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) (1 month ago)
 - [✨ Ajustando dns proxy reverso para rodar em produção](https://github.com/ricardoapaes/opencep/pull/1) on [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) (1 month ago)
 
 #### ⭐ Recent stars | Estrelas recentes
