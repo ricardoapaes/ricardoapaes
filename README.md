@@ -34,7 +34,7 @@
 
 #### ⭐ Recent stars | Estrelas recentes
 
-- [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) - Docker image to sign an executable using osslsigncode. (3 months ago)
+- [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) - Docker image to sign an executable using osslsigncode. (4 months ago)
 - [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi) (4 months ago)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (6 months ago)
 - [symfony/var-dumper](https://github.com/symfony/var-dumper) - Provides mechanisms for walking through any arbitrary PHP variable (6 months ago)
