@@ -5,8 +5,8 @@
 - [guanguans/notify](https://github.com/guanguans/notify) - Push notification SDK(AnPush、Bark、Chanify、DingTalk、Discord、Gitter、GoogleChat、IGot、Lark、Mattermost、MicrosoftTeams、NowPush、Ntfy、Push、Pushback、PushBullet、PushDeer、PushMe、Pushover、PushPlus、QQ、RocketChat、ServerChan、ShowdocPush、SimplePush、Slack、Telegram、WeWork、WPush、XiZhi、YiFengChuanHua、ZohoCliq、Zulip). (2 months ago)
 - [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) - Integração com phinx usando codeception. (3 months ago)
 - [openboxes/openboxes](https://github.com/openboxes/openboxes) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities. (3 months ago)
+- [likesistemas/eloquent-ide-helper](https://github.com/likesistemas/eloquent-ide-helper) - Using `barryvdh/laravel-ide-helper` without laravel framework. (3 months ago)
 - [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) - API de consulta de CEPs brasileiros com cache local e fallback automático para ViaCEP. Compatível 100% com a API do ViaCEP. (3 months ago)
-- [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework. (3 months ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
 
