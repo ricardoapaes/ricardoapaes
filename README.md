@@ -29,7 +29,7 @@
 - [feat(zohocliq): Full Thread support with Title and Posting Options](https://github.com/guanguans/notify/pull/175) on [guanguans/notify](https://github.com/guanguans/notify) (3 months ago)
 - [✨ [GEST-3244] Melhorando detecção config Phinx](https://github.com/likesistemas/codeception-phinx-module/pull/5) on [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) (3 months ago)
 - [✨ Feature: Add Support for Zoho Cliq Notification Service](https://github.com/guanguans/notify/pull/173) on [guanguans/notify](https://github.com/guanguans/notify) (3 months ago)
-- [✨ Corrigindo cors headers no proxy para viacep](https://github.com/ricardoapaes/opencep/pull/3) on [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) (3 months ago)
+- [✨ Corrigindo cors headers no proxy para viacep](https://github.com/ricardoapaes/opencep/pull/3) on [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) (4 months ago)
 - [✨ Adicionando cors headers](https://github.com/ricardoapaes/opencep/pull/2) on [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) (4 months ago)
 
 #### ⭐ Recent stars | Estrelas recentes
