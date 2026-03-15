@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.7](https://github.com/openboxes/openboxes/releases/tag/v0.9.7), 1 day ago) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
+- [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.7](https://github.com/openboxes/openboxes/releases/tag/v0.9.7), 2 days ago) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
 - [guanguans/notify](https://github.com/guanguans/notify) ([4.1.0](https://github.com/guanguans/notify/releases/tag/4.1.0), 1 month ago) - Push notification SDK(AnPush、Bark、Chanify、DingTalk、Discord、Gitter、GoogleChat、IGot、Lark、Mattermost、MicrosoftTeams、NowPush、Ntfy、Push、Pushback、PushBullet、PushDeer、PushMe、Pushover、PushPlus、QQ、RocketChat、ServerChan、ShowdocPush、SimplePush、Slack、Telegram、WeWork、WPush、XiZhi、YiFengChuanHua、ZohoCliq、Zulip).
 - [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) ([v1.5.0](https://github.com/likesistemas/codeception-phinx-module/releases/tag/v1.5.0), 3 months ago) - Integração com phinx usando codeception.
 - [likesistemas/eloquent-ide-helper](https://github.com/likesistemas/eloquent-ide-helper) ([v2.0.0](https://github.com/likesistemas/eloquent-ide-helper/releases/tag/v2.0.0), 4 months ago) - Using `barryvdh/laravel-ide-helper` without laravel framework.
@@ -35,7 +35,7 @@
 #### ⭐ Recent stars | Estrelas recentes
 
 - [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) - Docker image to sign an executable using osslsigncode. (5 months ago)
-- [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi) (5 months ago)
+- [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi) (6 months ago)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (8 months ago)
 - [symfony/var-dumper](https://github.com/symfony/var-dumper) - Provides mechanisms for walking through any arbitrary PHP variable (8 months ago)
 - [eliangelap/uniface-syntax-extension](https://github.com/eliangelap/uniface-syntax-extension) - A VSCode extension for Uniface program language, with syntax highlighter and all powerful of VSCode resources (10 months ago)
