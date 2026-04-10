@@ -2,35 +2,35 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
+- [ricardoapaes/docker-java-jlink](https://github.com/ricardoapaes/docker-java-jlink) - Imagem do Docker para gerar um jre usando jlink (today)
 - [guanguans/notify](https://github.com/guanguans/notify) - Push notification SDK(AnPush、Bark、Chanify、DingTalk、Discord、Gitter、GoogleChat、IGot、Lark、Mattermost、MicrosoftTeams、NowPush、Ntfy、Push、Pushback、PushBullet、PushDeer、PushMe、Pushover、PushPlus、QQ、RocketChat、ServerChan、ShowdocPush、SimplePush、Slack、Telegram、WeWork、WPush、XiZhi、YiFengChuanHua、ZohoCliq、Zulip). (4 months ago)
 - [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) - Integração com phinx usando codeception. (4 months ago)
 - [openboxes/openboxes](https://github.com/openboxes/openboxes) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities. (4 months ago)
-- [likesistemas/eloquent-ide-helper](https://github.com/likesistemas/eloquent-ide-helper) - Using `barryvdh/laravel-ide-helper` without laravel framework. (5 months ago)
-- [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework. (5 months ago)
+- [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) - API de consulta de CEPs brasileiros com cache local e fallback automático para ViaCEP. Compatível 100% com a API do ViaCEP. (5 months ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
 
+- [ricardoapaes/docker-java-jlink](https://github.com/ricardoapaes/docker-java-jlink) - Imagem do Docker para gerar um jre usando jlink
 - [ricardoapaes/prometheus](https://github.com/ricardoapaes/prometheus) - Simple deployment of Prometheus and Grafana to monitor VPS.
 - [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) - API de consulta de CEPs brasileiros com cache local e fallback automático para ViaCEP. Compatível 100% com a API do ViaCEP.
 - [ricardoapaes/rustdesk-custom](https://github.com/ricardoapaes/rustdesk-custom) - Gerador de Instalador RustDesk Personalizado.
 - [ricardoapaes/roleta-questoes](https://github.com/ricardoapaes/roleta-questoes) - Jogo de roleta para trabalhar com alunos de forma interativa.
-- [ricardoapaes/sentry-cron-command](https://github.com/ricardoapaes/sentry-cron-command) - Integration between `symfony/console` and `sentry/sentry` for scheduled tasks.
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
+- [ricardoapaes/docker-java-jlink](https://github.com/ricardoapaes/docker-java-jlink) ([v1.0.2](https://github.com/ricardoapaes/docker-java-jlink/releases/tag/v1.0.2), today) - Imagem do Docker para gerar um jre usando jlink
 - [guanguans/notify](https://github.com/guanguans/notify) ([5.2.0](https://github.com/guanguans/notify/releases/tag/5.2.0), 1 week ago) - Push notification SDK(AnPush、Bark、Chanify、DingTalk、Discord、Gitter、GoogleChat、IGot、Lark、Mattermost、MicrosoftTeams、NowPush、Ntfy、Push、Pushback、PushBullet、PushDeer、PushMe、Pushover、PushPlus、QQ、RocketChat、ServerChan、ShowdocPush、SimplePush、Slack、Telegram、WeWork、WPush、XiZhi、YiFengChuanHua、ZohoCliq、Zulip).
 - [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.7](https://github.com/openboxes/openboxes/releases/tag/v0.9.7), 4 weeks ago) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
 - [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) ([v1.5.0](https://github.com/likesistemas/codeception-phinx-module/releases/tag/v1.5.0), 4 months ago) - Integração com phinx usando codeception.
 - [likesistemas/eloquent-ide-helper](https://github.com/likesistemas/eloquent-ide-helper) ([v2.0.0](https://github.com/likesistemas/eloquent-ide-helper/releases/tag/v2.0.0), 5 months ago) - Using `barryvdh/laravel-ide-helper` without laravel framework.
-- [likesistemas/eloquent-external](https://github.com/likesistemas/eloquent-external) ([v2.1.1](https://github.com/likesistemas/eloquent-external/releases/tag/v2.1.1), 5 months ago) - Usando o Eloquent sem nenhuma dependecia com o Laravel Framework.
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
+- [Fix workflow_dispatch](https://github.com/ricardoapaes/docker-java-jlink/pull/3) on [ricardoapaes/docker-java-jlink](https://github.com/ricardoapaes/docker-java-jlink) (today)
 - [feat(zohocliq): Full Thread support with Title and Posting Options](https://github.com/guanguans/notify/pull/175) on [guanguans/notify](https://github.com/guanguans/notify) (4 months ago)
 - [✨ [GEST-3244] Melhorando detecção config Phinx](https://github.com/likesistemas/codeception-phinx-module/pull/5) on [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) (4 months ago)
 - [✨ Feature: Add Support for Zoho Cliq Notification Service](https://github.com/guanguans/notify/pull/173) on [guanguans/notify](https://github.com/guanguans/notify) (4 months ago)
 - [✨ Corrigindo cors headers no proxy para viacep](https://github.com/ricardoapaes/opencep/pull/3) on [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) (5 months ago)
-- [✨ Adicionando cors headers](https://github.com/ricardoapaes/opencep/pull/2) on [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) (5 months ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
