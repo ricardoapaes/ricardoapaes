@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [ricardoapaes/docker-java-jlink](https://github.com/ricardoapaes/docker-java-jlink) - Imagem do Docker para gerar um jre usando jlink (4 days ago)
+- [ricardoapaes/docker-java-jlink](https://github.com/ricardoapaes/docker-java-jlink) - Imagem do Docker para gerar um jre usando jlink (today)
 - [guanguans/notify](https://github.com/guanguans/notify) - Push notification SDK(AnPush、Bark、Chanify、DingTalk、Discord、Gitter、GoogleChat、IGot、Lark、Mattermost、MicrosoftTeams、NowPush、Ntfy、Push、Pushback、PushBullet、PushDeer、PushMe、Pushover、PushPlus、QQ、RocketChat、ServerChan、ShowdocPush、SimplePush、Slack、Telegram、WeWork、WPush、XiZhi、YiFengChuanHua、ZohoCliq、Zulip). (4 months ago)
 - [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) - Integração com phinx usando codeception. (4 months ago)
 - [openboxes/openboxes](https://github.com/openboxes/openboxes) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities. (5 months ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [ricardoapaes/docker-java-jlink](https://github.com/ricardoapaes/docker-java-jlink) ([v1.0.3](https://github.com/ricardoapaes/docker-java-jlink/releases/tag/v1.0.3), 4 days ago) - Imagem do Docker para gerar um jre usando jlink
+- [ricardoapaes/docker-java-jlink](https://github.com/ricardoapaes/docker-java-jlink) ([v1.1.0](https://github.com/ricardoapaes/docker-java-jlink/releases/tag/v1.1.0), today) - Imagem do Docker para gerar um jre usando jlink
 - [guanguans/notify](https://github.com/guanguans/notify) ([5.2.0](https://github.com/guanguans/notify/releases/tag/5.2.0), 2 weeks ago) - Push notification SDK(AnPush、Bark、Chanify、DingTalk、Discord、Gitter、GoogleChat、IGot、Lark、Mattermost、MicrosoftTeams、NowPush、Ntfy、Push、Pushback、PushBullet、PushDeer、PushMe、Pushover、PushPlus、QQ、RocketChat、ServerChan、ShowdocPush、SimplePush、Slack、Telegram、WeWork、WPush、XiZhi、YiFengChuanHua、ZohoCliq、Zulip).
 - [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.7](https://github.com/openboxes/openboxes/releases/tag/v0.9.7), 1 month ago) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
 - [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) ([v1.5.0](https://github.com/likesistemas/codeception-phinx-module/releases/tag/v1.5.0), 4 months ago) - Integração com phinx usando codeception.
