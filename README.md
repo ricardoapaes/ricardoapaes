@@ -26,11 +26,11 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
+- [Add x86 support](https://github.com/ricardoapaes/docker-java-jlink/pull/5) on [ricardoapaes/docker-java-jlink](https://github.com/ricardoapaes/docker-java-jlink) (today)
 - [Add binutils and create ci](https://github.com/ricardoapaes/docker-java-jlink/pull/4) on [ricardoapaes/docker-java-jlink](https://github.com/ricardoapaes/docker-java-jlink) (4 days ago)
 - [Fix workflow_dispatch](https://github.com/ricardoapaes/docker-java-jlink/pull/3) on [ricardoapaes/docker-java-jlink](https://github.com/ricardoapaes/docker-java-jlink) (4 days ago)
 - [feat(zohocliq): Full Thread support with Title and Posting Options](https://github.com/guanguans/notify/pull/175) on [guanguans/notify](https://github.com/guanguans/notify) (4 months ago)
 - [✨ [GEST-3244] Melhorando detecção config Phinx](https://github.com/likesistemas/codeception-phinx-module/pull/5) on [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) (4 months ago)
-- [✨ Feature: Add Support for Zoho Cliq Notification Service](https://github.com/guanguans/notify/pull/173) on [guanguans/notify](https://github.com/guanguans/notify) (5 months ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
