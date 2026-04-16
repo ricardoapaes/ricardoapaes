@@ -26,11 +26,11 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
+- [✨ [EIC-701] Atualizar EiChefe Backend para PHP 8.x](https://github.com/likesistemas/codeception-github-reporter/pull/4) on [likesistemas/codeception-github-reporter](https://github.com/likesistemas/codeception-github-reporter) (today)
 - [Add x86 support](https://github.com/ricardoapaes/docker-java-jlink/pull/5) on [ricardoapaes/docker-java-jlink](https://github.com/ricardoapaes/docker-java-jlink) (2 days ago)
 - [Add binutils and create ci](https://github.com/ricardoapaes/docker-java-jlink/pull/4) on [ricardoapaes/docker-java-jlink](https://github.com/ricardoapaes/docker-java-jlink) (6 days ago)
 - [Fix workflow_dispatch](https://github.com/ricardoapaes/docker-java-jlink/pull/3) on [ricardoapaes/docker-java-jlink](https://github.com/ricardoapaes/docker-java-jlink) (6 days ago)
 - [feat(zohocliq): Full Thread support with Title and Posting Options](https://github.com/guanguans/notify/pull/175) on [guanguans/notify](https://github.com/guanguans/notify) (4 months ago)
-- [✨ [GEST-3244] Melhorando detecção config Phinx](https://github.com/likesistemas/codeception-phinx-module/pull/5) on [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) (4 months ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
