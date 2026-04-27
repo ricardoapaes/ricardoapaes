@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.7-hotfix1](https://github.com/openboxes/openboxes/releases/tag/v0.9.7-hotfix1), 3 days ago) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
+- [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.7-hotfix1](https://github.com/openboxes/openboxes/releases/tag/v0.9.7-hotfix1), 4 days ago) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
 - [likesistemas/codeception-github-reporter](https://github.com/likesistemas/codeception-github-reporter) ([v0.6.0](https://github.com/likesistemas/codeception-github-reporter/releases/tag/v0.6.0), 1 week ago) - Reports unit test data for a pull request.
 - [ricardoapaes/docker-java-jlink](https://github.com/ricardoapaes/docker-java-jlink) ([v1.1.0](https://github.com/ricardoapaes/docker-java-jlink/releases/tag/v1.1.0), 1 week ago) - Imagem do Docker para gerar um jre usando jlink
-- [guanguans/notify](https://github.com/guanguans/notify) ([5.2.0](https://github.com/guanguans/notify/releases/tag/5.2.0), 3 weeks ago) - Push notification SDK(AnPush、Bark、Chanify、DingTalk、Discord、Gitter、GoogleChat、IGot、Lark、Mattermost、MicrosoftTeams、NowPush、Ntfy、Push、Pushback、PushBullet、PushDeer、PushMe、Pushover、PushPlus、QQ、RocketChat、ServerChan、ShowdocPush、SimplePush、Slack、Telegram、WeWork、WPush、XiZhi、YiFengChuanHua、ZohoCliq、Zulip).
+- [guanguans/notify](https://github.com/guanguans/notify) ([5.2.0](https://github.com/guanguans/notify/releases/tag/5.2.0), 4 weeks ago) - Push notification SDK(AnPush、Bark、Chanify、DingTalk、Discord、Gitter、GoogleChat、IGot、Lark、Mattermost、MicrosoftTeams、NowPush、Ntfy、Push、Pushback、PushBullet、PushDeer、PushMe、Pushover、PushPlus、QQ、RocketChat、ServerChan、ShowdocPush、SimplePush、Slack、Telegram、WeWork、WPush、XiZhi、YiFengChuanHua、ZohoCliq、Zulip).
 - [likesistemas/codeception-phinx-module](https://github.com/likesistemas/codeception-phinx-module) ([v1.5.0](https://github.com/likesistemas/codeception-phinx-module/releases/tag/v1.5.0), 5 months ago) - Integração com phinx usando codeception.
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
