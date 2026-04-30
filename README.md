@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.7-hotfix1](https://github.com/openboxes/openboxes/releases/tag/v0.9.7-hotfix1), 6 days ago) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
+- [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.7-hotfix1](https://github.com/openboxes/openboxes/releases/tag/v0.9.7-hotfix1), 1 week ago) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
 - [likesistemas/codeception-github-reporter](https://github.com/likesistemas/codeception-github-reporter) ([v0.6.0](https://github.com/likesistemas/codeception-github-reporter/releases/tag/v0.6.0), 1 week ago) - Reports unit test data for a pull request.
 - [ricardoapaes/docker-java-jlink](https://github.com/ricardoapaes/docker-java-jlink) ([v1.1.0](https://github.com/ricardoapaes/docker-java-jlink/releases/tag/v1.1.0), 2 weeks ago) - Imagem do Docker para gerar um jre usando jlink
 - [guanguans/notify](https://github.com/guanguans/notify) ([5.2.0](https://github.com/guanguans/notify/releases/tag/5.2.0), 1 month ago) - Push notification SDK(AnPush、Bark、Chanify、DingTalk、Discord、Gitter、GoogleChat、IGot、Lark、Mattermost、MicrosoftTeams、NowPush、Ntfy、Push、Pushback、PushBullet、PushDeer、PushMe、Pushover、PushPlus、QQ、RocketChat、ServerChan、ShowdocPush、SimplePush、Slack、Telegram、WeWork、WPush、XiZhi、YiFengChuanHua、ZohoCliq、Zulip).
@@ -27,7 +27,7 @@
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
 - [:sparkles: [EIC-701] Atualizar EiChefe Backend para PHP 8.x](https://github.com/likesistemas/codeception-github-reporter/pull/5) on [likesistemas/codeception-github-reporter](https://github.com/likesistemas/codeception-github-reporter) (1 week ago)
-- [✨ [EIC-701] Atualizar EiChefe Backend para PHP 8.x](https://github.com/likesistemas/codeception-github-reporter/pull/4) on [likesistemas/codeception-github-reporter](https://github.com/likesistemas/codeception-github-reporter) (1 week ago)
+- [✨ [EIC-701] Atualizar EiChefe Backend para PHP 8.x](https://github.com/likesistemas/codeception-github-reporter/pull/4) on [likesistemas/codeception-github-reporter](https://github.com/likesistemas/codeception-github-reporter) (2 weeks ago)
 - [Add x86 support](https://github.com/ricardoapaes/docker-java-jlink/pull/5) on [ricardoapaes/docker-java-jlink](https://github.com/ricardoapaes/docker-java-jlink) (2 weeks ago)
 - [Add binutils and create ci](https://github.com/ricardoapaes/docker-java-jlink/pull/4) on [ricardoapaes/docker-java-jlink](https://github.com/ricardoapaes/docker-java-jlink) (2 weeks ago)
 - [Fix workflow_dispatch](https://github.com/ricardoapaes/docker-java-jlink/pull/3) on [ricardoapaes/docker-java-jlink](https://github.com/ricardoapaes/docker-java-jlink) (2 weeks ago)
