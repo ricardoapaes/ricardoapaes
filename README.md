@@ -26,8 +26,8 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [🧹 Use environment variables for database credentials](https://github.com/likesistemas/php/pull/43) on [likesistemas/php](https://github.com/likesistemas/php) (today)
-- [Add PHP 8.5 Support](https://github.com/likesistemas/php/pull/42) on [likesistemas/php](https://github.com/likesistemas/php) (today)
+- [🧹 Use environment variables for database credentials](https://github.com/likesistemas/php/pull/43) on [likesistemas/php](https://github.com/likesistemas/php) (1 day ago)
+- [Add PHP 8.5 Support](https://github.com/likesistemas/php/pull/42) on [likesistemas/php](https://github.com/likesistemas/php) (1 day ago)
 - [:sparkles: [EIC-701] Atualizar EiChefe Backend para PHP 8.x](https://github.com/likesistemas/codeception-github-reporter/pull/5) on [likesistemas/codeception-github-reporter](https://github.com/likesistemas/codeception-github-reporter) (2 weeks ago)
 - [✨ [EIC-701] Atualizar EiChefe Backend para PHP 8.x](https://github.com/likesistemas/codeception-github-reporter/pull/4) on [likesistemas/codeception-github-reporter](https://github.com/likesistemas/codeception-github-reporter) (2 weeks ago)
 - [Add x86 support](https://github.com/ricardoapaes/docker-java-jlink/pull/5) on [ricardoapaes/docker-java-jlink](https://github.com/ricardoapaes/docker-java-jlink) (3 weeks ago)
