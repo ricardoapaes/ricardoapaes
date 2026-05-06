@@ -26,11 +26,11 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
+- [🧪 [testing improvement] Untested function testWriteFile in cli.php (PHP 5.6)](https://github.com/likesistemas/php/pull/46) on [likesistemas/php](https://github.com/likesistemas/php) (today)
+- [🛡️ Sentinel: [CRITICAL] Fix Information Disclosure via var_dump](https://github.com/likesistemas/sistema-core/pull/35) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (today)
 - [🔒 [security fix] Fix hardcoded database passwords in configuration and code](https://github.com/likesistemas/php/pull/45) on [likesistemas/php](https://github.com/likesistemas/php) (today)
 - [🧪 Add Unit Tests for testWriteFile in www80/cli.php](https://github.com/likesistemas/php/pull/44) on [likesistemas/php](https://github.com/likesistemas/php) (today)
 - [🧹 Use environment variables for database credentials](https://github.com/likesistemas/php/pull/43) on [likesistemas/php](https://github.com/likesistemas/php) (1 day ago)
-- [Add PHP 8.5 Support](https://github.com/likesistemas/php/pull/42) on [likesistemas/php](https://github.com/likesistemas/php) (1 day ago)
-- [:sparkles: [EIC-701] Atualizar EiChefe Backend para PHP 8.x](https://github.com/likesistemas/codeception-github-reporter/pull/5) on [likesistemas/codeception-github-reporter](https://github.com/likesistemas/codeception-github-reporter) (2 weeks ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
