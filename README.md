@@ -26,11 +26,11 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
+- [📝 [EIC-000] Atualiza documentação e padroniza repositório](https://github.com/likesistemas/sistema-core/pull/36) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (today)
+- [📝 [EIC-000] Atualiza documentação e padroniza repositório](https://github.com/ricardoapaes/bore-server/pull/7) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (today)
 - [🧪 [testing improvement] Untested function testWriteFile in cli.php (PHP 5.6)](https://github.com/likesistemas/php/pull/46) on [likesistemas/php](https://github.com/likesistemas/php) (today)
 - [🛡️ Sentinel: [CRITICAL] Fix Information Disclosure via var_dump](https://github.com/likesistemas/sistema-core/pull/35) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (today)
 - [🔒 [security fix] Fix hardcoded database passwords in configuration and code](https://github.com/likesistemas/php/pull/45) on [likesistemas/php](https://github.com/likesistemas/php) (today)
-- [🧪 Add Unit Tests for testWriteFile in www80/cli.php](https://github.com/likesistemas/php/pull/44) on [likesistemas/php](https://github.com/likesistemas/php) (today)
-- [🧹 Use environment variables for database credentials](https://github.com/likesistemas/php/pull/43) on [likesistemas/php](https://github.com/likesistemas/php) (1 day ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
