@@ -26,7 +26,7 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [chore: Added support for credit card ofx](https://github.com/ORIATEC/ofxparser/pull/12) on [ORIATEC/ofxparser](https://github.com/ORIATEC/ofxparser) (6 days ago)
+- [chore: Added support for credit card ofx](https://github.com/ORIATEC/ofxparser/pull/12) on [ORIATEC/ofxparser](https://github.com/ORIATEC/ofxparser) (1 week ago)
 - [📝 [EIC-000] Atualiza documentação e padroniza repositório](https://github.com/likesistemas/sistema-core/pull/36) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (2 weeks ago)
 - [📝 [EIC-000] Atualiza documentação e padroniza repositório](https://github.com/ricardoapaes/bore-server/pull/7) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (2 weeks ago)
 - [🧪 [testing improvement] Untested function testWriteFile in cli.php (PHP 5.6)](https://github.com/likesistemas/php/pull/46) on [likesistemas/php](https://github.com/likesistemas/php) (2 weeks ago)
