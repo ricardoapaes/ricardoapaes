@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
+- [likesistemas/php-dev](https://github.com/likesistemas/php-dev) - PHP container for development. (today)
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) - Container Docker que faz o deploy. (today)
 - [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (1 month ago)
 - [likesistemas/codeception-github-reporter](https://github.com/likesistemas/codeception-github-reporter) - Reports unit test data for a pull request. (1 month ago)
 - [ricardoapaes/docker-java-jlink](https://github.com/ricardoapaes/docker-java-jlink) - Imagem do Docker para gerar um jre usando jlink (1 month ago)
-- [guanguans/notify](https://github.com/guanguans/notify) - Push notification SDK(AnPush、Bark、Chanify、DingTalk、Discord、Gitter、GoogleChat、IGot、Lark、Mattermost、MicrosoftTeams、NowPush、Ntfy、Push、Pushback、PushBullet、PushDeer、PushMe、Pushover、PushPlus、QQ、RocketChat、ServerChan、ShowdocPush、SimplePush、Slack、Telegram、WeWork、WPush、XiZhi、YiFengChuanHua、ZohoCliq、Zulip). (6 months ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
 
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
+- [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2026.06](https://github.com/likesistemas/sistema-core/releases/tag/v2026.06), today) - Container Docker que faz o deploy.
+- [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2026.06](https://github.com/likesistemas/php-dev/releases/tag/v2026.06), today) - PHP container for development.
 - [likesistemas/php](https://github.com/likesistemas/php) ([v2026.05](https://github.com/likesistemas/php/releases/tag/v2026.05), 1 month ago) - Container Docker em PHP-FPM 
 - [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.7-hotfix1](https://github.com/openboxes/openboxes/releases/tag/v0.9.7-hotfix1), 1 month ago) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
 - [likesistemas/codeception-github-reporter](https://github.com/likesistemas/codeception-github-reporter) ([v0.6.0](https://github.com/likesistemas/codeception-github-reporter/releases/tag/v0.6.0), 1 month ago) - Reports unit test data for a pull request.
-- [ricardoapaes/docker-java-jlink](https://github.com/ricardoapaes/docker-java-jlink) ([v1.1.0](https://github.com/ricardoapaes/docker-java-jlink/releases/tag/v1.1.0), 1 month ago) - Imagem do Docker para gerar um jre usando jlink
-- [guanguans/notify](https://github.com/guanguans/notify) ([5.2.0](https://github.com/guanguans/notify/releases/tag/5.2.0), 2 months ago) - Push notification SDK(AnPush、Bark、Chanify、DingTalk、Discord、Gitter、GoogleChat、IGot、Lark、Mattermost、MicrosoftTeams、NowPush、Ntfy、Push、Pushback、PushBullet、PushDeer、PushMe、Pushover、PushPlus、QQ、RocketChat、ServerChan、ShowdocPush、SimplePush、Slack、Telegram、WeWork、WPush、XiZhi、YiFengChuanHua、ZohoCliq、Zulip).
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
+- [✨ Adicionando suporte ao PHP 8.4 e 8.5](https://github.com/likesistemas/sistema-core/pull/37) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (today)
 - [✨ Adicionando suporte ao PHP 8.4 e 8.5](https://github.com/likesistemas/php-dev/pull/19) on [likesistemas/php-dev](https://github.com/likesistemas/php-dev) (today)
 - [chore: Added support for credit card ofx](https://github.com/ORIATEC/ofxparser/pull/12) on [ORIATEC/ofxparser](https://github.com/ORIATEC/ofxparser) (3 weeks ago)
 - [📝 Atualiza documentação e padroniza repositório](https://github.com/likesistemas/sistema-core/pull/36) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (1 month ago)
 - [📝 [EIC-000] Atualiza documentação e padroniza repositório](https://github.com/ricardoapaes/bore-server/pull/7) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (1 month ago)
-- [🧪 [testing improvement] Untested function testWriteFile in cli.php (PHP 5.6)](https://github.com/likesistemas/php/pull/46) on [likesistemas/php](https://github.com/likesistemas/php) (1 month ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
