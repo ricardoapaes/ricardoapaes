@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
+- [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.8](https://github.com/openboxes/openboxes/releases/tag/v0.9.8), today) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2026.06](https://github.com/likesistemas/sistema-core/releases/tag/v2026.06), 3 days ago) - Container Docker que faz o deploy.
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2026.06](https://github.com/likesistemas/php-dev/releases/tag/v2026.06), 3 days ago) - PHP container for development.
 - [likesistemas/php](https://github.com/likesistemas/php) ([v2026.05](https://github.com/likesistemas/php/releases/tag/v2026.05), 1 month ago) - Container Docker em PHP-FPM 
-- [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.7-hotfix1](https://github.com/openboxes/openboxes/releases/tag/v0.9.7-hotfix1), 1 month ago) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
 - [likesistemas/codeception-github-reporter](https://github.com/likesistemas/codeception-github-reporter) ([v0.6.0](https://github.com/likesistemas/codeception-github-reporter/releases/tag/v0.6.0), 1 month ago) - Reports unit test data for a pull request.
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
