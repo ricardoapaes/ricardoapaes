@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [likesistemas/php-dev](https://github.com/likesistemas/php-dev) - PHP container for development. (5 days ago)
-- [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) - Container Docker que faz o deploy. (5 days ago)
+- [likesistemas/php-dev](https://github.com/likesistemas/php-dev) - PHP container for development. (6 days ago)
+- [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) - Container Docker que faz o deploy. (6 days ago)
 - [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (1 month ago)
-- [likesistemas/codeception-github-reporter](https://github.com/likesistemas/codeception-github-reporter) - Reports unit test data for a pull request. (1 month ago)
+- [likesistemas/codeception-github-reporter](https://github.com/likesistemas/codeception-github-reporter) - Reports unit test data for a pull request. (2 months ago)
 - [ricardoapaes/docker-java-jlink](https://github.com/ricardoapaes/docker-java-jlink) - Imagem do Docker para gerar um jre usando jlink (2 months ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
@@ -18,23 +18,23 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.8](https://github.com/openboxes/openboxes/releases/tag/v0.9.8), 2 days ago) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
-- [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2026.06](https://github.com/likesistemas/sistema-core/releases/tag/v2026.06), 5 days ago) - Container Docker que faz o deploy.
-- [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2026.06](https://github.com/likesistemas/php-dev/releases/tag/v2026.06), 5 days ago) - PHP container for development.
+- [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.8](https://github.com/openboxes/openboxes/releases/tag/v0.9.8), 3 days ago) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
+- [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2026.06](https://github.com/likesistemas/sistema-core/releases/tag/v2026.06), 6 days ago) - Container Docker que faz o deploy.
+- [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2026.06](https://github.com/likesistemas/php-dev/releases/tag/v2026.06), 6 days ago) - PHP container for development.
 - [likesistemas/php](https://github.com/likesistemas/php) ([v2026.05](https://github.com/likesistemas/php/releases/tag/v2026.05), 1 month ago) - Container Docker em PHP-FPM 
-- [likesistemas/codeception-github-reporter](https://github.com/likesistemas/codeception-github-reporter) ([v0.6.0](https://github.com/likesistemas/codeception-github-reporter/releases/tag/v0.6.0), 1 month ago) - Reports unit test data for a pull request.
+- [likesistemas/codeception-github-reporter](https://github.com/likesistemas/codeception-github-reporter) ([v0.6.0](https://github.com/likesistemas/codeception-github-reporter/releases/tag/v0.6.0), 2 months ago) - Reports unit test data for a pull request.
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [✨ Adicionando suporte ao PHP 8.4 e 8.5](https://github.com/likesistemas/sistema-core/pull/37) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (5 days ago)
-- [✨ Adicionando suporte ao PHP 8.4 e 8.5](https://github.com/likesistemas/php-dev/pull/19) on [likesistemas/php-dev](https://github.com/likesistemas/php-dev) (5 days ago)
-- [chore: Added support for credit card ofx](https://github.com/ORIATEC/ofxparser/pull/12) on [ORIATEC/ofxparser](https://github.com/ORIATEC/ofxparser) (4 weeks ago)
+- [✨ Adicionando suporte ao PHP 8.4 e 8.5](https://github.com/likesistemas/sistema-core/pull/37) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (6 days ago)
+- [✨ Adicionando suporte ao PHP 8.4 e 8.5](https://github.com/likesistemas/php-dev/pull/19) on [likesistemas/php-dev](https://github.com/likesistemas/php-dev) (6 days ago)
+- [chore: Added support for credit card ofx](https://github.com/ORIATEC/ofxparser/pull/12) on [ORIATEC/ofxparser](https://github.com/ORIATEC/ofxparser) (1 month ago)
 - [📝 Atualiza documentação e padroniza repositório](https://github.com/likesistemas/sistema-core/pull/36) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (1 month ago)
 - [📝 [EIC-000] Atualiza documentação e padroniza repositório](https://github.com/ricardoapaes/bore-server/pull/7) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (1 month ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
-- [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) - Docker image to sign an executable using osslsigncode. (8 months ago)
+- [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) - Docker image to sign an executable using osslsigncode. (9 months ago)
 - [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi) (9 months ago)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (11 months ago)
 - [symfony/var-dumper](https://github.com/symfony/var-dumper) - Provides mechanisms for walking through any arbitrary PHP variable (11 months ago)
