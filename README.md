@@ -36,8 +36,8 @@
 
 - [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) - Docker image to sign an executable using osslsigncode. (9 months ago)
 - [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi) (9 months ago)
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (11 months ago)
-- [symfony/var-dumper](https://github.com/symfony/var-dumper) - Provides mechanisms for walking through any arbitrary PHP variable (11 months ago)
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (1 year ago)
+- [symfony/var-dumper](https://github.com/symfony/var-dumper) - Provides mechanisms for walking through any arbitrary PHP variable (1 year ago)
 - [eliangelap/uniface-syntax-extension](https://github.com/eliangelap/uniface-syntax-extension) - A VSCode extension for Uniface program language, with syntax highlighter and all powerful of VSCode resources (1 year ago)
 
 #### 📫 How to reach me | Como chegar até mim
