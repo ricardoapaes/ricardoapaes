@@ -5,7 +5,7 @@
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) - PHP container for development. (1 month ago)
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) - Container Docker que faz o deploy. (1 month ago)
 - [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (2 months ago)
-- [likesistemas/codeception-github-reporter](https://github.com/likesistemas/codeception-github-reporter) - Reports unit test data for a pull request. (2 months ago)
+- [likesistemas/codeception-github-reporter](https://github.com/likesistemas/codeception-github-reporter) - Reports unit test data for a pull request. (3 months ago)
 - [ricardoapaes/docker-java-jlink](https://github.com/ricardoapaes/docker-java-jlink) - Imagem do Docker para gerar um jre usando jlink (3 months ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
@@ -22,19 +22,19 @@
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2026.06](https://github.com/likesistemas/sistema-core/releases/tag/v2026.06), 1 month ago) - Container Docker que faz o deploy.
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2026.06](https://github.com/likesistemas/php-dev/releases/tag/v2026.06), 1 month ago) - PHP container for development.
 - [likesistemas/php](https://github.com/likesistemas/php) ([v2026.05](https://github.com/likesistemas/php/releases/tag/v2026.05), 2 months ago) - Container Docker em PHP-FPM 
-- [likesistemas/codeception-github-reporter](https://github.com/likesistemas/codeception-github-reporter) ([v0.6.0](https://github.com/likesistemas/codeception-github-reporter/releases/tag/v0.6.0), 2 months ago) - Reports unit test data for a pull request.
+- [likesistemas/codeception-github-reporter](https://github.com/likesistemas/codeception-github-reporter) ([v0.6.0](https://github.com/likesistemas/codeception-github-reporter/releases/tag/v0.6.0), 3 months ago) - Reports unit test data for a pull request.
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
 - [✨ Adicionando suporte ao PHP 8.4 e 8.5](https://github.com/likesistemas/sistema-core/pull/37) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (1 month ago)
 - [✨ Adicionando suporte ao PHP 8.4 e 8.5](https://github.com/likesistemas/php-dev/pull/19) on [likesistemas/php-dev](https://github.com/likesistemas/php-dev) (1 month ago)
-- [chore: Added support for credit card ofx](https://github.com/ORIATEC/ofxparser/pull/12) on [ORIATEC/ofxparser](https://github.com/ORIATEC/ofxparser) (1 month ago)
+- [chore: Added support for credit card ofx](https://github.com/ORIATEC/ofxparser/pull/12) on [ORIATEC/ofxparser](https://github.com/ORIATEC/ofxparser) (2 months ago)
 - [📝 Atualiza documentação e padroniza repositório](https://github.com/likesistemas/sistema-core/pull/36) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (2 months ago)
 - [📝 [EIC-000] Atualiza documentação e padroniza repositório](https://github.com/ricardoapaes/bore-server/pull/7) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (2 months ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
-- [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) - Docker image to sign an executable using osslsigncode. (9 months ago)
+- [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) - Docker image to sign an executable using osslsigncode. (10 months ago)
 - [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi) (10 months ago)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (1 year ago)
 - [symfony/var-dumper](https://github.com/symfony/var-dumper) - Provides mechanisms for walking through any arbitrary PHP variable (1 year ago)
