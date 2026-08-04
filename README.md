@@ -4,7 +4,7 @@
 
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) - PHP container for development. (1 month ago)
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) - Container Docker que faz o deploy. (1 month ago)
-- [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (2 months ago)
+- [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (3 months ago)
 - [likesistemas/codeception-github-reporter](https://github.com/likesistemas/codeception-github-reporter) - Reports unit test data for a pull request. (3 months ago)
 - [ricardoapaes/docker-java-jlink](https://github.com/ricardoapaes/docker-java-jlink) - Imagem do Docker para gerar um jre usando jlink (3 months ago)
 
@@ -22,15 +22,15 @@
 - [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.8](https://github.com/openboxes/openboxes/releases/tag/v0.9.8), 1 month ago) - OpenBoxes is a warehouse management system designed to manage inventory and track stock movements for healthcare facilities.
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2026.06](https://github.com/likesistemas/sistema-core/releases/tag/v2026.06), 1 month ago) - Container Docker que faz o deploy.
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2026.06](https://github.com/likesistemas/php-dev/releases/tag/v2026.06), 1 month ago) - PHP container for development.
-- [likesistemas/php](https://github.com/likesistemas/php) ([v2026.05](https://github.com/likesistemas/php/releases/tag/v2026.05), 2 months ago) - Container Docker em PHP-FPM 
+- [likesistemas/php](https://github.com/likesistemas/php) ([v2026.05](https://github.com/likesistemas/php/releases/tag/v2026.05), 3 months ago) - Container Docker em PHP-FPM 
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
 - [✨ Adicionando suporte ao PHP 8.4 e 8.5](https://github.com/likesistemas/sistema-core/pull/37) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (1 month ago)
 - [✨ Adicionando suporte ao PHP 8.4 e 8.5](https://github.com/likesistemas/php-dev/pull/19) on [likesistemas/php-dev](https://github.com/likesistemas/php-dev) (1 month ago)
 - [chore: Added support for credit card ofx](https://github.com/ORIATEC/ofxparser/pull/12) on [ORIATEC/ofxparser](https://github.com/ORIATEC/ofxparser) (2 months ago)
-- [📝 Atualiza documentação e padroniza repositório](https://github.com/likesistemas/sistema-core/pull/36) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (2 months ago)
-- [📝 [EIC-000] Atualiza documentação e padroniza repositório](https://github.com/ricardoapaes/bore-server/pull/7) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (2 months ago)
+- [📝 Atualiza documentação e padroniza repositório](https://github.com/likesistemas/sistema-core/pull/36) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (3 months ago)
+- [📝 [EIC-000] Atualiza documentação e padroniza repositório](https://github.com/ricardoapaes/bore-server/pull/7) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (3 months ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
