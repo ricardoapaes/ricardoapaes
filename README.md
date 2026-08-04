@@ -30,7 +30,7 @@
 - [✨ Adicionando suporte ao PHP 8.4 e 8.5](https://github.com/likesistemas/php-dev/pull/19) on [likesistemas/php-dev](https://github.com/likesistemas/php-dev) (1 month ago)
 - [chore: Added support for credit card ofx](https://github.com/ORIATEC/ofxparser/pull/12) on [ORIATEC/ofxparser](https://github.com/ORIATEC/ofxparser) (2 months ago)
 - [📝 Atualiza documentação e padroniza repositório](https://github.com/likesistemas/sistema-core/pull/36) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (3 months ago)
-- [📝 [EIC-000] Atualiza documentação e padroniza repositório](https://github.com/ricardoapaes/bore-server/pull/7) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (3 months ago)
+- [📝 Atualiza documentação e padroniza repositório](https://github.com/ricardoapaes/bore-server/pull/7) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (3 months ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
