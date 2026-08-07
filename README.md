@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (2 days ago)
+- [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (3 days ago)
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) - Container Docker que faz o deploy. (1 month ago)
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) - PHP container for development. (1 month ago)
 - [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (3 months ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
-- [guanguans/notify](https://github.com/guanguans/notify) ([5.2.1](https://github.com/guanguans/notify/releases/tag/5.2.1), 1 week ago) - Push notification SDK(AnPush、Bark、Chanify、DingTalk、Discord、Gitter、GoogleChat、IGot、Lark、Mattermost、MicrosoftTeams、NowPush、Ntfy、Push、Pushback、PushBullet、PushDeer、PushMe、Pushover、PushPlus、QQ、RocketChat、ServerChan、ShowdocPush、SimplePush、Slack、Telegram、WeWork、WPush、XiZhi、YiFengChuanHua、ZohoCliq、Zulip).
+- [guanguans/notify](https://github.com/guanguans/notify) ([5.2.1](https://github.com/guanguans/notify/releases/tag/5.2.1), 2 weeks ago) - Push notification SDK(AnPush、Bark、Chanify、DingTalk、Discord、Gitter、GoogleChat、IGot、Lark、Mattermost、MicrosoftTeams、NowPush、Ntfy、Push、Pushback、PushBullet、PushDeer、PushMe、Pushover、PushPlus、QQ、RocketChat、ServerChan、ShowdocPush、SimplePush、Slack、Telegram、WeWork、WPush、XiZhi、YiFengChuanHua、ZohoCliq、Zulip).
 - [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.8](https://github.com/openboxes/openboxes/releases/tag/v0.9.8), 1 month ago) - OpenBoxes is a warehouse management system designed to manage inventory and track stock movements for healthcare facilities.
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2026.06](https://github.com/likesistemas/sistema-core/releases/tag/v2026.06), 1 month ago) - Container Docker que faz o deploy.
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2026.06](https://github.com/likesistemas/php-dev/releases/tag/v2026.06), 1 month ago) - PHP container for development.
@@ -26,8 +26,8 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [🧱 Removendo rede e adicionando dependecia](https://github.com/ricardoapaes/bore-server/pull/9) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (2 days ago)
-- [Desabilitando cors](https://github.com/ricardoapaes/bore-server/pull/8) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (2 days ago)
+- [🧱 Removendo rede e adicionando dependecia](https://github.com/ricardoapaes/bore-server/pull/9) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (3 days ago)
+- [Desabilitando cors](https://github.com/ricardoapaes/bore-server/pull/8) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (3 days ago)
 - [✨ Adicionando suporte ao PHP 8.4 e 8.5](https://github.com/likesistemas/sistema-core/pull/37) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (1 month ago)
 - [✨ Adicionando suporte ao PHP 8.4 e 8.5](https://github.com/likesistemas/php-dev/pull/19) on [likesistemas/php-dev](https://github.com/likesistemas/php-dev) (1 month ago)
 - [chore: Added support for credit card ofx](https://github.com/ORIATEC/ofxparser/pull/12) on [ORIATEC/ofxparser](https://github.com/ORIATEC/ofxparser) (2 months ago)
