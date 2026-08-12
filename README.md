@@ -19,7 +19,7 @@
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
 - [guanguans/notify](https://github.com/guanguans/notify) ([5.2.1](https://github.com/guanguans/notify/releases/tag/5.2.1), 2 weeks ago) - Push notification SDK(AnPush、Bark、Chanify、DingTalk、Discord、Gitter、GoogleChat、IGot、Lark、Mattermost、MicrosoftTeams、NowPush、Ntfy、Push、Pushback、PushBullet、PushDeer、PushMe、Pushover、PushPlus、QQ、RocketChat、ServerChan、ShowdocPush、SimplePush、Slack、Telegram、WeWork、WPush、XiZhi、YiFengChuanHua、ZohoCliq、Zulip).
-- [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.8](https://github.com/openboxes/openboxes/releases/tag/v0.9.8), 1 month ago) - OpenBoxes is a warehouse management system designed to manage inventory and track stock movements for healthcare facilities.
+- [openboxes/openboxes](https://github.com/openboxes/openboxes) ([v0.9.8](https://github.com/openboxes/openboxes/releases/tag/v0.9.8), 2 months ago) - OpenBoxes is a warehouse management system designed to manage inventory and track stock movements for healthcare facilities.
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2026.06](https://github.com/likesistemas/sistema-core/releases/tag/v2026.06), 2 months ago) - Container Docker que faz o deploy.
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2026.06](https://github.com/likesistemas/php-dev/releases/tag/v2026.06), 2 months ago) - PHP container for development.
 - [likesistemas/php](https://github.com/likesistemas/php) ([v2026.05](https://github.com/likesistemas/php/releases/tag/v2026.05), 3 months ago) - Container Docker em PHP-FPM 
@@ -35,7 +35,7 @@
 #### ⭐ Recent stars | Estrelas recentes
 
 - [ricardoapaes/exe-sign](https://github.com/ricardoapaes/exe-sign) - Docker image to sign an executable using osslsigncode. (10 months ago)
-- [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi) (10 months ago)
+- [ricardoapaes/diario-do-xixi](https://github.com/ricardoapaes/diario-do-xixi) (11 months ago)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (1 year ago)
 - [symfony/var-dumper](https://github.com/symfony/var-dumper) - Provides mechanisms for walking through any arbitrary PHP variable (1 year ago)
 - [eliangelap/uniface-syntax-extension](https://github.com/eliangelap/uniface-syntax-extension) - A VSCode extension for Uniface program language, with syntax highlighter and all powerful of VSCode resources (1 year ago)
