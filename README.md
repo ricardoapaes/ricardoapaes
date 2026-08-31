@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (3 weeks ago)
-- [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) - Container Docker que faz o deploy. (2 months ago)
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) - PHP container for development. (2 months ago)
+- [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) - Container Docker que faz o deploy. (2 months ago)
 - [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (3 months ago)
 - [likesistemas/codeception-github-reporter](https://github.com/likesistemas/codeception-github-reporter) - Reports unit test data for a pull request. (4 months ago)
 
