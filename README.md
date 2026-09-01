@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (3 weeks ago)
+- [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (4 weeks ago)
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) - PHP container for development. (2 months ago)
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) - Container Docker que faz o deploy. (2 months ago)
 - [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (3 months ago)
@@ -26,8 +26,8 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [🧱 Removendo rede e adicionando dependecia](https://github.com/ricardoapaes/bore-server/pull/9) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (3 weeks ago)
-- [Desabilitando cors](https://github.com/ricardoapaes/bore-server/pull/8) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (3 weeks ago)
+- [🧱 Removendo rede e adicionando dependecia](https://github.com/ricardoapaes/bore-server/pull/9) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (4 weeks ago)
+- [Desabilitando cors](https://github.com/ricardoapaes/bore-server/pull/8) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (4 weeks ago)
 - [✨ Adicionando suporte ao PHP 8.4 e 8.5](https://github.com/likesistemas/sistema-core/pull/37) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (2 months ago)
 - [✨ Adicionando suporte ao PHP 8.4 e 8.5](https://github.com/likesistemas/php-dev/pull/19) on [likesistemas/php-dev](https://github.com/likesistemas/php-dev) (2 months ago)
 - [chore: Added support for credit card ofx](https://github.com/ORIATEC/ofxparser/pull/12) on [ORIATEC/ofxparser](https://github.com/ORIATEC/ofxparser) (3 months ago)
