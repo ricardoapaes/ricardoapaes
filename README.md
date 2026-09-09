@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
+- [ricardoapaes/opencode-config](https://github.com/ricardoapaes/opencode-config) (today)
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (1 month ago)
-- [likesistemas/php-dev](https://github.com/likesistemas/php-dev) - PHP container for development. (3 months ago)
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) - Container Docker que faz o deploy. (3 months ago)
+- [likesistemas/php-dev](https://github.com/likesistemas/php-dev) - PHP container for development. (3 months ago)
 - [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (4 months ago)
-- [likesistemas/codeception-github-reporter](https://github.com/likesistemas/codeception-github-reporter) - Reports unit test data for a pull request. (4 months ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
 
+- [ricardoapaes/opencode-config](https://github.com/ricardoapaes/opencode-config)
 - [ricardoapaes/MatheusErcoliOrcamento](https://github.com/ricardoapaes/MatheusErcoliOrcamento)
 - [ricardoapaes/docker-java-jlink](https://github.com/ricardoapaes/docker-java-jlink) - Imagem do Docker para gerar um jre usando jlink
 - [ricardoapaes/prometheus](https://github.com/ricardoapaes/prometheus) - Simple deployment of Prometheus and Grafana to monitor VPS.
 - [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) - API de consulta de CEPs brasileiros com cache local e fallback automático para ViaCEP. Compatível 100% com a API do ViaCEP.
-- [ricardoapaes/rustdesk-custom](https://github.com/ricardoapaes/rustdesk-custom) - Gerador de Instalador RustDesk Personalizado.
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
