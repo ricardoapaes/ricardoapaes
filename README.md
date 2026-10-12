@@ -4,8 +4,8 @@
 
 - [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) - API de consulta de CEPs brasileiros com cache local e fallback automático para ViaCEP. Compatível 100% com a API do ViaCEP. (5 days ago)
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (2 months ago)
-- [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) - Container Docker que faz o deploy. (4 months ago)
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) - PHP container for development. (4 months ago)
+- [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) - Container Docker que faz o deploy. (4 months ago)
 - [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (5 months ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
