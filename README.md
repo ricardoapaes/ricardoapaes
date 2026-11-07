@@ -5,8 +5,8 @@
 - [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (2 weeks ago)
 - [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) - API de consulta de CEPs brasileiros com cache local e fallback automático para ViaCEP. Compatível 100% com a API do ViaCEP. (1 month ago)
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (3 months ago)
-- [likesistemas/php-dev](https://github.com/likesistemas/php-dev) - PHP container for development. (4 months ago)
-- [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) - Container Docker que faz o deploy. (4 months ago)
+- [likesistemas/php-dev](https://github.com/likesistemas/php-dev) - PHP container for development. (5 months ago)
+- [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) - Container Docker que faz o deploy. (5 months ago)
 
 #### 🌱 My latest projects | Meus últimos projetos
 
@@ -30,7 +30,7 @@
 - [✨ [EIC-1028] Implementar busca reversa local de CEP por endereço ](https://github.com/ricardoapaes/opencep/pull/4) on [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) (1 month ago)
 - [🧱 Removendo rede e adicionando dependecia](https://github.com/ricardoapaes/bore-server/pull/9) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (3 months ago)
 - [Desabilitando cors](https://github.com/ricardoapaes/bore-server/pull/8) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (3 months ago)
-- [✨ Adicionando suporte ao PHP 8.4 e 8.5](https://github.com/likesistemas/sistema-core/pull/37) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (4 months ago)
+- [✨ Adicionando suporte ao PHP 8.4 e 8.5](https://github.com/likesistemas/sistema-core/pull/37) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (5 months ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
