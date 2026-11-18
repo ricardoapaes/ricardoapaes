@@ -10,11 +10,11 @@
 
 #### 🌱 My latest projects | Meus últimos projetos
 
+- [ricardoapaes/site-builder-skill](https://github.com/ricardoapaes/site-builder-skill)
 - [ricardoapaes/MatheusErcoliOrcamento](https://github.com/ricardoapaes/MatheusErcoliOrcamento)
 - [ricardoapaes/docker-java-jlink](https://github.com/ricardoapaes/docker-java-jlink) - Imagem do Docker para gerar um jre usando jlink
 - [ricardoapaes/prometheus](https://github.com/ricardoapaes/prometheus) - Simple deployment of Prometheus and Grafana to monitor VPS.
 - [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) - API de consulta de CEPs brasileiros com cache local e fallback automático para ViaCEP. Compatível 100% com a API do ViaCEP.
-- [ricardoapaes/rustdesk-custom](https://github.com/ricardoapaes/rustdesk-custom) - Gerador de Instalador RustDesk Personalizado.
 
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
