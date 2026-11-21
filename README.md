@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [ricardoapaes/site-builder-skill](https://github.com/ricardoapaes/site-builder-skill) (1 day ago)
-- [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (4 weeks ago)
+- [ricardoapaes/site-builder-skill](https://github.com/ricardoapaes/site-builder-skill) (2 days ago)
+- [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (1 month ago)
 - [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) - API de consulta de CEPs brasileiros com cache local e fallback automático para ViaCEP. Compatível 100% com a API do ViaCEP. (1 month ago)
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (3 months ago)
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) - PHP container for development. (5 months ago)
@@ -19,14 +19,14 @@
 #### 🔭 Latest releases I've contributed to | Últimos lançamentos para os quais contribuí
 
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2026.10.v2](https://github.com/likesistemas/sistema-core/releases/tag/v2026.10.v2), 4 weeks ago) - Container Docker que faz o deploy.
-- [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2026.10](https://github.com/likesistemas/php-dev/releases/tag/v2026.10), 4 weeks ago) - PHP container for development.
-- [likesistemas/php](https://github.com/likesistemas/php) ([v2026.10](https://github.com/likesistemas/php/releases/tag/v2026.10), 4 weeks ago) - Container Docker em PHP-FPM 
+- [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2026.10](https://github.com/likesistemas/php-dev/releases/tag/v2026.10), 1 month ago) - PHP container for development.
+- [likesistemas/php](https://github.com/likesistemas/php) ([v2026.10](https://github.com/likesistemas/php/releases/tag/v2026.10), 1 month ago) - Container Docker em PHP-FPM 
 - [guanguans/notify](https://github.com/guanguans/notify) ([5.3.0](https://github.com/guanguans/notify/releases/tag/5.3.0), 1 month ago) - Push notification SDK(AnPush、Bark、Chanify、DingTalk、Discord、Gitter、GoogleChat、IGot、Lark、Mattermost、MicrosoftTeams、NowPush、Ntfy、Push、Pushback、PushBullet、PushDeer、PushMe、Pushover、PushPlus、QQ、RocketChat、ServerChan、ShowdocPush、SimplePush、Slack、Telegram、WeWork、WPush、XiZhi、YiFengChuanHua、ZohoCliq、Zulip).
 - [likesistemas/codeception-github-reporter](https://github.com/likesistemas/codeception-github-reporter) ([v0.6.0](https://github.com/likesistemas/codeception-github-reporter/releases/tag/v0.6.0), 7 months ago) - Reports unit test data for a pull request.
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [🔧 [DOPS-190] Verificar infraestrutura PHP após CVE publicadas](https://github.com/likesistemas/php/pull/50) on [likesistemas/php](https://github.com/likesistemas/php) (4 weeks ago)
+- [🔧 [DOPS-190] Verificar infraestrutura PHP após CVE publicadas](https://github.com/likesistemas/php/pull/50) on [likesistemas/php](https://github.com/likesistemas/php) (1 month ago)
 - [✨ [EIC-1028] Implementar busca reversa local de CEP por endereço ](https://github.com/ricardoapaes/opencep/pull/4) on [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) (1 month ago)
 - [🧱 Removendo rede e adicionando dependecia](https://github.com/ricardoapaes/bore-server/pull/9) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (3 months ago)
 - [Desabilitando cors](https://github.com/ricardoapaes/bore-server/pull/8) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (3 months ago)
