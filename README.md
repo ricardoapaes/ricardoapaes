@@ -26,11 +26,11 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
+- [🔒️ [DOPS-194] Atualizar container nginx para última versão](https://github.com/likesistemas/nginx/pull/22) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (today)
 - [🔧 [DOPS-190] Verificar infraestrutura PHP após CVE publicadas](https://github.com/likesistemas/php/pull/50) on [likesistemas/php](https://github.com/likesistemas/php) (1 month ago)
 - [✨ [EIC-1028] Implementar busca reversa local de CEP por endereço ](https://github.com/ricardoapaes/opencep/pull/4) on [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) (1 month ago)
 - [🧱 Removendo rede e adicionando dependecia](https://github.com/ricardoapaes/bore-server/pull/9) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (3 months ago)
 - [Desabilitando cors](https://github.com/ricardoapaes/bore-server/pull/8) on [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) (3 months ago)
-- [✨ Adicionando suporte ao PHP 8.4 e 8.5](https://github.com/likesistemas/sistema-core/pull/37) on [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) (5 months ago)
 
 #### ⭐ Recent stars | Estrelas recentes
 
