@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on | Confira no que estou trabalhando atualmente
 
-- [ricardoapaes/site-builder-skill](https://github.com/ricardoapaes/site-builder-skill) (today)
-- [likesistemas/nginx](https://github.com/likesistemas/nginx) (today)
+- [ricardoapaes/site-builder-skill](https://github.com/ricardoapaes/site-builder-skill) (1 day ago)
+- [likesistemas/nginx](https://github.com/likesistemas/nginx) (1 day ago)
 - [likesistemas/php](https://github.com/likesistemas/php) - Container Docker em PHP-FPM  (1 month ago)
 - [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) - API de consulta de CEPs brasileiros com cache local e fallback automático para ViaCEP. Compatível 100% com a API do ViaCEP. (1 month ago)
 - [ricardoapaes/bore-server](https://github.com/ricardoapaes/bore-server) - Bore server with https and subdomain. (3 months ago)
@@ -26,9 +26,9 @@
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
-- [🔒️ [DOPS-194] Atualizar container nginx para última versão](https://github.com/likesistemas/nginx/pull/24) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (today)
-- [🔒️ [DOPS-194] Atualizar container nginx para última versão](https://github.com/likesistemas/nginx/pull/23) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (today)
-- [🔒️ [DOPS-194] Atualizar container nginx para última versão](https://github.com/likesistemas/nginx/pull/22) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (today)
+- [🔒️ [DOPS-194] Atualizar container nginx para última versão](https://github.com/likesistemas/nginx/pull/24) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (1 day ago)
+- [🔒️ [DOPS-194] Atualizar container nginx para última versão](https://github.com/likesistemas/nginx/pull/23) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (1 day ago)
+- [🔒️ [DOPS-194] Atualizar container nginx para última versão](https://github.com/likesistemas/nginx/pull/22) on [likesistemas/nginx](https://github.com/likesistemas/nginx) (1 day ago)
 - [🔧 [DOPS-190] Verificar infraestrutura PHP após CVE publicadas](https://github.com/likesistemas/php/pull/50) on [likesistemas/php](https://github.com/likesistemas/php) (1 month ago)
 - [✨ [EIC-1028] Implementar busca reversa local de CEP por endereço ](https://github.com/ricardoapaes/opencep/pull/4) on [ricardoapaes/opencep](https://github.com/ricardoapaes/opencep) (1 month ago)
 
