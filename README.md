@@ -21,8 +21,8 @@
 - [likesistemas/sistema-core](https://github.com/likesistemas/sistema-core) ([v2026.10.v2](https://github.com/likesistemas/sistema-core/releases/tag/v2026.10.v2), 1 month ago) - Container Docker que faz o deploy.
 - [likesistemas/php-dev](https://github.com/likesistemas/php-dev) ([v2026.10](https://github.com/likesistemas/php-dev/releases/tag/v2026.10), 1 month ago) - PHP container for development.
 - [likesistemas/php](https://github.com/likesistemas/php) ([v2026.10](https://github.com/likesistemas/php/releases/tag/v2026.10), 1 month ago) - Container Docker em PHP-FPM 
-- [guanguans/notify](https://github.com/guanguans/notify) ([5.3.0](https://github.com/guanguans/notify/releases/tag/5.3.0), 2 months ago) - Push notification SDK(AnPush、Bark、Chanify、DingTalk、Discord、Gitter、GoogleChat、IGot、Lark、Mattermost、MicrosoftTeams、NowPush、Ntfy、Push、Pushback、PushBullet、PushDeer、PushMe、Pushover、PushPlus、QQ、RocketChat、ServerChan、ShowdocPush、SimplePush、Slack、Telegram、WeWork、WPush、XiZhi、YiFengChuanHua、ZohoCliq、Zulip).
 - [likesistemas/codeception-github-reporter](https://github.com/likesistemas/codeception-github-reporter) ([v0.6.0](https://github.com/likesistemas/codeception-github-reporter/releases/tag/v0.6.0), 7 months ago) - Reports unit test data for a pull request.
+- [ricardoapaes/docker-java-jlink](https://github.com/ricardoapaes/docker-java-jlink) ([v1.1.0](https://github.com/ricardoapaes/docker-java-jlink/releases/tag/v1.1.0), 7 months ago) - Imagem do Docker para gerar um jre usando jlink
 
 #### 🔨 Latest Pull Requests I published | Últimas solicitações pull que publiquei
 
